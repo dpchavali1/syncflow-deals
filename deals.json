@@ -4,38 +4,141 @@
       "title": "Apple AirPods Pro (2nd Gen)",
       "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX679_.jpg",
       "price": "$189",
-      "link": "https://www.amazon.com/dp/B0BDJ8J3XG/?tag=syncflow-20"
+      "link": "https://www.amazon.com/dp/B0BDJ8J3XG/?tag=syncflow-20",
+      "category": "Tech"
     },
     {
-      "title": "Anker USB-C Fast Charger (Nano II 65W)",
-      "image": "https://m.media-amazon.com/images/I/61K+YIyKcNL._AC_SX679_.jpg",
-      "price": "$39.99",
-      "link": "https://www.amazon.com/dp/B08V83JZH4/?tag=syncflow-20"
-    },
-    {
-      "title": "Samsung T7 Portable SSD 1TB",
+      "title": "Samsung T7 1TB Portable SSD",
       "image": "https://m.media-amazon.com/images/I/81Y6rNQ-sEL._AC_SX679_.jpg",
       "price": "$79.99",
-      "link": "https://www.amazon.com/dp/B0874XWWBH/?tag=syncflow-20"
+      "link": "https://www.amazon.com/dp/B0874XWWBH/?tag=syncflow-20",
+      "category": "Tech"
+    },
+    {
+      "title": "Anker 65W Fast Charger (Nano II)",
+      "image": "https://m.media-amazon.com/images/I/61K+YIyKcNL._AC_SX679_.jpg",
+      "price": "$39.99",
+      "link": "https://www.amazon.com/dp/B08V83JZH4/?tag=syncflow-20",
+      "category": "Tech"
     },
     {
       "title": "Echo Dot (5th Gen) Smart Speaker",
-      "image": "https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SX679_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71Rq4k05UL._AC_SX679_.jpg",
       "price": "$24.99",
-      "link": "https://www.amazon.com/dp/B09B8V1LZ3/?tag=syncflow-20"
+      "link": "https://www.amazon.com/dp/B09B8V1LZ3/?tag=syncflow-20",
+      "category": "Home"
     },
     {
       "title": "TP-Link Archer AX21 WiFi 6 Router",
       "image": "https://m.media-amazon.com/images/I/51K8b8gz9XL._AC_SX679_.jpg",
       "price": "$69.99",
-      "link": "https://www.amazon.com/dp/B08R6MP29C/?tag=syncflow-20"
+      "link": "https://www.amazon.com/dp/B08R6MP29C/?tag=syncflow-20",
+      "category": "Tech"
     },
     {
       "title": "Beats Studio Buds",
       "image": "https://m.media-amazon.com/images/I/51+MljrjKdL._AC_SX679_.jpg",
       "price": "$99.95",
-      "link": "https://www.amazon.com/dp/B096SV8SJG/?tag=syncflow-20"
+      "link": "https://www.amazon.com/dp/B096SV8SJG/?tag=syncflow-20",
+      "category": "Tech"
+    },
+    {
+      "title": "Fire TV Stick 4K",
+      "image": "https://m.media-amazon.com/images/I/51Yt+uRcYlL._AC_SX679_.jpg",
+      "price": "$29.99",
+      "link": "https://www.amazon.com/dp/B0BHTTDTR8/?tag=syncflow-20",
+      "category": "Home"
+    },
+    {
+      "title": "JBL Tune Buds True Wireless Earbuds",
+      "image": "https://m.media-amazon.com/images/I/61e1kG4mXFL._AC_SX679_.jpg",
+      "price": "$49.95",
+      "link": "https://www.amazon.com/dp/B0B1W996G8/?tag=syncflow-20",
+      "category": "Tech"
+    },
+    {
+      "title": "Logitech M720 Triathlon Wireless Mouse",
+      "image": "https://m.media-amazon.com/images/I/71D9ImsvEtL._AC_SX679_.jpg",
+      "price": "$34.99",
+      "link": "https://www.amazon.com/dp/B01JPOLLTK/?tag=syncflow-20",
+      "category": "Tech"
+    },
+    {
+      "title": "Sony WH-CH720N Noise Canceling Headphones",
+      "image": "https://m.media-amazon.com/images/I/61dSWGzxqEL._AC_SX679_.jpg",
+      "price": "$99",
+      "link": "https://www.amazon.com/dp/B0BSJKXZ5K/?tag=syncflow-20",
+      "category": "Tech"
+    },
+    {
+      "title": "Tile Mate Bluetooth Tracker (2024)",
+      "image": "https://m.media-amazon.com/images/I/61wG8RKy0WL._AC_SX679_.jpg",
+      "price": "$17.99",
+      "link": "https://www.amazon.com/dp/B09B9FVBWR/?tag=syncflow-20",
+      "category": "Accessories"
+    },
+    {
+      "title": "Hamilton Beach Breakfast Sandwich Maker",
+      "image": "https://m.media-amazon.com/images/I/71knJv1TujL._AC_SX679_.jpg",
+      "price": "$24.99",
+      "link": "https://www.amazon.com/dp/B00EI7DPS0/?tag=syncflow-20",
+      "category": "Home"
+    },
+    {
+      "title": "Oral-B Pro 500 Rechargeable Toothbrush",
+      "image": "https://m.media-amazon.com/images/I/71eHAaFZlGL._AC_SX679_.jpg",
+      "price": "$29.99",
+      "link": "https://www.amazon.com/dp/B01AKGRTUM/?tag=syncflow-20",
+      "category": "Home"
+    },
+    {
+      "title": "iRobot Roomba 694 Robot Vacuum",
+      "image": "https://m.media-amazon.com/images/I/71z06s4ZpxL._AC_SX679_.jpg",
+      "price": "$179",
+      "link": "https://www.amazon.com/dp/B08BZ3HGBY/?tag=syncflow-20",
+      "category": "Home"
+    },
+    {
+      "title": "Fitbit Inspire 3 Fitness Tracker",
+      "image": "https://m.media-amazon.com/images/I/61TdPJ3A+xL._AC_SX679_.jpg",
+      "price": "$79.95",
+      "link": "https://www.amazon.com/dp/B0B7CLDYH5/?tag=syncflow-20",
+      "category": "Fitness"
+    },
+    {
+      "title": "Garmin Forerunner 45 GPS Running Watch",
+      "image": "https://m.media-amazon.com/images/I/61ehQ9TBfFL._AC_SX679_.jpg",
+      "price": "$129.99",
+      "link": "https://www.amazon.com/dp/B07QPV6KXG/?tag=syncflow-20",
+      "category": "Fitness"
+    },
+    {
+      "title": "Keurig K-Mini Single Serve Coffee Maker",
+      "image": "https://m.media-amazon.com/images/I/71c+RgIlR1L._AC_SX679_.jpg",
+      "price": "$69",
+      "link": "https://www.amazon.com/dp/B07GVWVM3Y/?tag=syncflow-20",
+      "category": "Home"
+    },
+    {
+      "title": "COSORI Air Fryer Pro II",
+      "image": "https://m.media-amazon.com/images/I/61nRRPp1QCL._AC_SX679_.jpg",
+      "price": "$119",
+      "link": "https://www.amazon.com/ddp/B09FSW5FJJ/?tag=syncflow-20",
+      "category": "Home"
+    },
+    {
+      "title": "Instant Pot Duo Plus 9-in-1",
+      "image": "https://m.media-amazon.com/images/I/61kG4HqYLBL._AC_SX679_.jpg",
+      "price": "$99",
+      "link": "https://www.amazon.com/dp/B08PQ2KWHS/?tag=syncflow-20",
+      "category": "Home"
+    },
+    {
+      "title": "Blink Mini Smart Security Camera",
+      "image": "https://m.media-amazon.com/images/I/6129d4BxO+L._AC_SX679_.jpg",
+      "price": "$19.99",
+      "link": "https://www.amazon.com/dp/B07X27VK3D/?tag=syncflow-20",
+      "category": "Home"
     }
   ]
 }
-
