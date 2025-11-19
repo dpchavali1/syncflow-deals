@@ -2,16 +2,15 @@ name: Update Daily Deals
 
 on:
   schedule:
-    - cron: "0 14 * * *"   # runs daily at 9 AM EST (14 UTC)
-  workflow_dispatch:       # allow manual run
+    - cron: "0 14 * * *"  # 9 AM EST
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -19,9 +18,11 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install feedparser requests beautifulsoup4
+        run: pip install requests
 
       - name: Run Deal Fetch Script
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: python scripts/fetch_deals.py
 
       - name: Commit Updated deals.json
