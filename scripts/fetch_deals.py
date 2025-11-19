@@ -1,25 +1,12 @@
-import feedparser
 import json
-import re
 import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 AFFILIATE_TAG = "syncflow-20"
 OUTPUT_FILE = "deals.json"
 LIMIT = 100
 
-AMAZON_FEEDS = [
-    "https://www.amazon.com/gp/goldbox?format=rss",
-    "https://www.amazon.com/Best-Sellers/zgbs?format=rss",
-    "https://www.amazon.com/Most-Wished-For/zgbs?format=rss",
-]
-
-IMAGE_PATTERN = r"(https:\/\/[^\"\'\s]+?\.(?:jpg|jpeg|png|webp)(?:\?[^\"\'\s]*)?)"
-
-
-def log(msg):
-    print(f"[DEALS] {msg}")
+API_URL = "https://api.storeradar.io/amazon/daily-deals"
 
 
 def affiliate(url):
@@ -36,60 +23,41 @@ def upscale(img_url):
     return f"https://wsrv.nl/?url={img_url}&w=600&h=400&fit=cover"
 
 
-def extract_image_from_html(html):
-    soup = BeautifulSoup(html, "html.parser")
-
-    img_tag = soup.find("img")
-    if img_tag and img_tag.get("src"):
-        return img_tag.get("src")
-
-    match = re.search(IMAGE_PATTERN, html)
-    if match:
-        return match.group(1)
-
-    return None
-
-
-def clean_title(t):
-    return re.sub(r"[\n\r\t]+", " ", t).strip()
-
-
 def fetch_deals():
+    print("[DEALS] Fetching new Amazon deals ...")
+    resp = requests.get(API_URL, timeout=20)
+
+    if resp.status_code != 200:
+        print("[DEALS] ERROR: Bad response", resp.status_code)
+        return []
+
+    data = resp.json()
+    items = data.get("deals", [])
+
+    print(f"[DEALS] Received {len(items)} items.")
+
     deals = []
 
-    for feed_url in AMAZON_FEEDS:
-        log(f"Fetching feed: {feed_url}")
-        feed = feedparser.parse(feed_url)
+    for item in items[:LIMIT]:
+        title = item.get("title", "").strip()
+        price = item.get("price", "$?")
+        url = affiliate(item.get("url", ""))
+        img = item.get("image", "")
 
-        if not feed.entries:
-            log(f"⚠️ NO ENTRIES FOUND — likely Amazon blocked RSS or returned HTML.")
+        if not img or not title or not url:
             continue
 
-        log(f"Entries found: {len(feed.entries)}")
+        deal = {
+            "title": title,
+            "image": upscale(img),
+            "price": price,
+            "url": url,
+            "category": "Tech"
+        }
 
-        for entry in feed.entries:
-            title = clean_title(entry.title)
-            link = affiliate(entry.link)
+        deals.append(deal)
 
-            image = extract_image_from_html(entry.summary)
-            if not image:
-                log(f"❌ No image found for: {title}")
-                continue
-
-            deal = {
-                "title": title,
-                "image": upscale(image),
-                "price": "$?",
-                "url": link,
-                "category": "Tech"
-            }
-            deals.append(deal)
-
-            if len(deals) >= LIMIT:
-                log("Limit reached (100 items).")
-                return deals
-
-    log(f"Total deals collected: {len(deals)}")
+    print(f"[DEALS] Final deals count: {len(deals)}")
     return deals
 
 
