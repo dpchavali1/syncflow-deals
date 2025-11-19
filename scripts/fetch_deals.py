@@ -18,6 +18,10 @@ AMAZON_FEEDS = [
 IMAGE_PATTERN = r"(https:\/\/[^\"\'\s]+?\.(?:jpg|jpeg|png|webp)(?:\?[^\"\'\s]*)?)"
 
 
+def log(msg):
+    print(f"[DEALS] {msg}")
+
+
 def affiliate(url):
     if "tag=" in url:
         return url
@@ -54,7 +58,14 @@ def fetch_deals():
     deals = []
 
     for feed_url in AMAZON_FEEDS:
+        log(f"Fetching feed: {feed_url}")
         feed = feedparser.parse(feed_url)
+
+        if not feed.entries:
+            log(f"⚠️ NO ENTRIES FOUND — likely Amazon blocked RSS or returned HTML.")
+            continue
+
+        log(f"Entries found: {len(feed.entries)}")
 
         for entry in feed.entries:
             title = clean_title(entry.title)
@@ -62,20 +73,23 @@ def fetch_deals():
 
             image = extract_image_from_html(entry.summary)
             if not image:
+                log(f"❌ No image found for: {title}")
                 continue
 
             deal = {
                 "title": title,
                 "image": upscale(image),
-                "price": "$?",    # Can add price extraction later
+                "price": "$?",
                 "url": link,
                 "category": "Tech"
             }
             deals.append(deal)
 
             if len(deals) >= LIMIT:
+                log("Limit reached (100 items).")
                 return deals
 
+    log(f"Total deals collected: {len(deals)}")
     return deals
 
 
