@@ -2,6 +2,7 @@ import feedparser
 import json
 import re
 import requests
+from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 AFFILIATE_TAG = "syncflow-20"
@@ -14,10 +15,9 @@ AMAZON_FEEDS = [
     "https://www.amazon.com/Most-Wished-For/zgbs?format=rss",
 ]
 
-# Regex to extract image
-IMAGE_REGEX = r"(https:\/\/[^\s]+\.jpg)"
+IMAGE_PATTERN = r"(https:\/\/[^\"\'\s]+?\.(?:jpg|jpeg|png|webp)(?:\?[^\"\'\s]*)?)"
 
-# Clean and attach affiliate tag
+
 def affiliate(url):
     if "tag=" in url:
         return url
@@ -27,18 +27,28 @@ def affiliate(url):
     new_query = urlencode(query, doseq=True)
     return urlunparse(parsed._replace(query=new_query))
 
-# Upscale image using a free resizing proxy
+
 def upscale(img_url):
     return f"https://wsrv.nl/?url={img_url}&w=600&h=400&fit=cover"
 
-# Clean title
+
+def extract_image_from_html(html):
+    soup = BeautifulSoup(html, "html.parser")
+
+    img_tag = soup.find("img")
+    if img_tag and img_tag.get("src"):
+        return img_tag.get("src")
+
+    match = re.search(IMAGE_PATTERN, html)
+    if match:
+        return match.group(1)
+
+    return None
+
+
 def clean_title(t):
     return re.sub(r"[\n\r\t]+", " ", t).strip()
 
-# Extract first JPG
-def extract_image(text):
-    m = re.search(IMAGE_REGEX, text)
-    return m.group(1) if m else None
 
 def fetch_deals():
     deals = []
@@ -50,29 +60,30 @@ def fetch_deals():
             title = clean_title(entry.title)
             link = affiliate(entry.link)
 
-            image = extract_image(entry.summary) or ""
+            image = extract_image_from_html(entry.summary)
             if not image:
-                continue  # skip if no image
-
-            upscaled = upscale(image)
+                continue
 
             deal = {
                 "title": title,
-                "image": upscaled,
-                "price": "$?",            # RSS doesn't provide price
+                "image": upscale(image),
+                "price": "$?",    # Can add price extraction later
                 "url": link,
-                "category": "Tech"       # Default; can auto-detect later
+                "category": "Tech"
             }
-
             deals.append(deal)
 
-    # Limit results
-    return deals[:LIMIT]
+            if len(deals) >= LIMIT:
+                return deals
+
+    return deals
+
 
 def save_json(deals):
     output = {"deals": deals}
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
+
 
 if __name__ == "__main__":
     deals = fetch_deals()
