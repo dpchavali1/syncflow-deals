@@ -154,21 +154,27 @@ def fetch_feed(url, retries=3):
 
 
 def categorize(title):
-    lower = title.lower()
-    if "gpu" in lower or "rtx" in lower or "graphics" in lower:
-        return "Electronics"
-    if "ssd" in lower or "ram" in lower or "ssd" in lower:
-        return "Computer Parts"
-    if "headphone" in lower or "earbuds" in lower or "speaker" in lower:
-        return "Audio"
-    if "tv" in lower:
-        return "TV"
-    if "game" in lower or "controller" in lower:
-        return "Gaming"
-    if "shoe" in lower or "shirt" in lower or "pajama" in lower:
-        return "Clothing"
-    if "pan" in lower or "kitchen" in lower or "cookware" in lower:
-        return "Kitchen"
+    t = title.lower()
+
+    if any(x in t for x in ["ssd", "gpu", "ram", "keyboard", "mouse", "router",
+                            "ipad", "iphone", "tablet", "laptop", "monitor"]):
+        return "Tech"
+
+    if any(x in t for x in ["sofa", "mattress", "vacuum", "kitchen", "cookware",
+                            "air purifier", "heater", "humidifier"]):
+        return "Home"
+
+    if any(x in t for x in ["shoe", "fitness", "yoga", "treadmill",
+                            "dumbbell", "protein"]):
+        return "Fitness"
+
+    if any(x in t for x in ["case", "charger", "backpack", "watch band",
+                            "wallet"]):
+        return "Accessories"
+
+    if any(x in t for x in ["gift", "holiday", "christmas", "present"]):
+        return "Gifts"
+
     return "General"
 
 
