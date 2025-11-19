@@ -1,8 +1,8 @@
-name: Update Daily Deals
+name: Fetch RSS Deals
 
 on:
   schedule:
-    - cron: "0 14 * * *"   # 9AM EST
+    - cron: "0 14 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -19,18 +19,15 @@ jobs:
           python-version: "3.x"
 
       - name: Install Dependencies
-        run: pip install requests
+        run: pip install feedparser beautifulsoup4 requests
 
-      - name: Run Deal Fetch Script
-        env:
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
-        run: |
-          python scripts/fetch_deals.py
+      - name: Run RSS Deal Scraper
+        run: python scripts/fetch_rss_deals.py
 
-      - name: Commit Updated deals.json
+      - name: Commit Changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add deals.json
-          git commit -m "Daily deals update" || echo "No changes"
+          git commit -m "Updated RSS deals" || echo "No changes"
           git push
