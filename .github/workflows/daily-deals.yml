@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install Feedparser
+      - name: Install dependencies
         run: pip install feedparser requests beautifulsoup4
 
       - name: Run Deal Fetch Script
