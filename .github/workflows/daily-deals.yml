@@ -2,7 +2,7 @@ name: Fetch RSS Deals
 
 on:
   schedule:
-    - cron: "0 14 * * *"
+    - cron: "0 */2 * * *"   # Every 2 hours
   workflow_dispatch:
 
 jobs:
