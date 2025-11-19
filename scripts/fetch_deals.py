@@ -1,81 +1,104 @@
-import requests
+import feedparser
 import json
+import re
+import requests
+from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
-API_HOST = "realtime-amazon-data.p.rapidapi.com"
-API_KEY = "REPLACE_WITH_SECRET_ENV"   # we will use GitHub secret
+OUTPUT = "deals.json"
 AFFILIATE_TAG = "syncflow-20"
-OUTPUT_FILE = "deals.json"
-MAX_ITEMS = 100
+MAX_DEALS = 120
+
+RSS_FEEDS = [
+    "https://slickdeals.net/newsearch.php?searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/deals/?rss=1",
+    "https://www.reddit.com/r/buildapcsales/.rss",
+    "https://www.reddit.com/r/AmazonDeals/.rss",
+    "https://www.reddit.com/r/Frugal/.rss",
+    "https://www.dealnews.com/dealnews.xml",
+]
+
+IMG_REGEX = r"(https:\/\/[^\"\'\s]+?\.(?:jpg|jpeg|png|webp))"
 
 
 def add_affiliate(url):
-    parsed = urlparse(url)
-    query = parse_qs(parsed.query)
-    query["tag"] = AFFILIATE_TAG
-    new_query = urlencode(query, doseq=True)
-    return urlunparse(parsed._replace(query=new_query))
-
-
-def upscale(img):
-    if not img:
+    if "amazon.com" not in url:
         return None
-    return f"https://wsrv.nl/?url={img}&w=600&h=600&fit=cover"
+
+    parsed = urlparse(url)
+    q = parse_qs(parsed.query)
+    q["tag"] = AFFILIATE_TAG
+
+    return urlunparse(parsed._replace(query=urlencode(q, doseq=True)))
 
 
-def fetch_page(page):
-    url = f"https://{API_HOST}/deals?country=US&page={page}"
-    headers = {
-        "x-rapidapi-key": API_KEY,
-        "x-rapidapi-host": API_HOST
-    }
+def extract_image(html):
+    soup = BeautifulSoup(html, "html.parser")
 
-    print(f"[DEALS] Fetching page {page} ...")
-    r = requests.get(url, headers=headers, timeout=20)
+    img = soup.find("img")
+    if img and img.get("src"):
+        return img["src"]
 
-    if r.status_code != 200:
-        print("ERROR:", r.text)
-        return []
+    m = re.search(IMG_REGEX, html)
+    if m:
+        return m.group(1)
 
-    data = r.json()
-    if "data" not in data:
-        print("Invalid response:", data)
-        return []
+    return None
 
-    return data["data"].get("deals", [])
+
+def parse_feed(feed_url):
+    print(f"[RSS] Fetching {feed_url}")
+
+    feed = feedparser.parse(feed_url)
+    deals = []
+
+    for entry in feed.entries:
+        title = entry.get("title", "").strip()
+        summary = entry.get("summary", "")
+        link = entry.get("link", "")
+
+        if "amazon.com" not in link:
+            continue
+
+        aff_link = add_affiliate(link)
+        if not aff_link:
+            continue
+
+        image = extract_image(summary)
+        if not image:
+            continue
+
+        deals.append({
+            "title": title,
+            "image": image,
+            "price": "$?",
+            "url": aff_link,
+            "category": "General"
+        })
+
+        if len(deals) >= MAX_DEALS:
+            break
+
+    print(f"[RSS] Found {len(deals)} deals")
+    return deals
 
 
 def main():
     all_deals = []
-    page = 1
 
-    while len(all_deals) < MAX_ITEMS:
-        deals = fetch_page(page)
-        if not deals:
+    for feed in RSS_FEEDS:
+        all_deals.extend(parse_feed(feed))
+        if len(all_deals) >= MAX_DEALS:
             break
 
-        for d in deals:
-            product = {
-                "title": d.get("title"),
-                "image": upscale(d.get("thumbnail")),
-                "price": d.get("price") or "$?",
-                "url": add_affiliate(d.get("product_url")),
-                "category": d.get("category") or "Deals"
-            }
-            all_deals.append(product)
+    print(f"[TOTAL] Final deals count: {len(all_deals)}")
 
-            if len(all_deals) >= MAX_ITEMS:
-                break
+    final_json = {"deals": all_deals[:MAX_DEALS]}
 
-        page += 1
+    with open(OUTPUT, "w") as f:
+        json.dump(final_json, f, indent=2)
 
-    print(f"[DEALS] Total collected: {len(all_deals)}")
-
-    output = {"deals": all_deals}
-    with open(OUTPUT_FILE, "w") as f:
-        json.dump(output, f, indent=2)
-
-    print("[DEALS] Saved deals.json ✔")
+    print(f"[DONE] Saved → {OUTPUT}")
 
 
 if __name__ == "__main__":
