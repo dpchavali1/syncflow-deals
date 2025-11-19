@@ -6,6 +6,59 @@ import time
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urlencode, parse_qs, urlunparse
 
+# ---- AMAZON PAGE SCRAPER ----
+def scrape_amazon_details(asin):
+    """
+    Scrapes Amazon mobile page for price, rating, and review count.
+    Uses m.amazon.com (mobile) because parsing is easier and less blocked.
+    """
+    url = f"https://www.amazon.com/dp/{asin}?psc=1"
+    mobile_url = f"https://m.amazon.com/dp/{asin}"
+
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) "
+            "AppleWebKit/605.1.15 (KHTML, like Gecko) "
+            "Version/15.0 Mobile/15E148 Safari/604.1"
+        )
+    }
+
+    try:
+        page = requests.get(mobile_url, headers=headers, timeout=12)
+        soup = BeautifulSoup(page.text, "html.parser")
+
+        # PRICE -----------------------------------------------------
+        price = None
+        price_span = soup.find("span", string=re.compile(r"\$"))
+        if price_span:
+            price = price_span.get_text(strip=True)
+
+        # RATINGS ---------------------------------------------------
+        rating = None
+        rating_span = soup.find("span", string=re.compile(r"out of 5"))
+        if rating_span:
+            rating = rating_span.get_text(strip=True)
+
+        # REVIEW COUNT ----------------------------------------------
+        reviews = None
+        review_span = soup.find("span", string=re.compile(r"ratings?"))
+        if review_span:
+            reviews = review_span.get_text(strip=True)
+
+        return {
+            "price": price or "$?",
+            "rating": rating or "N/A",
+            "reviews": reviews or "N/A"
+        }
+
+    except Exception as e:
+        print(f"[SCRAPER] ERROR scraping ASIN {asin}: {e}")
+        return {
+            "price": "$?",
+            "rating": "N/A",
+            "reviews": "N/A"
+        }
+
 OUTPUT = "deals.json"
 AFFILIATE_TAG = "syncflow-20"
 MAX_DEALS = 80
@@ -154,16 +207,23 @@ def main():
                 continue
 
             # Extract price
-            price = extract_price(title)
+            details = scrape_amazon_details(asin)
+            price = details["price"]
+            rating = details["rating"]
+            reviews = details["reviews"]
+
 
             deals.append({
                 "title": title,
                 "image": image,
                 "price": price,
+                "rating": rating,
+                "reviews": reviews,
                 "url": amazon_url,
                 "category": categorize(title),
                 "timestamp": int(time.time())
             })
+
 
             if len(deals) >= MAX_DEALS:
                 break
