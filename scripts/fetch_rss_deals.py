@@ -2,6 +2,7 @@ import feedparser
 import json
 import re
 import requests
+import time
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urlencode, parse_qs, urlunparse
 
@@ -134,7 +135,8 @@ def main():
                 "image": image,
                 "price": "$?",
                 "url": amazon_url,
-                "category": "General"
+                "category": "General",
+                 "timestamp": int(time.time())
             })
 
             if len(deals) >= MAX_DEALS:
