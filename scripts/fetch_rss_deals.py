@@ -3,7 +3,7 @@ import json
 import re
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+from urllib.parse import urlparse, urlencode, parse_qs, urlunparse
 
 OUTPUT = "deals.json"
 AFFILIATE_TAG = "syncflow-20"
@@ -17,6 +17,12 @@ RSS_FEEDS = [
     "https://www.reddit.com/r/Frugal/.rss",
     "https://www.dealnews.com/dealnews.xml",
 ]
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/120.0 Safari/537.36"
+}
 
 IMG_REGEX = r"(https:\/\/[^\"\'\s]+?\.(?:jpg|jpeg|png|webp))"
 
@@ -34,8 +40,8 @@ def add_affiliate(url):
 
 def extract_image(html):
     soup = BeautifulSoup(html, "html.parser")
-
     img = soup.find("img")
+
     if img and img.get("src"):
         return img["src"]
 
@@ -46,54 +52,62 @@ def extract_image(html):
     return None
 
 
-def parse_feed(feed_url):
-    print(f"[RSS] Fetching {feed_url}")
+def fetch_feed(url):
+    print(f"[RSS] Fetching: {url}")
 
-    feed = feedparser.parse(feed_url)
-    deals = []
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=15)
+        content = resp.text
+        feed = feedparser.parse(content)
 
-    for entry in feed.entries:
-        title = entry.get("title", "").strip()
-        summary = entry.get("summary", "")
-        link = entry.get("link", "")
-
-        if "amazon.com" not in link:
-            continue
-
-        aff_link = add_affiliate(link)
-        if not aff_link:
-            continue
-
-        image = extract_image(summary)
-        if not image:
-            continue
-
-        deals.append({
-            "title": title,
-            "image": image,
-            "price": "$?",
-            "url": aff_link,
-            "category": "General"
-        })
-
-        if len(deals) >= MAX_DEALS:
-            break
-
-    print(f"[RSS] Found {len(deals)} deals")
-    return deals
+        print(f"[RSS] Entries found: {len(feed.entries)}")
+        return feed.entries
+    except Exception as e:
+        print(f"[RSS] ERROR: {e}")
+        return []
 
 
 def main():
     all_deals = []
 
-    for feed in RSS_FEEDS:
-        all_deals.extend(parse_feed(feed))
+    for feed_url in RSS_FEEDS:
+        entries = fetch_feed(feed_url)
+
+        for entry in entries:
+            title = entry.get("title", "").strip()
+            summary = entry.get("summary", "")
+            link = entry.get("link", "")
+
+            # Keep ONLY Amazon deals
+            if "amazon.com" not in link:
+                continue
+
+            aff_link = add_affiliate(link)
+            if not aff_link:
+                continue
+
+            # Extract image
+            image = extract_image(summary)
+            if not image:
+                continue
+
+            all_deals.append({
+                "title": title,
+                "image": image,
+                "price": "$?",    # optional placeholder
+                "url": aff_link,
+                "category": "General"
+            })
+
+            if len(all_deals) >= MAX_DEALS:
+                break
+
         if len(all_deals) >= MAX_DEALS:
             break
 
     print(f"[TOTAL] Final deals count: {len(all_deals)}")
 
-    final_json = {"deals": all_deals[:MAX_DEALS]}
+    final_json = {"deals": all_deals}
 
     with open(OUTPUT, "w") as f:
         json.dump(final_json, f, indent=2)
