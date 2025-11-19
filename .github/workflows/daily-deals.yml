@@ -1,0 +1,33 @@
+name: Update Daily Deals
+
+on:
+  schedule:
+    - cron: "0 14 * * *"   # runs daily at 9 AM EST (14 UTC)
+  workflow_dispatch:       # allow manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install Feedparser
+        run: pip install feedparser requests
+
+      - name: Run Deal Fetch Script
+        run: python scripts/fetch_deals.py
+
+      - name: Commit Updated deals.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add deals.json
+          git commit -m "Daily deals update" || echo "No changes"
+          git push
