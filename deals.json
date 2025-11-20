@@ -1,14 +1,34 @@
 {
   "deals": [
     {
-      "title": "Full Send: Stretch Trump - Squishy Fidget Toy, Shape-Stretch-Squeeze, Tough-Tech Material, Soft Political Plushie, Sensory Stress Reliever, Adults $27.99",
-      "image": "https://m.media-amazon.com/images/I/B0FN7Y2SGH._AC_SX679_.jpg",
+      "title": "Cat Scratch Furniture Protector, 78.7\"x15.8\" Self Adhesive Cat Scratch Mat Pad,Cut to Fit DIY Replacement Carpet for Tree,Wall,Bed,Door, Couch Protector (Dark Grey) $13.51",
+      "image": "https://m.media-amazon.com/images/I/B0F23DVRS5._AC_SX679_.jpg",
       "price": "$?",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FN7Y2SGH?th=1&tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0F23DVRS5?th=1&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628849
+      "timestamp": 1763635558
+    },
+    {
+      "title": "[CPU] Used Like New: Ryzen 7700X $173.26 | 7900X $187.74 | 7800X3D $265.48 | 9950X $388.08 (Amazon Resale)",
+      "image": "https://m.media-amazon.com/images/I/B0BTZB7F88._AC_SX679_.jpg",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0BTZB7F88/?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1763635562
+    },
+    {
+      "title": "[Laptop]- Used/Like New Condition Apple MacBook Air 13\" M4 Laptop: 256GB SSD, 16GB RAM - $519 after 30% off in cart (Amazon)",
+      "image": "https://m.media-amazon.com/images/I/B0DZD9S5GC._AC_SX679_.jpg",
+      "price": "$749.00 with 25 percent savings",
+      "rating": "4.8 out of 5 stars",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DZD9S5GC?ref=ppx_yo2ov_dt_b_fed_asin_title&amp%3Bth=1&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1763635563
     },
     {
       "title": "[GPU] PNY NVIDIA GeForce RTX\u2122 5070 Ti OC for $699",
@@ -18,17 +38,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0F67CNC72/?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763628853
-    },
-    {
-      "title": "[Cooler] Thermalright Peerless Assassin 120 SE - $28.79 Amazon",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Thermalright-Assassin120-PA120-Aluminium-Technology/dp/B09RWVV3XZ?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763628853
+      "timestamp": 1763635563
     },
     {
       "title": "[GPU] ASUS - Dual Radeon RX 9060 XT 16GB - $339.98 (Amazon)",
@@ -38,27 +48,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLHBFFX4?ref=cm_sw_r_cp_ud_dp_YN0HFHK6DKRYN0W23KYT_1&amp%3Bsocial_share=cm_sw_r_cp_ud_dp_YN0HFHK6DKRYN0W23KYT_1&amp%3Bth=1&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763628854
+      "timestamp": 1763635563
     },
     {
-      "title": "[Monitor] Alienware AW3423DWF Curved QD-OLED Gaming Monitor - 34-inch Quantum Dot OLED 0.1Ms 165Hz 21:9 Curved Display - $499.99 (Amazon)",
-      "image": "https://m.media-amazon.com/images/I/B0BP94J8VD._AC_SX679_.jpg",
+      "title": "[Cooler] Thermalright Peerless Assassin 120 SE - $28.79 Amazon",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$?",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/Alienware-AW3423DWF-Curved-QD-OLED-Monitor/dp/B0BP94J8VD/ref=sr_1_7?sr=8-7&tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1763628854
-    },
-    {
-      "title": "[Controller] 8BitDo Ultimate 2 Wireless Controller w/ TMR Joystick, 2.4G/BT/Wired Black/Purple/White - $47.69",
-      "image": "https://m.media-amazon.com/images/I/B0DR8V899R._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DR8V899R?tag=syncflow-20",
+      "url": "https://www.amazon.com/Thermalright-Assassin120-PA120-Aluminium-Technology/dp/B09RWVV3XZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628854
+      "timestamp": 1763635563
     },
     {
       "title": "[CPU] Intel\u00ae Core\u2122 i5-14600K Desktop Processor $149.99",
@@ -68,7 +68,27 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/i5-14600K-Desktop-Processor-Integrated-Graphics/dp/B0CGJ9STNF?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628854
+      "timestamp": 1763635563
+    },
+    {
+      "title": "[Monitor] Alienware AW3423DWF Curved QD-OLED Gaming Monitor - 34-inch Quantum Dot OLED 0.1Ms 165Hz 21:9 Curved Display - $499.99 (Amazon)",
+      "image": "https://m.media-amazon.com/images/I/B0BP94J8VD._AC_SX679_.jpg",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Alienware-AW3423DWF-Curved-QD-OLED-Monitor/dp/B0BP94J8VD/ref=sr_1_7?sr=8-7&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1763635563
+    },
+    {
+      "title": "[Controller] 8BitDo Ultimate 2 Wireless Controller w/ TMR Joystick, 2.4G/BT/Wired Black/Purple/White - $47.69",
+      "image": "https://m.media-amazon.com/images/I/B0DR8V899R._AC_SX679_.jpg",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DR8V899R?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1763635563
     },
     {
       "title": "[Monitor] MSI MPG 321URX - 32\" 4K UHD 240Hz QD-OLED | $799.99 (Amazon)",
@@ -78,27 +98,27 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CTSC3VS4?smid=ATVPDKIKX0DER&amp%3Bth=1&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763628855
+      "timestamp": 1763635563
     },
     {
-      "title": "[CPU] ntel\u00ae Core\u2122 i7-12700KF Desktop Processor $149.99",
-      "image": "https://m.media-amazon.com/images/I/B09FXKHN7M._AC_SX679_.jpg",
+      "title": "[SSD] Nextorage Japan NEM-PAB 4TB M.2 PCIe Gen4 NVMe with Heatsink - $219.99",
+      "image": "https://m.media-amazon.com/images/I/B0DSKB49NY._AC_SX679_.jpg",
       "price": "$?",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/Intel-i7-12700KF-Desktop-Processor-Unlocked/dp/B09FXKHN7M?th=1&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763628855
-    },
-    {
-      "title": "[GPU] PowerColor Hellhound Spectral White AMD Radeon RX 9070 XT 16GB for $490",
-      "image": "https://m.media-amazon.com/images/I/B0CVVJV5LV._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CVVJV5LV?psc=1&amp%3Bsmid=A2L77EE7U53NWQ&amp%3Bref_=chk_typ_imgToDp&tag=syncflow-20",
+      "url": "https://www.amazon.com/gp/product/B0DSKB49NY?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763628855
+      "timestamp": 1763635563
+    },
+    {
+      "title": "[Phone] Samsung Galaxy S25 Ultra 512GB Unlocked Android phone [USED - LIKE NEW] - $681.58",
+      "image": "https://m.media-amazon.com/images/I/B0DP3GBGCF._AC_SX679_.jpg",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0DP3GBGCF?smid=A2L77EE7U53NWQ&amp%3Bth=1&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1763635564
     },
     {
       "title": "$16.46 (UP TO 25% OFF) - Olight I1R 2 Pro( Keychain Flashlight) (reg 21.95)",
@@ -108,7 +128,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09KHBMLDV?maas=maas_adg_7E0C3CA6F904C366F3399018CE018E42_afap_abs&amp%3Bref_=aa_maas&amp%3Btag=maas&amp%3Bth=1&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628856
+      "timestamp": 1763635564
     },
     {
       "title": "Bose QuietComfort Headphones (-43%) $199.00",
@@ -118,7 +138,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V?pd_rd_w=yUeGH&amp%3Bcontent-id=amzn1.sym.b53801bb-781d-402b-a226-cef856332f2f&amp%3Bpf_rd_p=b53801bb-781d-402b-a226-cef856332f2f&amp%3Bpf_rd_r=0TQ22K5NMPETSE6VVMG6&amp%3Bpd_rd_wg=FUORl&amp%3Bpd_rd_r=026f50d7-8bcd-44b9-ae07-6549220d9428&amp%3Bpd_rd_i=B0CCZC9J1V&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=01b0e5be20e8e632f47402cf769fab6b&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628856
+      "timestamp": 1763635564
     },
     {
       "title": "ToLife Dehumidifier for Home 95 OZ Water Tank, 1000 sq.ft Dehumidifiers for Basement Bedroom Bathroom with Auto Shut Off 7 Colors LED Light, Grey $59 [26% off ]",
@@ -128,7 +148,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/ToLife-Dehumidifier-Dehumidifiers-Basement-Bathroom/dp/B0FHPKG6XF?crid=2R2OC98BF0VYK&amp%3Bdib=eyJ2IjoiMSJ9.F4Nzq2SHW1G844OCYmg7CmoIN0OrV7Hotc-2bgFaZ5GPpIi_IeGnyXbCSARq2xoMyh6E_I59werthsxR1aonD04Uw6Yh0_4mkrQoqOmRDllJs1HGthBHLEszYvvIDghwFjk-BfWdU2HdHdAIg0j0WJVO4oF3picNJ19wJf26tPu2irjQbMKSPXi0QI3xcLU32YArFa3kKOPe1kBwfzPto9Ak4q1XN30ysu62AaXqZ8o.IsC-CBkhCSkpuXB0bncTu9rgPpvrd952YIGcHyt98Uw&amp%3Bdib_tag=se&amp%3Bkeywords=dehumidifier&amp%3Bpsr=EY17&amp%3Bqid=1763580961&amp%3Bs=todays-deals&amp%3Bsprefix=dehumidifier%2Ctodays-deals%2C113&amp%3Bsr=1-2-spons&amp%3Bsp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp%3Bm=A3THO6LNBUTERB&amp%3BSPES=1&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6550ae5b9f560b57476282a2e0d0f456&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1763628856
+      "timestamp": 1763635564
     },
     {
       "title": "-30% LIMITED TIME SALE on an Air Fryer with 8 Quarter capacity and 50\u00b0F to 400\u00b0F Precise Control \u2013 Now only $111.99",
@@ -138,7 +158,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CVRTB2JN?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=5531163bd20732531aed56161b0c1fc1&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628856
+      "timestamp": 1763635564
     },
     {
       "title": "40% off - JBL Vibe Beam - True Wireless JBL Deep Bass Sound Earbuds with VoiceAware, Up to 32 hours of battery life (Black) - $29.95",
@@ -148,17 +168,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/JBL-Vibe-Beam-Wireless-Headphones/dp/B0BQPNMXQV?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628857
+      "timestamp": 1763635564
     },
     {
       "title": "Amazon Echo Show 15 (newest model), Full HD 15.6\" - $254.99 (15% off)",
       "image": "https://m.media-amazon.com/images/I/B0C5DPSW5Y._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$254.99 with 15 percent savings",
+      "rating": "4.4 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Echo-Show-15-Smart-Display/dp/B0C5DPSW5Y?crid=21KH2JPGX0AS&amp%3Bdib=eyJ2IjoiMSJ9._rnsu1SMsYugZVuR89PHXvOXoRv3Qvab3cZIv0hP1AA4sDXRvGaEaJrMKajRV8li8F3R0vdZXgnG8W-aovL2X7VIKkUrh7O9-CkKlpTY6A7THW2DXw1qboUgpAh22smBFD7Vve7hADC4OoIrBL_Su5zN2BiNLF6ZsPnqRL4TgzEok3MJpXzCj29m-Iog2r0st2l5VK-oBgoWihCzmm4qIMkPsZ8Snyr91kWE9jcYO9E.ng3IcW6byBnVnMyvtCdbCIN4Ek2brjrgS8XTli_5E0A&amp%3Bdib_tag=se&amp%3Bkeywords=echo%2Bshow%2B15&amp%3Bqid=1763528460&amp%3Bsprefix=echo%2Bs%2Caps%2C132&amp%3Bsr=8-1&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=bedf0c770d3facc75c4268b1bad28625&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628857
+      "timestamp": 1763635565
     },
     {
       "title": "Family Matching Holiday Pajamas 100% Organic Cotton for $5.8 (68% OFF)",
@@ -168,7 +188,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CV5NNFBW?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=71451a0fea6fde69160ad2f78ab7b242&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1763628857
+      "timestamp": 1763635566
     },
     {
       "title": "Hisense 40-Inch Class QD4 Series QLED FHD $149.99(-40%)",
@@ -178,17 +198,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FBYQHQH1?psc=1&amp%3Bpd_rd_i=B0FBYQHQH1&amp%3Bpd_rd_w=6QZgr&amp%3Bcontent-id=amzn1.sym.85ceacba-39b1-4243-8f28-2e014f9512c7&amp%3Bpf_rd_p=85ceacba-39b1-4243-8f28-2e014f9512c7&amp%3Bpf_rd_r=QJ39SAGQ9MZ6NFM5R7AD&amp%3Bpd_rd_wg=qwOqO&amp%3Bpd_rd_r=e657f2c5-cba6-4064-acf7-bc4ab9c83a0e&amp%3Bsp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=dca69f4511659687a4e78973c86ecd23&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628857
+      "timestamp": 1763635566
     },
     {
       "title": "-24% SALE for only $279.99 | TCL NXTPAPER 11 Plus Android Tablet \u2014 11.5\" 120Hz 2.2K Display, Stylus & Flip Case Included, 256GB Storage",
       "image": "https://m.media-amazon.com/images/I/B0FLJMFNR7._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$249.99 with 32 percent savings",
+      "rating": "4.4 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLJMFNR7?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=e4fa788e0855957c2fdce2d9621eb7f0&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763628858
+      "timestamp": 1763635567
     },
     {
       "title": "Kasa Indoor Pan/Tilt Smart Security Camera, 1080p HD Dog-Camera,2.4GHz with Night Vision,Motion Detection for Baby and Pet Monitor, Cloud & SD Card Storage, Works with Alexa& Google Home (EC70) $22 [ 27% off ]",
@@ -198,17 +218,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B08GHX9G5L?th=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=587188f05a7730991f37a5cb272821a0&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763628858
+      "timestamp": 1763635567
     },
     {
       "title": "Amazon Fire HD 10\" tablet, 64GB - $79.99 (56% off)",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$79.99 with 56 percent savings",
+      "rating": "4.5 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon_Fire_HD_10/dp/B0BL5PYD69?crid=3PSDN652D6OER&amp%3Bdib=eyJ2IjoiMSJ9.Igm_G-pC__cIe28XS5-tWs5DJiid_DGu8Ec43S8FpLNvZZu9ktG4DY_-bmtUGfXEa4XE_MsJdnUKyZ4E6oEEvBIA-MgS14NQS9JaEU3tq95b8ltF-VHtrM9CUhqP54zcNSEQOWKImQFbAXdREXlpU9HYAOiZqco470ulk8L7nYPYcVx-mB8isP0h8u18SVqgBBy4WjNlIRyP2VmByFRGkwjo100eF4_t7_SbZd22Jz8.bDo_HfflUVUtqCyMf21P1GpW45An5bsZ1z8rfwyU1Kk&amp%3Bdib_tag=se&amp%3Bkeywords=fire%2Btablet&amp%3Bqid=1763412371&amp%3Bsprefix=%2Caps%2C131&amp%3Bsr=8-2&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=20c94f5efd176b0a6f348b2f373b6a61&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763628858
+      "timestamp": 1763635568
     },
     {
       "title": "-30% LIMITED TIME SALE on a 1500W Portable Electric Space Heater for Indoor Use, with Remote, 5 Modes, Safety Protection, Child Lock & 12H Timer \u2013 Now $72.99",
@@ -218,7 +238,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FKN3WY96?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=2ed27fa5b22ce2566d42b363bcbc1b50&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1763628858
+      "timestamp": 1763635568
     },
     {
       "title": "JBL Go 3 - Portable Mini Bluetooth Speaker, big audio and punchy bass, IP67 waterproof and dustproof, 5 hours of playtime, speaker for home, outdoor and travel (Black) - $30 [ 25% off ]",
@@ -228,7 +248,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/JBL-Bluetooth-Built-Waterproof-Dustproof/dp/B08KW1KR5H?pf_rd_r=6ZKS1HH8365FY4D5AEAP&amp%3Bpf_rd_p=7d7fd1a0-40b8-487f-8db9-b2480f2cfbc8&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=c8b2035bb8756b116493100f6d831cf7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628859
+      "timestamp": 1763635568
     },
     {
       "title": "Olight I3T EOS for $12.59 (30% OFF, Black Friday Price)(11.20-12.1)",
@@ -238,7 +258,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Olight-I3T-EOS-Lumens-Dual-Output/dp/B07DLRK7Q5/ref=sr_1_3?dib=eyJ2IjoiMSJ9.FVhWKdbOV3-gj5Gfzm95alcPsWkCLEsN8iPNkmMtKAqPsN_lNckz_4heG_ocVNxsa18CbfM3TdD-o_fYlWsR3c6XqDhLL-rljnuuS7-MQgxvyJFdJ2ijfEo&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628859
+      "timestamp": 1763635568
     },
     {
       "title": "Ninja Mega Kitchen System for $99 (55% OFF, Black Friday Price)",
@@ -248,7 +268,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00939I7EK?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=a2d532d10a3174313c405bdedc40683b&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1763628859
+      "timestamp": 1763635568
     },
     {
       "title": "LexmarkCX532adwe MFP Color Laser Printer with Touch Screen - $525 (47% off)",
@@ -258,7 +278,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CB99WWK4?th=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=7c7cad33ed6a74792a96c0b0865e50fc&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763628859
+      "timestamp": 1763635568
     }
   ]
 }
