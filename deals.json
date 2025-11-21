@@ -1,74 +1,44 @@
 {
   "deals": [
     {
-      "title": "PS5 PlayStation DualSense\u00ae Wireless Controllers - $54.99 at Amazon",
-      "image": "https://m.media-amazon.com/images/I/B0CQKKHT5J._AC_SX679_.jpg",
-      "price": "$54.99 with 27 percent savings",
-      "rating": "4.7 out of 5 stars",
+      "title": "GUND Disney Official Daisy Duck Classic Plush, Mickey and Friends, Deluxe Collector Stuffed Animal for Ages 1 and Up, Blue/White, 14\u201d $12.64",
+      "image": "https://m.media-amazon.com/images/I/B0DBLQJCPF._AC_SX679_.jpg",
+      "price": "$12.64 with 64 percent savings",
+      "rating": "4.9 out of 5 stars",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/PlayStatio...B0CQKKHT5J?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0DBLQJCPF?th=1&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736127
+      "timestamp": 1763743605
     },
     {
-      "title": "Twisters - Collector's Edition 4K Ultra HD + Blu-ray + Digital physical disc $13.49 Free Shipping Amazon Prime",
-      "image": "https://m.media-amazon.com/images/I/KIKX0DER13._AC_SX679_.jpg",
+      "title": "THIRDREALITY ZigBee Smart Button $11.99",
+      "image": "https://m.media-amazon.com/images/I/B0BTGXWXPR._AC_SX679_.jpg",
       "price": "$?",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/Twisters-4...KIKX0DER13?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0BTGXWXPR?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736127
-    },
-    {
-      "title": "Monopoly Harry Potter Edition Board Game $22.49+ BOGO 50% off deal",
-      "image": "https://m.media-amazon.com/images/I/5GGX7MSEKB._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/promotion/...5GGX7MSEKB?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763736127
-    },
-    {
-      "title": "Blade Runner 2049 (4K Ultra HD + Blu-ray) (4K Ultra) Physical Disc $12.49 Free Shipping Amazon Prime",
-      "image": "https://m.media-amazon.com/images/I/PDKIKX0DER._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Blade-Runn...PDKIKX0DER?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763736127
-    },
-    {
-      "title": "Live Die Repeat: Edge of Tomorrow (4K UHD + Blu-ray) Physical Disc $10.99 Free Shipping Amazon Prime",
-      "image": "https://m.media-amazon.com/images/I/B09YL2CYCN._AC_SX679_.jpg",
-      "price": "$10.99 with 20 percent savings",
-      "rating": "4.8 out of 5 stars",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Edge-of-To...B09YL2CYCN?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763736129
-    },
-    {
-      "title": "Devotion 4K UHD + Digital Code Physical Disc $11.99 Free Shipping Amazon Prime",
-      "image": "https://m.media-amazon.com/images/I/B0BMLGVNGS._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Devotion-4...B0BMLGVNGS?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763736129
+      "timestamp": 1763743605
     },
     {
       "title": "[GPU] PNY 5070 - $489.99 (11% off Amazon)",
       "image": "https://m.media-amazon.com/images/I/B0DYPFGL88._AC_SX679_.jpg",
-      "price": "$489.99 with 11 percent savings",
-      "rating": "4.6 out of 5 stars",
+      "price": "$?",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DYPFGL88?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763736134
+      "timestamp": 1763743610
+    },
+    {
+      "title": "[Controller]PlayStation DualSense\u00ae Wireless Controller - Midnight Black - $54.99 Sold by Amazon",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$54.99 with 27 percent savings",
+      "rating": "4.7 out of 5 stars",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CQKKHT5J?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1763743612
     },
     {
       "title": "[MONITOR] Alienware AW3423DWF Curved QD-OLED Gaming Monitor - 34\" WQHD 165Hz 21:9 [USED - LIKE NEW] - $383.99 via Amazon",
@@ -78,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0BP94J8VD?smid=A2L77EE7U53NWQ&amp%3Bth=1&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763736135
+      "timestamp": 1763743612
     },
     {
       "title": "[Case] Fractal Design Pop Air RGB White ATX Mid-Tower Case (Tempered Glass) - $59.99 (Amazon, Prime Shipping)",
@@ -88,17 +58,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08KTLD9LS?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1763736135
+      "timestamp": 1763743612
     },
     {
       "title": "[PSU] be quiet! Pure Power 13 M 1000W 80+ Gold ATX 3.1 Fully Modular PSU 2025 $111.90 ($199 - 44% on Amazon) A- Tier",
       "image": "https://m.media-amazon.com/images/I/B0FBXX1D17._AC_SX679_.jpg",
-      "price": "$111.90 with 44 percent savings",
-      "rating": "4.7 out of 5 stars",
+      "price": "$?",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/quiet-Certification-semi-Passive-Technology-Overclocked/dp/B0FBXX1D17?th=1&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736136
+      "timestamp": 1763743613
     },
     {
       "title": "[Headphones] Sennheiser HD 599 SE Open Back Headphone - $99.95",
@@ -108,17 +78,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Sennheiser-HD-599-SE-Headphone/dp/B07RFNZYJZ/?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736136
-    },
-    {
-      "title": "[Speakers] Kanto Ora4 (Cream and 'Moon') - $254 ($299 -15%)",
-      "image": "https://m.media-amazon.com/images/I/B0FGYC44PC._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Kanto-Reference-Bluetooth-Extension-Bi-Amplified/dp/B0FGYC44PC?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763736136
+      "timestamp": 1763743613
     },
     {
       "title": "[Headset] DROP PC38X Gaming Headset \u2013 Open-Back Over-Ear Design with Noise-Cancelling Mic - $149",
@@ -128,7 +88,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FDH3NK2L?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736137
+      "timestamp": 1763743613
     },
     {
       "title": "[PREBUILT] - Cooler Master NR2 Pro Mini ITX - RTX 5080 - Intel Ultra 7 265F w/ 280mm AIO Cooler - 32GB RAM - 2TB M.2 SSD - $1899 ($700 Off w/ Coupon)",
@@ -138,17 +98,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cooler-Master-NR2-Pro-Mini/dp/B0F646G2BX?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763736137
+      "timestamp": 1763743613
     },
     {
       "title": "[MONITOR] Alienware AW3425DWM Curved Gaming Monitor - 34\" VA WQHD 180Hz [USED - LIKE NEW] - $187.10 via Amazon",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$269.99",
+      "rating": "4.5 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DZL719V1?smid=A2L77EE7U53NWQ&amp%3Bth=1&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763736137
+      "timestamp": 1763743615
     },
     {
       "title": "[Headphones] AirPods 4 $80 | AirPods 4 with ANC $110 | AirPods Pro 2 $139 | AirPods Pro 3 $220",
@@ -158,27 +118,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Headphones-Cancellation-Transparency-Personalized/dp/B0DGJ7HYG1?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736138
-    },
-    {
-      "title": "[Monitor] [Amazon Resale] Alienware 34 240Hz QD-OLED Curved Gaming Monitor - AW3425DW - $450.44 ($643.49 - 30%)",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Alienware-QD-OLED-Curved-Gaming-Monitor/dp/B0F6724X5N?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1763736138
+      "timestamp": 1763743615
     },
     {
       "title": "PS5 Digital Console Slim - 399 (20% off)",
       "image": "https://m.media-amazon.com/images/I/B0CL5KNB9M._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$399.00 with 20 percent savings",
+      "rating": "4.7 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CL5KNB9M?th=1&amp%3BlinkCode=sl1&amp%3Btag=f-25-20&amp%3BlinkId=92c8d35ee5350d3a30e17c482fcabf12&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736138
+      "timestamp": 1763743617
     },
     {
       "title": "30% off - Anker Prime Power Bank, 26,250mAh 3-Port Portable Battery with 300W Max Output - Just $159",
@@ -188,7 +138,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F66LNB8D?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736139
+      "timestamp": 1763743617
     },
     {
       "title": "Soundcore Liberty 4 Pro by Anker at $89.99 (40% off) Black Friday Deal",
@@ -198,7 +148,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Soundcore-Cancelling-Wireless-Real-Time-Studio-Level/dp/B0DBHPZLCC?th=1&amp%3BlinkCode=ll1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=bc3dad816fbab4d4646b0a68a3cb0375&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736139
+      "timestamp": 1763743618
     },
     {
       "title": "5-Pack 6' Anker USB Type-C 100W Fast Charging Cord $13 [ 45% off ]",
@@ -208,7 +158,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CCRRRDXQ?ie=UTF8&amp%3B_encoding=UTF8&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=a3bf5c42f829795d94220dd045743b13&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736139
+      "timestamp": 1763743618
     },
     {
       "title": "-32% BLACK FRIDAY DEAL on a Men\u2019s Waterproof Windproof Hooded Jacket, Insulated Lightweight Winter Snow Coat \u2013 Now $40.79",
@@ -218,27 +168,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FGXM6TML?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=de03eeb7f14315bd14320e79c4c004ff&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736139
+      "timestamp": 1763743618
     },
     {
       "title": "[Amazon Deal] HP OMEN 32c QHD 165Hz Curved Gaming Monitor - $179.99/38%",
       "image": "https://m.media-amazon.com/images/I/B0C1HCDNN3._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$179.99 with 38 percent savings",
+      "rating": "4.7 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C1HCDNN3?tag=mkodrdt-20&amp%3Bth=1",
       "category": "Tech",
-      "timestamp": 1763736139
-    },
-    {
-      "title": "15% off - JIGOO Mattress Vacuum Cleaner UV Sanitizing - $59.49",
-      "image": "https://m.media-amazon.com/images/I/B0DKF6V2CV._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DKF6V2CV?tag=syncflow-20",
-      "category": "Home",
-      "timestamp": 1763736140
+      "timestamp": 1763743620
     },
     {
       "title": "NIMBOT B1 Lable Maker with Tapes at $16 [60% off]",
@@ -248,7 +188,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXXL32PZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736140
+      "timestamp": 1763743620
+    },
+    {
+      "title": "15% off - JIGOO Mattress Vacuum Cleaner UV Sanitizing - $59.49",
+      "image": "https://m.media-amazon.com/images/I/B0DKF6V2CV._AC_SX679_.jpg",
+      "price": "$59.49",
+      "rating": "4.4 out of 5 stars",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DKF6V2CV?tag=syncflow-20",
+      "category": "Home",
+      "timestamp": 1763743621
     },
     {
       "title": "Drone for beginners/kids with 1080P camera for $29 (25% OFF)",
@@ -258,7 +208,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FERIETELF-T29-Drone-Camera-Kids/dp/B0FQCB3SMK?pf_rd_r=E9XC3TN57N9YV1H3ABYN&amp%3Bpf_rd_p=be87d57f-af20-4eb5-8544-d36e62ce1a8d&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=8e18906b0bfe30f114d4d591ce6c8662&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736140
+      "timestamp": 1763743622
     },
     {
       "title": "ECOFLOW Power Station DELTA 3 Max, 2048Wh LiFePO4 Battery - $699 (42% off)",
@@ -268,7 +218,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQV6LMVX/ref=cm_sw_r_as_gl_api_gl_i_dl_DP6Q1KCCA0W61QAZ57FC?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=cc40c87d04258ce94daa7ffc2cf7512c&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736140
+      "timestamp": 1763743622
     },
     {
       "title": "$16.46 (UP TO 25% OFF) - Olight I1R 2 Pro( Keychain Flashlight) (reg 21.95)",
@@ -278,7 +228,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09KHBMLDV?maas=maas_adg_7E0C3CA6F904C366F3399018CE018E42_afap_abs&amp%3Bref_=aa_maas&amp%3Btag=maas&amp%3Bth=1&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736140
+      "timestamp": 1763743622
     },
     {
       "title": "Bose QuietComfort Headphones (-43%) $199.00",
@@ -288,7 +238,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V?pd_rd_w=yUeGH&amp%3Bcontent-id=amzn1.sym.b53801bb-781d-402b-a226-cef856332f2f&amp%3Bpf_rd_p=b53801bb-781d-402b-a226-cef856332f2f&amp%3Bpf_rd_r=0TQ22K5NMPETSE6VVMG6&amp%3Bpd_rd_wg=FUORl&amp%3Bpd_rd_r=026f50d7-8bcd-44b9-ae07-6549220d9428&amp%3Bpd_rd_i=B0CCZC9J1V&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=01b0e5be20e8e632f47402cf769fab6b&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736141
+      "timestamp": 1763743622
     },
     {
       "title": "ToLife Dehumidifier for Home 95 OZ Water Tank, 1000 sq.ft Dehumidifiers for Basement Bedroom Bathroom with Auto Shut Off 7 Colors LED Light, Grey $59 [26% off ]",
@@ -298,7 +248,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/ToLife-Dehumidifier-Dehumidifiers-Basement-Bathroom/dp/B0FHPKG6XF?crid=2R2OC98BF0VYK&amp%3Bdib=eyJ2IjoiMSJ9.F4Nzq2SHW1G844OCYmg7CmoIN0OrV7Hotc-2bgFaZ5GPpIi_IeGnyXbCSARq2xoMyh6E_I59werthsxR1aonD04Uw6Yh0_4mkrQoqOmRDllJs1HGthBHLEszYvvIDghwFjk-BfWdU2HdHdAIg0j0WJVO4oF3picNJ19wJf26tPu2irjQbMKSPXi0QI3xcLU32YArFa3kKOPe1kBwfzPto9Ak4q1XN30ysu62AaXqZ8o.IsC-CBkhCSkpuXB0bncTu9rgPpvrd952YIGcHyt98Uw&amp%3Bdib_tag=se&amp%3Bkeywords=dehumidifier&amp%3Bpsr=EY17&amp%3Bqid=1763580961&amp%3Bs=todays-deals&amp%3Bsprefix=dehumidifier%2Ctodays-deals%2C113&amp%3Bsr=1-2-spons&amp%3Bsp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp%3Bm=A3THO6LNBUTERB&amp%3BSPES=1&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6550ae5b9f560b57476282a2e0d0f456&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1763736141
+      "timestamp": 1763743623
     },
     {
       "title": "-30% LIMITED TIME SALE on an Air Fryer with 8 Quarter capacity and 50\u00b0F to 400\u00b0F Precise Control \u2013 Now only $111.99",
@@ -308,17 +258,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CVRTB2JN?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=5531163bd20732531aed56161b0c1fc1&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736141
+      "timestamp": 1763743623
     },
     {
       "title": "40% off - JBL Vibe Beam - True Wireless JBL Deep Bass Sound Earbuds with VoiceAware, Up to 32 hours of battery life (Black) - $29.95",
       "image": "https://m.media-amazon.com/images/I/B0BQPNMXQV._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$29.95",
+      "rating": "4.2 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/JBL-Vibe-Beam-Wireless-Headphones/dp/B0BQPNMXQV?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736141
+      "timestamp": 1763743625
     },
     {
       "title": "Amazon Echo Show 15 (newest model), Full HD 15.6\" - $254.99 (15% off)",
@@ -328,17 +278,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Echo-Show-15-Smart-Display/dp/B0C5DPSW5Y?crid=21KH2JPGX0AS&amp%3Bdib=eyJ2IjoiMSJ9._rnsu1SMsYugZVuR89PHXvOXoRv3Qvab3cZIv0hP1AA4sDXRvGaEaJrMKajRV8li8F3R0vdZXgnG8W-aovL2X7VIKkUrh7O9-CkKlpTY6A7THW2DXw1qboUgpAh22smBFD7Vve7hADC4OoIrBL_Su5zN2BiNLF6ZsPnqRL4TgzEok3MJpXzCj29m-Iog2r0st2l5VK-oBgoWihCzmm4qIMkPsZ8Snyr91kWE9jcYO9E.ng3IcW6byBnVnMyvtCdbCIN4Ek2brjrgS8XTli_5E0A&amp%3Bdib_tag=se&amp%3Bkeywords=echo%2Bshow%2B15&amp%3Bqid=1763528460&amp%3Bsprefix=echo%2Bs%2Caps%2C132&amp%3Bsr=8-1&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=bedf0c770d3facc75c4268b1bad28625&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736142
+      "timestamp": 1763743625
     },
     {
       "title": "Family Matching Holiday Pajamas 100% Organic Cotton for $5.8 (68% OFF)",
       "image": "https://m.media-amazon.com/images/I/B0CV5NNFBW._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$17.99",
+      "rating": "4.2 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CV5NNFBW?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=71451a0fea6fde69160ad2f78ab7b242&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1763736142
+      "timestamp": 1763743627
     },
     {
       "title": "Hisense 40-Inch Class QD4 Series QLED FHD $149.99(-40%)",
@@ -348,7 +298,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FBYQHQH1?psc=1&amp%3Bpd_rd_i=B0FBYQHQH1&amp%3Bpd_rd_w=6QZgr&amp%3Bcontent-id=amzn1.sym.85ceacba-39b1-4243-8f28-2e014f9512c7&amp%3Bpf_rd_p=85ceacba-39b1-4243-8f28-2e014f9512c7&amp%3Bpf_rd_r=QJ39SAGQ9MZ6NFM5R7AD&amp%3Bpd_rd_wg=qwOqO&amp%3Bpd_rd_r=e657f2c5-cba6-4064-acf7-bc4ab9c83a0e&amp%3Bsp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=dca69f4511659687a4e78973c86ecd23&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763736142
+      "timestamp": 1763743627
     }
   ]
 }
