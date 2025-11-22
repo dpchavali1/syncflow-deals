@@ -1,16 +1,6 @@
 {
   "deals": [
     {
-      "title": "3 pair Gaiam Grippy Studio Yoga Socks for Extra Grip in Standard or Hot Yoga $10.09 FS w/Prime",
-      "image": "https://m.media-amazon.com/images/I/B0DNR8F333._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Gaiam-Wome...B0DNR8F333?tag=syncflow-20",
-      "category": "Fitness",
-      "timestamp": 1763801103
-    },
-    {
       "title": "[Headphones] Apple AirPods 4 with Active Noise Cancellation - $99.99 - All Time Low",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$?",
@@ -18,27 +8,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Headphones-Cancellation-Transparency-Personalized/dp/B0DGJ7HYG1?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801108
+      "timestamp": 1763807851
     },
     {
       "title": "[Prebuilt] Beelink Ser5 5500U 16G/500G [Used - Like New] - $151.71 (30% off discount in cart)",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$279.00",
-      "rating": "4.4 out of 5 stars",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CH7XHM7M?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1763801110
-    },
-    {
-      "title": "[PSU] SAMA G1000 1000W 80+ Gold ATX 3.1 power supply - A- tier list - $91.99",
-      "image": "https://m.media-amazon.com/images/I/B0F998GTVN._AC_SX679_.jpg",
       "price": "$?",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F998GTVN?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0CH7XHM7M?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801111
+      "timestamp": 1763807851
     },
     {
       "title": "[MONITOR] INNOCN GA27T1M 27\" 2K QHD 2560 x 1440P 320Hz Mini-LED HDR1000 $319.99 ($379.99 - $60) Black Friday Deal",
@@ -48,7 +28,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FJ2H6LK4?ref=ppx_yo2ov_dt_b_fed_asin_title&amp%3Bth=1&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763801111
+      "timestamp": 1763807851
+    },
+    {
+      "title": "[PSU] SAMA G1000 1000W 80+ Gold ATX 3.1 power supply - A- tier list - $91.99",
+      "image": "https://m.media-amazon.com/images/I/B0F998GTVN._AC_SX679_.jpg",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0F998GTVN?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1763807851
     },
     {
       "title": "[Headphones] Fractal Design Scape Dark - Wireless PC Gaming Headset - $115.42",
@@ -58,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Fractal-Design-Scape-Flip-Mute/dp/B0D5HGK3C2/?th=1&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801112
+      "timestamp": 1763807851
     },
     {
       "title": "[GPU] PNY 5070 - $489.99 (11% off Amazon)",
@@ -68,7 +58,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DYPFGL88?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1763801112
+      "timestamp": 1763807852
     },
     {
       "title": "$11.99 (40%off)- IMINI2 (Rechargeable Keychain Flashlight) (reg $19.99)",
@@ -78,7 +68,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C54ZH8WW?maas=maas_adg_2860F02223079BCE94B90051CD890C5D_afap_abs&amp%3Bref_=aa_maas&amp%3Btag=maas&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801113
+      "timestamp": 1763807852
     },
     {
       "title": "-15% BLACK FRIDAY DEAL on an Ergonomic Office Chair with Adjustable Headrest, Lumbar Support, Mesh Design & Flip-Up Armrests \u2014 Now $118.99",
@@ -88,17 +78,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F8VKS8KZ?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=533bc0814695a9d71891fd968ac35231&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801114
+      "timestamp": 1763807852
     },
     {
       "title": "Carhartt Men's Loose Fit Midweight Logo Sleeve Graphic Sweatshirt $44.99 [ 25% off ]",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$44.99 with 25 percent savings",
-      "rating": "4.8 out of 5 stars",
+      "price": "$?",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Carhartt-Midweight-Sleeve-Sweatshirt-Regular/dp/B002G9UD8C?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=c9196ff4277c5e30b06975ba7baaea9d&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801115
+      "timestamp": 1763807852
     },
     {
       "title": "ThermoMaven Smart Bluetooth Wireless Meat Thermometer at $94.99 [37% off]",
@@ -108,7 +98,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D1TMFTPN?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801115
+      "timestamp": 1763807852
     },
     {
       "title": "PS5 Digital Console Slim - 399 (20% off)",
@@ -118,7 +108,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CL5KNB9M?th=1&amp%3BlinkCode=sl1&amp%3Btag=f-25-20&amp%3BlinkId=92c8d35ee5350d3a30e17c482fcabf12&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801116
+      "timestamp": 1763807852
     },
     {
       "title": "JBL Tune - Wireless On-Ear Headphones for $19.95 (67% OFF)",
@@ -128,7 +118,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C1HGKNG7?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=afaaa92b7bd6e805f6a3a5506c65767a&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801116
+      "timestamp": 1763807853
     },
     {
       "title": "30% off - Anker Prime Power Bank, 26,250mAh 3-Port Portable Battery with 300W Max Output - Just $159",
@@ -138,7 +128,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F66LNB8D?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801117
+      "timestamp": 1763807853
     },
     {
       "title": "Soundcore Liberty 4 Pro by Anker at $89.99 (40% off) Black Friday Deal",
@@ -148,7 +138,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Soundcore-Cancelling-Wireless-Real-Time-Studio-Level/dp/B0DBHPZLCC?th=1&amp%3BlinkCode=ll1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=bc3dad816fbab4d4646b0a68a3cb0375&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801117
+      "timestamp": 1763807853
     },
     {
       "title": "5-Pack 6' Anker USB Type-C 100W Fast Charging Cord $13 [ 45% off ]",
@@ -158,7 +148,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CCRRRDXQ?ie=UTF8&amp%3B_encoding=UTF8&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=a3bf5c42f829795d94220dd045743b13&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801118
+      "timestamp": 1763807853
     },
     {
       "title": "-32% BLACK FRIDAY DEAL on a Men\u2019s Waterproof Windproof Hooded Jacket, Insulated Lightweight Winter Snow Coat \u2013 Now $40.79",
@@ -168,17 +158,17 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FGXM6TML?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=de03eeb7f14315bd14320e79c4c004ff&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801118
+      "timestamp": 1763807853
     },
     {
       "title": "[Amazon Deal] HP OMEN 32c QHD 165Hz Curved Gaming Monitor - $179.99/38%",
       "image": "https://m.media-amazon.com/images/I/B0C1HCDNN3._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$179.99 with 38 percent savings",
+      "rating": "4.7 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C1HCDNN3?tag=mkodrdt-20&amp%3Bth=1",
       "category": "Tech",
-      "timestamp": 1763801119
+      "timestamp": 1763807854
     },
     {
       "title": "NIMBOT B1 Lable Maker with Tapes at $16 [60% off]",
@@ -188,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXXL32PZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801119
+      "timestamp": 1763807854
     },
     {
       "title": "15% off - JIGOO Mattress Vacuum Cleaner UV Sanitizing - $59.49",
@@ -198,7 +188,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DKF6V2CV?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1763801120
+      "timestamp": 1763807854
     },
     {
       "title": "Drone for beginners/kids with 1080P camera for $29 (25% OFF)",
@@ -208,7 +198,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FERIETELF-T29-Drone-Camera-Kids/dp/B0FQCB3SMK?pf_rd_r=E9XC3TN57N9YV1H3ABYN&amp%3Bpf_rd_p=be87d57f-af20-4eb5-8544-d36e62ce1a8d&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=8e18906b0bfe30f114d4d591ce6c8662&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801120
+      "timestamp": 1763807855
     },
     {
       "title": "ECOFLOW Power Station DELTA 3 Max, 2048Wh LiFePO4 Battery - $699 (42% off)",
@@ -218,7 +208,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQV6LMVX/ref=cm_sw_r_as_gl_api_gl_i_dl_DP6Q1KCCA0W61QAZ57FC?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=cc40c87d04258ce94daa7ffc2cf7512c&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801121
+      "timestamp": 1763807855
     },
     {
       "title": "$16.46 (UP TO 25% OFF) - Olight I1R 2 Pro( Keychain Flashlight) (reg 21.95)",
@@ -228,7 +218,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09KHBMLDV?maas=maas_adg_7E0C3CA6F904C366F3399018CE018E42_afap_abs&amp%3Bref_=aa_maas&amp%3Btag=maas&amp%3Bth=1&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801121
+      "timestamp": 1763807855
     },
     {
       "title": "Bose QuietComfort Headphones (-43%) $199.00",
@@ -238,7 +228,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V?pd_rd_w=yUeGH&amp%3Bcontent-id=amzn1.sym.b53801bb-781d-402b-a226-cef856332f2f&amp%3Bpf_rd_p=b53801bb-781d-402b-a226-cef856332f2f&amp%3Bpf_rd_r=0TQ22K5NMPETSE6VVMG6&amp%3Bpd_rd_wg=FUORl&amp%3Bpd_rd_r=026f50d7-8bcd-44b9-ae07-6549220d9428&amp%3Bpd_rd_i=B0CCZC9J1V&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=01b0e5be20e8e632f47402cf769fab6b&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1763801122
+      "timestamp": 1763807855
     },
     {
       "title": "ToLife Dehumidifier for Home 95 OZ Water Tank, 1000 sq.ft Dehumidifiers for Basement Bedroom Bathroom with Auto Shut Off 7 Colors LED Light, Grey $59 [26% off ]",
@@ -248,7 +238,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/ToLife-Dehumidifier-Dehumidifiers-Basement-Bathroom/dp/B0FHPKG6XF?crid=2R2OC98BF0VYK&amp%3Bdib=eyJ2IjoiMSJ9.F4Nzq2SHW1G844OCYmg7CmoIN0OrV7Hotc-2bgFaZ5GPpIi_IeGnyXbCSARq2xoMyh6E_I59werthsxR1aonD04Uw6Yh0_4mkrQoqOmRDllJs1HGthBHLEszYvvIDghwFjk-BfWdU2HdHdAIg0j0WJVO4oF3picNJ19wJf26tPu2irjQbMKSPXi0QI3xcLU32YArFa3kKOPe1kBwfzPto9Ak4q1XN30ysu62AaXqZ8o.IsC-CBkhCSkpuXB0bncTu9rgPpvrd952YIGcHyt98Uw&amp%3Bdib_tag=se&amp%3Bkeywords=dehumidifier&amp%3Bpsr=EY17&amp%3Bqid=1763580961&amp%3Bs=todays-deals&amp%3Bsprefix=dehumidifier%2Ctodays-deals%2C113&amp%3Bsr=1-2-spons&amp%3Bsp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp%3Bm=A3THO6LNBUTERB&amp%3BSPES=1&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6550ae5b9f560b57476282a2e0d0f456&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1763801122
+      "timestamp": 1763807855
     }
   ]
 }
