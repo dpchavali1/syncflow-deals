@@ -29,7 +29,7 @@ RSS_FEEDS = [
     "https://www.dealnews.com/dealnews.xml",
     "https://www.dealnews.com/rss/",
     "https://hip2save.com/category/amazon/feed/",
-    "https://www.edealinfo.com/rss/daily.xml"
+    "https://www.edealinfo.com/rss/daily.xml",
 ]
 
 HEADERS = {
