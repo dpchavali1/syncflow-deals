@@ -14,22 +14,17 @@ REQUEST_TIMEOUT = 15
 REQUEST_RETRIES = 2
 
 RSS_FEEDS = [
-    # Slickdeals
-    "https://slickdeals.net/newsearch.php?searcharea=deals&searchin=first&rss=1",
-    "https://slickdeals.net/deals/?rss=1",
-
-    # Reddit – Amazon & tech deals
-    "https://www.reddit.com/r/AmazonDeals/.rss",
-    "https://www.reddit.com/r/buildapcsales/.rss",
-    "https://www.reddit.com/r/deals/.rss",
-    "https://www.reddit.com/r/Frugal/.rss",
-    "https://www.reddit.com/r/DealReddit/.rss",
-
-    # DealNews
-    "https://www.dealnews.com/dealnews.xml",
-    "https://www.dealnews.com/rss/",
-    "https://hip2save.com/category/amazon/feed/",
-    "https://www.edealinfo.com/rss/daily.xml",
+         # Main Aggregators
+         "https://slickdeals.net/newsearch.php?searchin=first&rss=1",
+         "https://www.dealnews.com/rss/",
+     
+         # Reddit
+         "https://www.reddit.com/r/buildapcsales/.rss",
+         "https://www.reddit.com/r/deals/.rss",
+     
+        # Other Deal Sites
+        "https://bensbargains.com/rss/amazon.xml",
+        "https://www.retailmenot.com/rss/",
 ]
 
 HEADERS = {
