@@ -16,15 +16,16 @@ REQUEST_RETRIES = 2
 RSS_FEEDS = [
          # Main Aggregators
          "https://slickdeals.net/newsearch.php?searchin=first&rss=1",
-         "https://www.dealnews.com/rss/",
+         "https://www.dealnews.com/?rss=1",
      
          # Reddit
          "https://www.reddit.com/r/buildapcsales/.rss",
          "https://www.reddit.com/r/deals/.rss",
      
         # Other Deal Sites
-        "https://bensbargains.com/rss/amazon.xml",
-        "https://www.retailmenot.com/rss/",
+        "https://happydealhappyday.com/category/amazon-deals/feed/",
+        "https://moneysavingmom.com/category/amazon-deals/feed/",
+        "https://fabulesslyfrugal.com/deals/store/amazon/feed/",
 ]
 
 HEADERS = {
