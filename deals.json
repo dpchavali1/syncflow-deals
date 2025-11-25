@@ -1,184 +1,202 @@
 {
   "deals": [
     {
-      "title": "[GPU] (Open Box)GIGABYTE 9060 XT 16GB - $257 with 30% discount",
-      "image": "https://m.media-amazon.com/images/I/B0F91KM1CK._AC_SX679_.jpg",
-      "price": "$?",
+      "id": "B0F91KM1CK",
+      "title": "(Open Box)GIGABYTE 9060 XT 16GB - $257 with 30% discount",
+      "image": "https://m.media-amazon.com/images/I/B0F91KM1CK._AC_SL1500_.jpg",
+      "price": "$257",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0F91KM1CK?smid=A2L77EE7U53NWQ&amp%3Bth=1&tag=syncflow-20",
+      "url": "https://www.amazon.com/gp/product/B0F91KM1CK?smid=A2L77EE7U53NWQ&amp%3Bth=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1764091829
+    },
+    {
+      "id": "B0795DP124",
+      "title": "Arctic MX4 4 grams - $5.50 Amazon",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$5.50",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0795DP124/\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1764089893
+      "timestamp": 1764091829
     },
     {
-      "title": "[Other- Thermal Paste] Arctic MX4 4 grams - $5.50 Amazon",
+      "id": "B07X64Z8RM",
+      "title": "Rubbermaid Brilliance BPA Free 44-Piece Food Storage Containers - $79",
+      "image": "https://m.media-amazon.com/images/I/B07X64Z8RM._AC_SL1500_.jpg",
+      "price": "$79",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B07X64Z8RM?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=cae2d4de543f32c1e27ff8af84fe8c67&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1764091830
+    },
+    {
+      "id": "B0CGYH4VG8",
+      "title": "LEGO Star Wars: A New Hope Tantive IV, Buildable 25th Anniversary Starship Model (75376) $40/50%",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
+      "price": "$40",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0795DP124/?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1764089894
+      "url": "https://www.amazon.com/dp/B0CGYH4VG8?tag=syncflow-20",
+      "category": "Gifts",
+      "timestamp": 1764091830
     },
     {
-      "title": "Rubbermaid Brilliance BPA Free 44-Piece Food Storage Containers - $79 (38% OFF)",
-      "image": "https://m.media-amazon.com/images/I/B07X64Z8RM._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B07X64Z8RM?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=cae2d4de543f32c1e27ff8af84fe8c67&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1764089895
-    },
-    {
-      "title": "[Amazon Deal] LEGO Star Wars: A New Hope Tantive IV, Buildable 25th Anniversary Starship Model (75376) $40/50%",
+      "id": "B0BN3595K5",
+      "title": "X-Sense Smart Smoke Detector Fire Alarm XS01-WX, 3-Pack - $53.96",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
+      "price": "$53.96",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CGYH4VG8?tag=mkodrdt-20",
+      "url": "https://www.amazon.com/dp/B0BN3595K5?th=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=60256b864b9c142a2e7ddb6d93b4ba00&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764089896
+      "timestamp": 1764091830
     },
     {
-      "title": "X-Sense Smart Smoke Detector Fire Alarm XS01-WX, 3-Pack - $53.96 (51% off)",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
+      "id": "B0DCCJZC9F",
+      "title": "Oral-B iO Deep Clean + Protect at $120 Black Friday Final",
+      "image": "https://m.media-amazon.com/images/I/B0DCCJZC9F._AC_SL1500_.jpg",
+      "price": "$120",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0BN3595K5?th=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=60256b864b9c142a2e7ddb6d93b4ba00&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0DCCJZC9F?ref=t_ac_view_request_product_image&amp%3BcampaignId=amzn1.campaign.3UBAH00EDFPB4&amp%3BlinkCode=tr1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=amzn1.campaign.3UBAH00EDFPB4_1764024026679%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764089896
+      "timestamp": 1764091830
     },
     {
-      "title": "Oral-B iO Deep Clean + Protect at $120 (48% off) Black Friday Final",
-      "image": "https://m.media-amazon.com/images/I/B0DCCJZC9F._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DCCJZC9F?ref=t_ac_view_request_product_image&amp%3BcampaignId=amzn1.campaign.3UBAH00EDFPB4&amp%3BlinkCode=tr1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=amzn1.campaign.3UBAH00EDFPB4_1764024026679&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1764089897
-    },
-    {
+      "id": "B0DDNL6FP2",
       "title": "-15% BLACK FRIDAY DEAL on a Rihero Women\u2019s Fashion Sneakers \u2014 Comfortable walking shoes, casual lace-up, non-slip design \u2014 Now $22.94",
-      "image": "https://m.media-amazon.com/images/I/B0DDNL6FP2._AC_SX679_.jpg",
-      "price": "$?",
+      "image": "https://m.media-amazon.com/images/I/B0DDNL6FP2._AC_SL1500_.jpg",
+      "price": "$22.94",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DDNL6FP2?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=c081b484307d34795913721003a536b0&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0DDNL6FP2?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=c081b484307d34795913721003a536b0&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1764089897
+      "timestamp": 1764091830
     },
     {
+      "id": "B00939I7EK",
       "title": "Ninja Mega Kitchen System - $99 (Regular $220)",
-      "image": "https://m.media-amazon.com/images/I/B00939I7EK._AC_SX679_.jpg",
-      "price": "$?",
+      "image": "https://m.media-amazon.com/images/I/B00939I7EK._AC_SL1500_.jpg",
+      "price": "$99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B00939I7EK?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=313bea2cdbe5886e97e83ec2eed5318f&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B00939I7EK?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=313bea2cdbe5886e97e83ec2eed5318f&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1764089897
+      "timestamp": 1764091830
     },
     {
-      "title": "LISEN USB C Cable 10FT, Chubby 100W USB C to USB C Fast Charging Cable, Soft Silicone Long USBC to USBC for iPhone 17 Air 16 15 Pro Max, Samsung S25, MacBook Pro/Air, Switch 2, iPad $9.49 [ 53% off ]",
+      "id": "B0F5QPFLRM",
+      "title": "LISEN USB C Cable 10FT, Chubby 100W USB C to USB C Fast Charging Cable, Soft Silicone Long USBC to USBC for iPhone 17 Air 16 15 Pro Max, Samsung S25, MacBook Pro/Air, Switch 2, iPad $9.49",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
+      "price": "$9.49",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/LISEN-Charging-Silicone-Samsung-MacBook/dp/B0F5QPFLRM?pd_rd_w=WA635&amp%3Bcontent-id=amzn1.sym.679481c3-2bf4-4843-80c0-ffb319282e84%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&amp%3Bpf_rd_p=679481c3-2bf4-4843-80c0-ffb319282e84&amp%3Bpf_rd_r=PV9ZRHE9Y5QR7MT9XXXX&amp%3Bpd_rd_wg=qKmzv&amp%3Bpd_rd_r=f92f13be-2f7c-4f9a-b3b4-f7850a8e855b&amp%3Bpd_rd_i=B0F5QPFLRM&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=0832031f777df618cba7569645cfb8ab&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
+      "url": "https://www.amazon.com/LISEN-Charging-Silicone-Samsung-MacBook/dp/B0F5QPFLRM?pd_rd_w=WA635&amp%3Bcontent-id=amzn1.sym.679481c3-2bf4-4843-80c0-ffb319282e84%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&amp%3Bpf_rd_p=679481c3-2bf4-4843-80c0-ffb319282e84&amp%3Bpf_rd_r=PV9ZRHE9Y5QR7MT9XXXX&amp%3Bpd_rd_wg=qKmzv&amp%3Bpd_rd_r=f92f13be-2f7c-4f9a-b3b4-f7850a8e855b&amp%3Bpd_rd_i=B0F5QPFLRM&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=0832031f777df618cba7569645cfb8ab&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1764089898
+      "timestamp": 1764091830
     },
     {
-      "title": "[Amazon] JMOON Microcurrent Facial Device (Red) - $399.00 + Free Shipping - 33% Off",
+      "id": "B0F5QD1BY1",
+      "title": "JMOON Microcurrent Facial Device (Red) - $399.00 + Free Shipping - 33% Off",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
+      "price": "$399.00",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F5QD1BY1?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0F5QD1BY1\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764089898
+      "timestamp": 1764091831
     },
     {
-      "title": "[Amazon Deal] Instant Pot 6.5 Quart Duo Crisp Ultimate Lid with WIFI, 13-in-1 Air Fryer and Pressure Cooker Combo - $129.99/48%",
-      "image": "https://m.media-amazon.com/images/I/B0CHL9G36H._AC_SX679_.jpg",
-      "price": "$?",
+      "id": "B0CHL9G36H",
+      "title": "Instant Pot 6.5 Quart Duo Crisp Ultimate Lid with WIFI, 13-in-1 Air Fryer and Pressure Cooker Combo - $129.99/48%",
+      "image": "https://m.media-amazon.com/images/I/B0CHL9G36H._AC_SL1500_.jpg",
+      "price": "$129.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CHL9G36H?amp%3Btag=mkodrdt-20&tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0CHL9G36H?amp%3Btag=mkodrdt-20%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764089899
+      "timestamp": 1764091831
     },
     {
-      "title": "Govee S14 Bulb Outdoor String Lights 2, 96ft Smart RGBIC Warm White Patio Lights with 30 LED Bulbs - $69.99 (42% off)",
-      "image": "https://m.media-amazon.com/images/I/B0F21SVF9R._AC_SX679_.jpg",
-      "price": "$?",
+      "id": "B0F21SVF9R",
+      "title": "Govee S14 Bulb Outdoor String Lights 2, 96ft Smart RGBIC Warm White Patio Lights with 30 LED Bulbs - $69.99",
+      "image": "https://m.media-amazon.com/images/I/B0F21SVF9R._AC_SL1500_.jpg",
+      "price": "$69.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F21SVF9R?pf_rd_r=69DWCH7PKS7JRP7R6P6R&amp%3Bpf_rd_m=ATVPDKIKX0DER&amp%3Bpf_rd_t=AmazonStores&amp%3Bpf_rd_i=955085B3-85CC-417B-AD85-4028F36EFEAB&amp%3Bpf_rd_s=AWLSWidget-1&amp%3Basc_contentid=amzn1.amazonlive.broadcast.d714401a-b0f0-493d-8a46-dc646596f35d&amp%3Bpd_rd_i=B0F21SVF9R&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=e6eee9a2753c98a61bdbbb614c1c0567&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1764089899
-    },
-    {
-      "title": "Anker 315 67W USB C PIQ 3.0 Compact Wall Charger $18 [ 40% off ]",
-      "image": "https://m.media-amazon.com/images/I/B0C33KSJNF._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0C33KSJNF?ie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=cc52b1ebeacbc8c9d59d14fd53aecc29&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
-      "category": "Accessories",
-      "timestamp": 1764089900
-    },
-    {
-      "title": "-41% BLACK FRIDAY DEAL on a Wireless Gaming Headset for PS5/PS4/PC, 2.4GHz USB & Type-C, 40H+ Battery, 7.1 Surround Sound, Noise-Canceling Mic \u2013 Now $23.45",
-      "image": "https://m.media-amazon.com/images/I/B0C5DCRRN7._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0C5DCRRN7?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=015794aa8586e11f44c9b9f3199622e6&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1764089900
-    },
-    {
-      "title": "Waterpik Aquarius Water Flosser For $49.99 (50% OFF)",
-      "image": "https://m.media-amazon.com/images/I/B072JFVXSY._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B072JFVXSY?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=cf89c43dc68b080078ec962f7e9950a3&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1764089901
-    },
-    {
-      "title": "Afloia Air Purifiers for Home Bedroom Large Room Up to 1076 Ft\u00b2, 3-Stage Filter Cleaner Odor Eliminator, Remove Pets Dust Dander Hair Allergy Mold Pollen Smoke Smell, Quiet 22 dB, 7 Colors Night Light $59.49 [ 26% off ]",
-      "image": "https://m.media-amazon.com/images/I/B08PCXJVFH._AC_SX679_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Afloia-Purifier-3-Stage-Purifiers-Eliminator/dp/B08PCXJVFH?pd_rd_w=Cmn1A&amp%3Bcontent-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&amp%3Bpf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&amp%3Bpf_rd_r=F9ZKCV70AFV8DK54G76H&amp%3Bpd_rd_wg=fs0a4&amp%3Bpd_rd_r=38e96373-8554-446d-a6c8-b39cad867961&amp%3Bpd_rd_i=B08PCXJVFH&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6bbd4fe9fc0473de80e2e12578757499&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0F21SVF9R?pf_rd_r=69DWCH7PKS7JRP7R6P6R&amp%3Bpf_rd_m=ATVPDKIKX0DER&amp%3Bpf_rd_t=AmazonStores&amp%3Bpf_rd_i=955085B3-85CC-417B-AD85-4028F36EFEAB&amp%3Bpf_rd_s=AWLSWidget-1&amp%3Basc_contentid=amzn1.amazonlive.broadcast.d714401a-b0f0-493d-8a46-dc646596f35d&amp%3Bpd_rd_i=B0F21SVF9R&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=e6eee9a2753c98a61bdbbb614c1c0567&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1764089901
+      "timestamp": 1764091831
     },
     {
-      "title": "[Amazon Deal] CORSAIR 6500X Tempered Glass Mid-Tower ATX PC Case - $99.99/50%",
-      "image": "https://m.media-amazon.com/images/I/B0CQ5FJKVN._AC_SX679_.jpg",
-      "price": "$?",
+      "id": "B0C33KSJNF",
+      "title": "Anker 315 67W USB C PIQ 3.0 Compact Wall Charger $18",
+      "image": "https://m.media-amazon.com/images/I/B0C33KSJNF._AC_SL1500_.jpg",
+      "price": "$18",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CQ5FJKVN?amp%3Btag=mkodrdt-20&tag=syncflow-20",
+      "url": "https://www.amazon.com/gp/product/B0C33KSJNF?ie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=cc52b1ebeacbc8c9d59d14fd53aecc29&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1764089901
+      "timestamp": 1764091831
     },
     {
-      "title": "Govee Smart Light Bulbs, Color Changing Light Bulb, Work with Alexa and Google Assistant, 16 Million Colors RGBWW, WiFi & Bluetooth LED Light Bulbs, Music Sync, A19, 800 Lumens, 4 Pack - $24 [ 40% off ]",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
+      "id": "B0C5DCRRN7",
+      "title": "-41% BLACK FRIDAY DEAL on a Wireless Gaming Headset for PS5/PS4/PC, 2.4GHz USB & Type-C, 40H+ Battery, 7.1 Surround Sound, Noise-Canceling Mic \u2013 Now $23.45",
+      "image": "https://m.media-amazon.com/images/I/B0C5DCRRN7._AC_SL1500_.jpg",
+      "price": "$23.45",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/Govee-Changing-Dynamic-Bluetooth-Assistant/dp/B09B7NQT2K?_encoding=UTF8&amp%3Bpd_rd_w=XugDz&amp%3Bcontent-id=amzn1.sym.4730c314-8583-4a6d-8f2c-8ca5d5933508&amp%3Bpf_rd_p=4730c314-8583-4a6d-8f2c-8ca5d5933508&amp%3Bpf_rd_r=B46PZNVAXCS7K9CR68MF&amp%3Bpd_rd_wg=MnBJ7&amp%3Bpd_rd_r=4d1d62d8-befa-4790-97dd-c67747f073a7&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=8292c1d3040523a2bab4f54a100c0ec5&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl&tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0C5DCRRN7?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=015794aa8586e11f44c9b9f3199622e6&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764089902
+      "timestamp": 1764091831
+    },
+    {
+      "id": "B072JFVXSY",
+      "title": "Waterpik Aquarius Water Flosser For $49.99",
+      "image": "https://m.media-amazon.com/images/I/B072JFVXSY._AC_SL1500_.jpg",
+      "price": "$49.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B072JFVXSY?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=cf89c43dc68b080078ec962f7e9950a3&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1764091831
+    },
+    {
+      "id": "B08PCXJVFH",
+      "title": "Afloia Air Purifiers for Home Bedroom Large Room Up to 1076 Ft\u00b2, 3-Stage Filter Cleaner Odor Eliminator, Remove Pets Dust Dander Hair Allergy Mold Pollen Smoke Smell, Quiet 22 dB, 7 Colors Night Light $59.49",
+      "image": "https://m.media-amazon.com/images/I/B08PCXJVFH._AC_SL1500_.jpg",
+      "price": "$59.49",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Afloia-Purifier-3-Stage-Purifiers-Eliminator/dp/B08PCXJVFH?pd_rd_w=Cmn1A&amp%3Bcontent-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&amp%3Bpf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&amp%3Bpf_rd_r=F9ZKCV70AFV8DK54G76H&amp%3Bpd_rd_wg=fs0a4&amp%3Bpd_rd_r=38e96373-8554-446d-a6c8-b39cad867961&amp%3Bpd_rd_i=B08PCXJVFH&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6bbd4fe9fc0473de80e2e12578757499&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Home",
+      "timestamp": 1764091831
+    },
+    {
+      "id": "B0CQ5FJKVN",
+      "title": "CORSAIR 6500X Tempered Glass Mid-Tower ATX PC Case - $99.99/50%",
+      "image": "https://m.media-amazon.com/images/I/B0CQ5FJKVN._AC_SL1500_.jpg",
+      "price": "$99.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CQ5FJKVN?amp%3Btag=mkodrdt-20%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1764091831
+    },
+    {
+      "id": "B09B7NQT2K",
+      "title": "Govee Smart Light Bulbs, Color Changing Light Bulb, Work with Alexa and Google Assistant, 16 Million Colors RGBWW, WiFi & Bluetooth LED Light Bulbs, Music Sync, A19, 800 Lumens, 4 Pack - $24",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$24",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Govee-Changing-Dynamic-Bluetooth-Assistant/dp/B09B7NQT2K?_encoding=UTF8&amp%3Bpd_rd_w=XugDz&amp%3Bcontent-id=amzn1.sym.4730c314-8583-4a6d-8f2c-8ca5d5933508&amp%3Bpf_rd_p=4730c314-8583-4a6d-8f2c-8ca5d5933508&amp%3Bpf_rd_r=B46PZNVAXCS7K9CR68MF&amp%3Bpd_rd_wg=MnBJ7&amp%3Bpd_rd_r=4d1d62d8-befa-4790-97dd-c67747f073a7&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=8292c1d3040523a2bab4f54a100c0ec5&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Home",
+      "timestamp": 1764091832
     }
   ]
 }
