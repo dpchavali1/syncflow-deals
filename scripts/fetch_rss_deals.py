@@ -45,7 +45,7 @@ MOBILE_HEADERS = {
 }
 
 # ---- REGEX & HELPERS ----
-AMAZON_LINK_REGEX = r"(https:\/\/(?:www\.)?amazon\.com\/[^\s"']+)"
+AMAZON_LINK_REGEX = r'(https:\/\/(?:www\.)?amazon\.com\/[^\s"']+)'
 ASIN_REGEX = r"([A-Z0-9]{10})"
 PRICE_REGEX = r"(\$[0-9]+(?:\.[0-9]{1,2})?)"
 
