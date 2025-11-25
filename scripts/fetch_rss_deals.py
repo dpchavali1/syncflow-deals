@@ -23,9 +23,13 @@ RSS_FEEDS = [
     "https://www.reddit.com/r/buildapcsales/.rss",
     "https://www.reddit.com/r/deals/.rss",
     "https://www.reddit.com/r/Frugal/.rss",
+    "https://www.reddit.com/r/DealReddit/.rss",
 
     # DealNews
-    "https://www.dealnews.com/dealnews.xml"
+    "https://www.dealnews.com/dealnews.xml",
+    "https://www.dealnews.com/rss/",
+    "https://hip2save.com/category/amazon/feed/",
+    "https://www.edealinfo.com/rss/daily.xml"
 ]
 
 HEADERS = {
