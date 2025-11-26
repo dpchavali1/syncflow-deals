@@ -1,6 +1,17 @@
 {
   "deals": [
     {
+      "id": "B0FKVTBBL4",
+      "title": "MSI MAG 271QP QD-OLED X28 1440P 280HZ",
+      "image": "https://m.media-amazon.com/images/I/B0FKVTBBL4._AC_SL1500_.jpg",
+      "price": "$379.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/MAG-271QP-QD-OLED-X28-Adaptive-Sync/dp/B0FKVTBBL4\">[link]</a></span>?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1764189338
+    },
+    {
       "id": "B08T1Z4PD1",
       "title": "NETGEAR Nighthawk 5-Stream AX5 WiFi 6 Router (RAX43) AX4200 - $49.99 @ Amazon Renewed",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
@@ -9,18 +20,29 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/NETGEAR-Nighthawk-5-Stream-Router-RAX43/dp/B08T1Z4PD1\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1764183076
+      "timestamp": 1764189338
+    },
+    {
+      "id": "B0FZD6HZYC",
+      "title": "Crucial T710 Gen5 2TB SSD, Up to 14,900MB/s Read Plus DDR5 Pro OC CL32 RAM 32GB Kit (2x16GB), 6400MHz CL32, Black - Storage & Memory Bundle",
+      "image": "https://m.media-amazon.com/images/I/B0FZD6HZYC._AC_SL1500_.jpg",
+      "price": "$368.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0FZD6HZYC/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1764189338
     },
     {
       "id": "B0F99BFKL1",
       "title": "White SAMA P1200 1200W Platinum Power Supply \u2013 Fully Modular ATX 3.1 PSU | PCIe 5.1 & 12V-2x6 Ready (A Tier on SPL's list) - $104.99 w/Coupon",
       "image": "https://m.media-amazon.com/images/I/B0F99BFKL1._AC_SL1500_.jpg",
       "price": "$104.99",
-      "rating": "4.6 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F99BFKL1?smid=A2PLY15784G1JK&amp%3Bth=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183077
+      "timestamp": 1764189338
     },
     {
       "id": "B0BLJLP7FM",
@@ -31,7 +53,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BLJLP7FM\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183078
+      "timestamp": 1764189338
+    },
+    {
+      "id": "B0CDGD3YDC",
+      "title": "Spigen ArcPlay 104-Key Keyboard. Cherry MX Browns, PBT Keycap, Volume Wheel, Nearly Full RGB",
+      "image": "https://m.media-amazon.com/images/I/B0CDGD3YDC._AC_SL1500_.jpg",
+      "price": "$23.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Spigen-ArcPlay-Mechanical-Keyboard-Doubleshot/dp/B0CDGD3YDC/ref=sr_1_14?sr=8-14&amp%3BdplnkId=400ac64a-398e-4f51-85a8-c8835df9a856&amp%3Bnodl=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1764189338
     },
     {
       "id": "B0DLFM4YNM",
@@ -42,18 +75,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DLFM4YNM?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183078
-    },
-    {
-      "id": "B0DDZNZF76",
-      "title": "ASUS ROG Strix X870E-E Gaming WiFi AMD AM5 X870 ATX - New",
-      "image": "https://m.media-amazon.com/images/I/B0DDZNZF76._AC_SL1500_.jpg",
-      "price": "$359.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/ASUS-ROG-Motherboard-Q-Release-Networking/dp/B0DDZNZF76/\">[link]</a></span>?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1764183078
+      "timestamp": 1764189338
     },
     {
       "id": "F4ADD5B745",
@@ -64,18 +86,29 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/stores/page/C5074E24-BE81-4DB7-BBCA-F4ADD5B745D0?ingress=0&amp%3Blp_context_query=adidas+shoes&amp%3BvisitId=de7dd7fd-e17a-4939-b726-0b81fd229e17&amp%3Blp_query=adidas+shoes&amp%3Blp_slot=auto-sparkle-hsa-tetris&amp%3Bstore_ref=SB_A0258798F6XR9LOS8A1D-A062994510XDCW8DDWF53&amp%3BlinkCode=ll2&amp%3Btag=drxth-20&amp%3BlinkId=affc1658c6a98f463a53dc128bff493d&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183079
+      "timestamp": 1764189339
+    },
+    {
+      "id": "FRAGRANCES",
+      "title": "RALPH LAUREN FRAGRANCES - Polo Blue - Eau de Toilette - Men's Cologne - Aquatic & Fresh - With Citrus, Sage, and Suede - Medium Intensity $80",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$80",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/RALPH-LAUREN-FRAGRANCES-Polo-Blue/dp/B000CCZ7ZE?pf_rd_r=S3N1D1ZHVP2XKMMXWZCV&amp%3Bpf_rd_p=85988cf7-8656-4eef-9bab-57fc0af5631d&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=591baebc550ac6e7a36ae804c9664751&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1764189339
     },
     {
       "id": "B0DP3F8GK1",
       "title": "-28% BLACK FRIDAY SALE on a SAMSUNG Galaxy S25 Ultra \u2014 $1,019.99",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$1",
-      "rating": "4.6 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DP3F8GK1?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=501545cf97fece9b34249f2d716ea035&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183081
+      "timestamp": 1764189339
     },
     {
       "id": "B0DHLSZXQD",
@@ -86,7 +119,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DHLSZXQD/ref=cm_sw_r_as_gl_api_gl_i_dl_Q7DR32ZCGJR4C0403FRY?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=2275bedd2450d1e549472e77ea0e884a%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183081
+      "timestamp": 1764189339
     },
     {
       "id": "B08NPGCFSG",
@@ -97,7 +130,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08NPGCFSG\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183082
+      "timestamp": 1764189339
     },
     {
       "id": "B0DGHMNQ5Z",
@@ -108,18 +141,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DGHMNQ5Z?ie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=4b8be837a2f198af126d996973693881&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1764183082
+      "timestamp": 1764189339
     },
     {
       "id": "B0C5S1Z9ZP",
       "title": "Mortal Kombat 1 - Nintendo Switch - $15/50%",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$15",
-      "rating": "N/A",
+      "rating": "4.5 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C5S1Z9ZP?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183083
+      "timestamp": 1764189340
     },
     {
       "id": "B085RCN4SJ",
@@ -130,7 +163,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B085RCN4SJ?th=1&amp%3Bie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=d97f3c9ba6dee7846fec2204a39e1d75&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183083
+      "timestamp": 1764189340
     },
     {
       "id": "B0CGYH4VG8",
@@ -141,7 +174,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CGYH4VG8?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1764183083
+      "timestamp": 1764189341
     },
     {
       "id": "B0BN3595K5",
@@ -152,29 +185,29 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BN3595K5?th=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=60256b864b9c142a2e7ddb6d93b4ba00&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183084
+      "timestamp": 1764189341
     },
     {
       "id": "B0DCCJZC9F",
       "title": "Oral-B iO Deep Clean + Protect at $120 Black Friday Final",
       "image": "https://m.media-amazon.com/images/I/B0DCCJZC9F._AC_SL1500_.jpg",
       "price": "$120",
-      "rating": "N/A",
+      "rating": "4.7 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DCCJZC9F?ref=t_ac_view_request_product_image&amp%3BcampaignId=amzn1.campaign.3UBAH00EDFPB4&amp%3BlinkCode=tr1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=amzn1.campaign.3UBAH00EDFPB4_1764024026679%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183084
+      "timestamp": 1764189342
     },
     {
       "id": "B0DDNL6FP2",
       "title": "-15% BLACK FRIDAY DEAL on a Rihero Women\u2019s Fashion Sneakers \u2014 Comfortable walking shoes, casual lace-up, non-slip design \u2014 Now $22.94",
       "image": "https://m.media-amazon.com/images/I/B0DDNL6FP2._AC_SL1500_.jpg",
       "price": "$22.94",
-      "rating": "N/A",
+      "rating": "4.3 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DDNL6FP2?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=c081b484307d34795913721003a536b0&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1764183085
+      "timestamp": 1764189343
     },
     {
       "id": "B00939I7EK",
@@ -185,7 +218,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00939I7EK?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=313bea2cdbe5886e97e83ec2eed5318f&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1764183085
+      "timestamp": 1764189343
     },
     {
       "id": "B0F5QPFLRM",
@@ -196,7 +229,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/LISEN-Charging-Silicone-Samsung-MacBook/dp/B0F5QPFLRM?pd_rd_w=WA635&amp%3Bcontent-id=amzn1.sym.679481c3-2bf4-4843-80c0-ffb319282e84%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&amp%3Bpf_rd_p=679481c3-2bf4-4843-80c0-ffb319282e84&amp%3Bpf_rd_r=PV9ZRHE9Y5QR7MT9XXXX&amp%3Bpd_rd_wg=qKmzv&amp%3Bpd_rd_r=f92f13be-2f7c-4f9a-b3b4-f7850a8e855b&amp%3Bpd_rd_i=B0F5QPFLRM&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=0832031f777df618cba7569645cfb8ab&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1764183085
+      "timestamp": 1764189343
     },
     {
       "id": "B0F5QD1BY1",
@@ -207,18 +240,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F5QD1BY1\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183086
+      "timestamp": 1764189343
     },
     {
       "id": "B0CHL9G36H",
       "title": "Instant Pot 6.5 Quart Duo Crisp Ultimate Lid with WIFI, 13-in-1 Air Fryer and Pressure Cooker Combo - $129.99/48%",
       "image": "https://m.media-amazon.com/images/I/B0CHL9G36H._AC_SL1500_.jpg",
       "price": "$129.99",
-      "rating": "3.8 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CHL9G36H?amp%3Btag=mkodrdt-20%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1764183087
+      "timestamp": 1764189343
     },
     {
       "id": "B0F21SVF9R",
@@ -229,7 +262,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F21SVF9R?pf_rd_r=69DWCH7PKS7JRP7R6P6R&amp%3Bpf_rd_m=ATVPDKIKX0DER&amp%3Bpf_rd_t=AmazonStores&amp%3Bpf_rd_i=955085B3-85CC-417B-AD85-4028F36EFEAB&amp%3Bpf_rd_s=AWLSWidget-1&amp%3Basc_contentid=amzn1.amazonlive.broadcast.d714401a-b0f0-493d-8a46-dc646596f35d&amp%3Bpd_rd_i=B0F21SVF9R&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=e6eee9a2753c98a61bdbbb614c1c0567&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1764183087
+      "timestamp": 1764189343
     }
   ]
 }
