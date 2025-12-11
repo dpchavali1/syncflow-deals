@@ -1,15 +1,26 @@
 {
   "deals": [
     {
+      "id": "B0F933F1G8",
+      "title": "Sabrent M.2 NVMe/SATA 10Gbps enclosure",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$17",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0F933F1G8\">[link]</a></span>?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1765429187
+    },
+    {
       "id": "B0CGJ1J5KL",
       "title": "Hyper 212 Black Edition - $8.95 ($29.99 - $21.73 = 55 off)",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$8.95",
-      "rating": "N/A",
+      "rating": "4.6 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CGJ1J5KL?ref=ppx_yo2ov_dt_b_amznbzr_ppx_yo_asin_title&amp%3Bs=bazaar%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424982
+      "timestamp": 1765429189
     },
     {
       "id": "B0D7BFZ1FX",
@@ -20,18 +31,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D7BFZ1FX\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1765424982
-    },
-    {
-      "id": "B0F933F1G8",
-      "title": "Sabrent M.2 NVMe/SATA 10Gbps enclosure",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$17",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F933F1G8\">[link]</a></span>?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1765424982
+      "timestamp": 1765429189
     },
     {
       "id": "B0CSVLY59P",
@@ -42,7 +42,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CSVLY59P?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424982
+      "timestamp": 1765429189
     },
     {
       "id": "B0DQPLRGRF",
@@ -53,7 +53,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DQPLRGRF?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424983
+      "timestamp": 1765429189
     },
     {
       "id": "B0946GJ4GX",
@@ -64,7 +64,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0946GJ4GX\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424983
+      "timestamp": 1765429189
     },
     {
       "id": "B0C73ZLW53",
@@ -75,7 +75,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C73ZLW53?ref=ppx_yo2ov_dt_b_fed_asin_title%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1765424983
+      "timestamp": 1765429190
     },
     {
       "id": "B07611NJB7",
@@ -86,7 +86,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07611NJB7?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=0ed9cb50bf8937f7c8105bbb5ba6bcf6&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424984
+      "timestamp": 1765429190
     },
     {
       "id": "B09C2Q7M7D",
@@ -97,7 +97,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Waterpik-Cordless-Rechargeable-Portable-Flossing/dp/B09C2Q7M7D?crid=1HTFH2I8VE0Z1&amp%3Bdib=eyJ2IjoiMSJ9.x05WwTWeUXyRjTKVSdHKTCJKrdXCztJt4mWyzIQ4QkT-YEZu8PS08Z6k9F4ir2FnvBFqpy7YN-RsrCwxYV0LRkyosZNYheqF5mouGeTdN-pZziGA8fOF1J1zQd3xPtP6Hs8389fZ-35AUGh8GkI4dztTWP6e-9tIN73___3tIw9_nR1V6psZHbMGEu_QK1RNfse54UA5mO9WSB7ozmYUOlGOmqagJCehe_7KNK-EQIg1ZneagYHg8jFmTK0XsLP1voaaZmX1w3ZTSG-c5MuWfkufmK0pGrWElbCvDPkjjFU.6ZqQqEoCaIgykEKuBAcRxxrSWhZlDhk0JJw8mbWF6KE&amp%3Bdib_tag=se&amp%3Bkeywords=water%2Bpick&amp%3Bqid=1765400035&amp%3Bsprefix=water%2Caps%2C292&amp%3Bsr=8-13-spons&amp%3Bsp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=7a1be41cbc0946a732aff773717a2a2d&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424984
+      "timestamp": 1765429190
     },
     {
       "id": "B0DC16JL91",
@@ -108,18 +108,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DC16JL91?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=a1abc67154050351ecb62ab798c1e9f7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424984
+      "timestamp": 1765429190
     },
     {
       "id": "B0C7QT2WZR",
       "title": "Fanttik X8 Ace Bike Pump 150PSI Fast Portable Tire Inflator - $16.99",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$16.99",
-      "rating": "N/A",
+      "rating": "4.0 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C7QT2WZR/ref=cm_sw_r_as_gl_api_gl_i_7E6WBR42NXGWSJ4XQVXW?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=ac933090fb00e297d9b1766956c873f4%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424984
+      "timestamp": 1765429192
     },
     {
       "id": "B0F7M3ZTV9",
@@ -130,7 +130,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F7M3ZTV9?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=84cff850b4a970bd76d8e80d09980522&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424984
+      "timestamp": 1765429192
     },
     {
       "id": "B0D63657GY",
@@ -141,7 +141,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Tile-Life360-Bluetooth-Tracker-Compatible/dp/B0D63657GY?pd_rd_w=gcexi&amp%3Bcontent-id=amzn1.sym.16c259be-6f52-4c88-8c65-0817a8302b5c&amp%3Bpf_rd_p=16c259be-6f52-4c88-8c65-0817a8302b5c&amp%3Bpf_rd_r=E321XYAHVAR7K4P885Z6&amp%3Bpd_rd_wg=T3rm4&amp%3Bpd_rd_r=50efc448-1eaa-426e-8ae1-5436ba7ffd67&amp%3Bpd_rd_i=B0D63657GY&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=a85b9c0b6bed90f5342fbc1a8bde1d2c&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424985
+      "timestamp": 1765429192
     },
     {
       "id": "B0FQF5BZ8Z",
@@ -152,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQF5BZ8Z/ref=cm_sw_r_as_gl_api_gl_i_ENTYZ2Y8HHYSSY5J7X6W?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=a32ef538831bac000d302d68c7d8e33b%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424985
+      "timestamp": 1765429192
     },
     {
       "id": "B09SG2Q23M",
@@ -163,7 +163,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B09SG2Q23M?ie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=b7dfa1c1186680de013e2067e72e64cd&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424985
+      "timestamp": 1765429192
     },
     {
       "id": "B0B44BMCLY",
@@ -174,29 +174,29 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B44BMCLY?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=0e9f734dc8b5a3cfdbd46b7faf9cbb4e&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424985
+      "timestamp": 1765429192
     },
     {
       "id": "B0C9ZVMBC1",
       "title": "Belkin 4-Port Charger Block 140W - $39.87",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$39.87",
-      "rating": "4.0 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0C9ZVMBC1?smid=AKQQBSHBRSA2A&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=fe7270e7e6a249e7a9b830578ce0ae69&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1765424986
+      "timestamp": 1765429192
     },
     {
       "id": "B07F2N83XB",
       "title": "Amazon Essentials mens Straight-fit Cargo Pant $16.45",
       "image": "https://m.media-amazon.com/images/I/B07F2N83XB._AC_SL1500_.jpg",
       "price": "$16.45",
-      "rating": "4.4 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Essentials-Straight-Fit-Cargo-Black/dp/B07F2N83XB?pf_rd_r=XNZGTC053HHJNNA2MW75&amp%3Bpf_rd_p=66abaad2-f701-4338-92ed-7dcff9cd96a2&amp%3Bth=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=564bc09d70d21fcc661a1157b9121e48&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424988
+      "timestamp": 1765429192
     },
     {
       "id": "B01KQLULJW",
@@ -207,18 +207,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01KQLULJW?th=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=2a8336a023aaa006db51afc8ae0400cf&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424988
+      "timestamp": 1765429193
     },
     {
       "id": "B0FGQ545NT",
       "title": "HOTake Men's Casual Loose Fit Stretch Corduroy Pants $22.39",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$22.39",
-      "rating": "N/A",
+      "rating": "4.0 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/HOTake-Casual-Corduroy-Pants-Baggy/dp/B0FGQ545NT?pf_rd_r=27R3RSX8ZSGNDSKB8JH5&amp%3Bpf_rd_p=7d7fd1a0-40b8-487f-8db9-b2480f2cfbc8&amp%3Bth=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6d4df9b22c2276aa10a2a48ed12ab0dc&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1765424988
+      "timestamp": 1765429194
     }
   ]
 }
