@@ -1,17 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0DGGZ4DLB",
-      "title": "APNX C1-R Mid-Tower ATX Case - White, Black or ChromaFlair with 4x 120mm x 30mm thick fans",
-      "image": "https://m.media-amazon.com/images/I/B0DGGZ4DLB._AC_SL1500_.jpg",
-      "price": "$50",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DGGZ4DLB?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "Accessories",
-      "timestamp": 1766306106
-    },
-    {
       "id": "B0F6L84VNS",
       "title": "PCCOOLER 360mm AIO CPU Cooler DS360 Display BK $63 ($90-$27) 30% off",
       "image": "https://m.media-amazon.com/images/I/B0F6L84VNS._AC_SL1500_.jpg",
@@ -20,18 +9,29 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/PCCOOLER-Liquid-Cooling-Digital-Monitor/dp/B0F6L84VNS\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306107
+      "timestamp": 1766312903
+    },
+    {
+      "id": "B0DGGZ4DLB",
+      "title": "APNX C1-R Mid-Tower ATX Case - White, Black or ChromaFlair with 4x 120mm x 30mm thick fans",
+      "image": "https://m.media-amazon.com/images/I/B0DGGZ4DLB._AC_SL1500_.jpg",
+      "price": "$50",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DGGZ4DLB?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Accessories",
+      "timestamp": 1766312903
     },
     {
       "id": "B07Y693ND1",
       "title": "Razer DeathAdder Essential Mouse White - $13 Amazon",
       "image": "https://m.media-amazon.com/images/I/B07Y693ND1._AC_SL1500_.jpg",
       "price": "$13",
-      "rating": "4.6 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B07Y693ND1\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1766306108
+      "timestamp": 1766312903
     },
     {
       "id": "B0CSVZPTPN",
@@ -42,7 +42,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CSVZPTPN\">[link]</a></span>?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1766306108
+      "timestamp": 1766312904
     },
     {
       "id": "B0DGY63Z2H",
@@ -53,7 +53,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/PlayStation%C2%AE5-console-1TB-PlayStation-5/dp/B0DGY63Z2H?pd_rd_w=S3ka4&amp%3Bcontent-id=amzn1.sym.6892fc2a-5f26-4664-922f-5f7621402965&amp%3Bpf_rd_p=6892fc2a-5f26-4664-922f-5f7621402965&amp%3Bpf_rd_r=H0RQR8GC12K704NH2HJY&amp%3Bpd_rd_wg=0kxtJ&amp%3Bpd_rd_r=905cd4f5-a489-47a5-9656-5eeef27aa905&amp%3Bpd_rd_i=B0FRGTYSL5&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=161ba7762707be63ccb7b9b28aceb77a&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306109
+      "timestamp": 1766312904
     },
     {
       "id": "B000MICPUI",
@@ -64,7 +64,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B000MICPUI?amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=3e00f8cfddf701a30eadfc0b88eae05a&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306109
+      "timestamp": 1766312904
     },
     {
       "id": "B0DV4VRMND",
@@ -75,7 +75,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DV4VRMND?amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=b329d9e2a0f3d08c3d9196dec0c0d7aa&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306109
+      "timestamp": 1766312904
     },
     {
       "id": "B00XABL28K",
@@ -86,7 +86,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00XABL28K?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=056ce54fb119184821c225977c2ef189&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306109
+      "timestamp": 1766312904
     },
     {
       "id": "B0FCXS2LCS",
@@ -97,7 +97,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FCXS2LCS?_encoding=UTF8&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=0b6efd04b8347d8b6643d90c65d9b1a8&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1766306109
+      "timestamp": 1766312904
     },
     {
       "id": "B07BJKY74X",
@@ -108,7 +108,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Essentials-Mens-Slim-Fit-Stretch/dp/B07BJKY74X?pf_rd_r=FN8QXA0JYYMCW0HJAVV4&amp%3Bpf_rd_p=66abaad2-f701-4338-92ed-7dcff9cd96a2&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=77ed430492373d31a56e6d95380d3d79&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306109
+      "timestamp": 1766312905
     },
     {
       "id": "B0BRTJNQQ8",
@@ -119,7 +119,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BRTJNQQ8?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=e43c8bae148e2933e73bf32628ec2e56&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1766306110
+      "timestamp": 1766312905
     },
     {
       "id": "B0B5HRWH1S",
@@ -130,7 +130,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Oral-B-iO-Electric-Toothbrush-Rechargeable/dp/B0B5HRWH1S?pf_rd_r=C5Q8CGVR44PYSG81A1YF&amp%3Bpf_rd_p=66abaad2-f701-4338-92ed-7dcff9cd96a2&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=806dcb72d781a1b8b907f24aa1dfc6db&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306110
+      "timestamp": 1766312905
     },
     {
       "id": "B0CLRBXSPG",
@@ -141,7 +141,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Columbia-Mens-Watertight-Jacket-Large/dp/B0CLRBXSPG?pf_rd_r=0VTC8J2CR8EMH9HRV0Y3&amp%3Bpf_rd_p=7d7fd1a0-40b8-487f-8db9-b2480f2cfbc8&amp%3Bth=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=801f420049f42a60b06e82aa93bbcc96&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306110
+      "timestamp": 1766312905
     },
     {
       "id": "B08FJ678YK",
@@ -152,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08FJ678YK?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=1e6ef4a872359a939bb3924b52da5dfc&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1766306110
+      "timestamp": 1766312905
     },
     {
       "id": "B0FPCJ67F1",
@@ -163,7 +163,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FPCJ67F1\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306110
+      "timestamp": 1766312905
     },
     {
       "id": "B0C3HCD34R",
@@ -174,7 +174,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/soundcore-Cancelling-Headphones-Bluetooth-Transparency/dp/B0C3HCD34R?pf_rd_r=DVVTRBN1172HGRQEB85D&amp%3Bpf_rd_p=66abaad2-f701-4338-92ed-7dcff9cd96a2&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=cd41c012d56469d7834f5d6423920ed3&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306111
+      "timestamp": 1766312905
     },
     {
       "id": "B00NHQFA1I",
@@ -185,7 +185,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B00NHQFA1I?ie=UTF8&amp%3Bascsubtag=5c52b06adc3a11f09525f27bb8b2734d0INT&amp%3Bsmid=ATVPDKIKX0DER&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=aa60f757589278aaac51d6507578d28c&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1766306111
+      "timestamp": 1766312905
     },
     {
       "id": "B0DBRW6ZZM",
@@ -196,7 +196,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DBRW6ZZM?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=9ee7f9f7b94307838e8b2461b106522c&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1766306111
+      "timestamp": 1766312905
     },
     {
       "id": "B00AHAWWO0",
@@ -207,18 +207,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0?pd_rd_w=XF2oB&amp%3Bcontent-id=amzn1.sym.7951bbf5-a2e3-431a-acb8-7fd222e84f6b&amp%3Bpf_rd_p=7951bbf5-a2e3-431a-acb8-7fd222e84f6b&amp%3Bpf_rd_r=JK066ZS3ZQR7AG6GSY4Y&amp%3Bpd_rd_wg=mh754&amp%3Bpd_rd_r=274e720b-438c-4ca7-8ebf-31cda6fb07a3&amp%3Bpd_rd_i=B00AHAWWO0&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=1f418fe3eb25fabe963bb71b35f37322&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306111
+      "timestamp": 1766312905
     },
     {
       "id": "B0D12FQSN7",
       "title": "Clear Window-mount Bird Feeder for $4.99",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$4.99",
-      "rating": "N/A",
+      "rating": "4.6 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Feeder-Identify-Watching-Add-ons-Outdoor/dp/B0D12FQSN7?pd_rd_i=B0D12FQSN7&amp%3Bpd_rd_w=tLIZ3&amp%3Bcontent-id=amzn1.sym.12ce0654-ac91-4fa7-a6f7-4f4b7e1b273b&amp%3Bpf_rd_p=12ce0654-ac91-4fa7-a6f7-4f4b7e1b273b&amp%3Bpf_rd_r=9XK784RHMFWJWZYN8SMB&amp%3Bpd_rd_wg=FPkNO&amp%3Bpd_rd_r=2b3f3c68-61d9-47c0-aad8-2dff537349ff&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=653203dd865701717f6ba167ab83e95c&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3Ehere%3C%2Fa%3E%3C%2Fp%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306111
+      "timestamp": 1766312907
     },
     {
       "id": "B0D63657GY",
@@ -229,7 +229,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D63657GY?th=1&amp%3Bie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=c62d3c2c28d6c43dc3c8e98a2efdad27&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766306111
+      "timestamp": 1766312907
     }
   ]
 }
