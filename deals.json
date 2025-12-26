@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G3XDZ6F6\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1766723977
+      "timestamp": 1766731383
     },
     {
       "id": "B0DXWKQN7J",
@@ -20,7 +20,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/aw/d/B0DXWKQN7J/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723978
+      "timestamp": 1766731383
     },
     {
       "id": "B0FNWCYLZN",
@@ -31,29 +31,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FNWCYLZN?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=da872bfe50ba7d48f0025c7993636545&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723979
+      "timestamp": 1766731384
     },
     {
       "id": "B07C85WLNN",
       "title": "24 Shoe Entryway Bench/Cabinet",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$135",
-      "rating": "4.5 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07C85WLNN?pf_rd_p=bbb3fb5e-28ad-4062-a3ba-1f7b9f2e4371&amp%3Bpf_rd_r=AH1M0BTGGD2KNXAMVK3Q&amp%3Bpd_rd_wg=pZOyK&amp%3Bpd_rd_w=7m4e6&amp%3Bcontent-id=amzn1.sym.bbb3fb5e-28ad-4062-a3ba-1f7b9f2e4371&amp%3Bpd_rd_r=7772ffda-ba58-40dc-9bc0-ebb0146f949b&amp%3Bsp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=drxth-20&amp%3BlinkId=73e8459eb16ccf8807986d6ffb9c9188&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1766723980
-    },
-    {
-      "id": "B0FPWR6FND",
-      "title": "23% OFF Men\u2019s Thermal Base Layer Set \u2013 $22.99 Ski & Winter Warmth",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$22.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FPWR6FND?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=d6a02a2086ec3d7337f5d2961ed9e6b9&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1766723981
+      "timestamp": 1766731384
     },
     {
       "id": "B6172C2E33",
@@ -64,18 +53,29 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/stores/page/A4260878-256F-4276-8D39-B6172C2E33A7?ingress=2&amp%3Blp_context_asin=B0C5FT94RM&amp%3BvisitId=2eed5fac-0ed3-4868-a896-c6098b3811f6&amp%3BlinkCode=ll2&amp%3Btag=122278-20&amp%3BlinkId=ef5d0361faf62ef9b1b1bfd1f5c508c7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723981
+      "timestamp": 1766731384
+    },
+    {
+      "id": "B0FPWR6FND",
+      "title": "23% OFF Men\u2019s Thermal Base Layer Set \u2013 $22.99 Ski & Winter Warmth",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$22.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0FPWR6FND?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=d6a02a2086ec3d7337f5d2961ed9e6b9&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1766731384
     },
     {
       "id": "B0CMQ6V729",
       "title": "Amazon - EBL Portable Power Station 1000W - $369.99 (with Prime)",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$369.99",
-      "rating": "N/A",
+      "rating": "4.7 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CMQ6V729\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723982
+      "timestamp": 1766731385
     },
     {
       "id": "B086PKMZ21",
@@ -86,7 +86,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B086PKMZ21?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=1dcfa43df3f08df4ec063e129169ef09&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723982
+      "timestamp": 1766731386
     },
     {
       "id": "CDE16CD147",
@@ -97,7 +97,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/stores/page/7B18FACC-DCB8-4735-B4AC-CDE16CD147DD/deals?ingress=2&amp%3Blp_context_asin=B0C5Y5NC8M&amp%3BvisitId=fd87f25f-f622-4553-8a41-1bc8daceef59&amp%3Bstore_ref=bl_ast_dp_brandLogo_sto&amp%3BlinkCode=ll2&amp%3Btag=drxth-20&amp%3BlinkId=bf386bc13339bb2e312830583ccdf80d&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1766723983
+      "timestamp": 1766731386
     },
     {
       "id": "B09N6V1FHG",
@@ -108,7 +108,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09N6V1FHG?ie=UTF8&amp%3Bascsubtag=de48aa04e0d411f0b24efa565ef9e8590INT&amp%3Bm=ATVPDKIKX0DER&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=44da0b021b90124a475372a717a5dfc6&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723983
+      "timestamp": 1766731386
     },
     {
       "id": "B0BHGYRR8P",
@@ -119,7 +119,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0BHGYRR8P?th=1&amp%3Bie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=a183a17514d97a2575b0dbddbdf5f5cb&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723983
+      "timestamp": 1766731386
     },
     {
       "id": "B0BC27MM5Z",
@@ -130,7 +130,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Marshall-Acton-Bluetooth-Speaker-Black/dp/B0BC27MM5Z?pf_rd_r=XC2THCEANQG6TZQK59RW&amp%3Bpf_rd_p=fbba520b-9a33-40b6-b094-4cda85f329a2&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=d0aa1185a4e909935aa70da5fe52c0c3&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723984
+      "timestamp": 1766731386
     },
     {
       "id": "B0FGXPBJSQ",
@@ -141,7 +141,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FGXPBJSQ?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=51b2efce617951a6edcc7b1562ab3d64&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723984
+      "timestamp": 1766731386
     },
     {
       "id": "B0D92DJCR4",
@@ -152,18 +152,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/OCOOPA-Magnetic-Rechargeable-Card-Style-Certified/dp/B0D92DJCR4?pd_rd_w=x4Isj&amp%3Bcontent-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&amp%3Bpf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&amp%3Bpf_rd_r=JHENXSDE97KRGZ56W0KT&amp%3Bpd_rd_wg=hZ3Wz&amp%3Bpd_rd_r=f19e311f-dbf6-4c41-89b2-09c01edff1c5&amp%3Bpd_rd_i=B0D92DJCR4&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=3c119a4357effc8c907bc57c88cdd856&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1766723985
+      "timestamp": 1766731386
     },
     {
       "id": "B0FC6FZ46N",
       "title": "Lortarl 11.5\" x 14.5\" 2026 Hanging Wall Calendar $3.99",
       "image": "https://m.media-amazon.com/images/I/B0FC6FZ46N._AC_SL1500_.jpg",
       "price": "$3.99",
-      "rating": "N/A",
+      "rating": "4.7 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FC6FZ46N?ie=UTF8&amp%3B_encoding=UTF8&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=7f49fdf74b39679590dd195cb2dcd8d5&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723985
+      "timestamp": 1766731387
     },
     {
       "id": "B0DX2LNZ68",
@@ -174,7 +174,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DX2LNZ68?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=9312a9f94a837b911605bc1af285be61&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723987
+      "timestamp": 1766731388
     },
     {
       "id": "B0FMFHDK62",
@@ -185,7 +185,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Aiibe-128GB-Drives-Memory-Keychain/dp/B0FMFHDK62\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723988
+      "timestamp": 1766731388
     },
     {
       "id": "B0CGVSKR1G",
@@ -196,7 +196,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Kindle-Colorsoft/dp/B0CGVSKR1G?pf_rd_r=KE1ET48YXMW1T6P9CZNQ&amp%3Bpf_rd_p=66abaad2-f701-4338-92ed-7dcff9cd96a2&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=101145c5cd11b7ff9281e7b0135e42cc&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1766723988
+      "timestamp": 1766731389
     }
   ]
 }
