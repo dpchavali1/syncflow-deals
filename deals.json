@@ -1,6 +1,17 @@
 {
   "deals": [
     {
+      "id": "B0DS6WFRBP",
+      "title": "ASUS The SFF-Ready Prime GeForce RTX 5070 Ti 16GB $749.99",
+      "image": "https://m.media-amazon.com/images/I/B0DS6WFRBP._AC_SL1500_.jpg",
+      "price": "$749.99",
+      "rating": "4.7 out of 5 stars",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0DS6WFRBP?smid=ATVPDKIKX0DER&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1767436140
+    },
+    {
       "id": "B0DR337DJG",
       "title": "Sparkle Intel Arc B570 - $199.99 (-13% off)",
       "image": "https://m.media-amazon.com/images/I/B0DR337DJG._AC_SL1500_.jpg",
@@ -9,18 +20,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DR337DJG\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429353
-    },
-    {
-      "id": "B0DS6WFRBP",
-      "title": "ASUS The SFF-Ready Prime GeForce RTX 5070 Ti 16GB $749.99",
-      "image": "https://m.media-amazon.com/images/I/B0DS6WFRBP._AC_SL1500_.jpg",
-      "price": "$749.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0DS6WFRBP?smid=ATVPDKIKX0DER&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1767429353
+      "timestamp": 1767436140
     },
     {
       "id": "B0CZWM44QP",
@@ -31,7 +31,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/ASUS-Strix-Gaming-Monitor-XG27AQDMG/dp/B0CZWM44QP?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429353
+      "timestamp": 1767436141
     },
     {
       "id": "B0CLRXDCXZ",
@@ -42,7 +42,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CLRXDCXZ?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1767429354
+      "timestamp": 1767436141
     },
     {
       "id": "B0DRWGJ5B2",
@@ -53,7 +53,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/MSI-PRO-B860-P-Motherboard-ATX/dp/B0DRWGJ5B2/\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429354
+      "timestamp": 1767436141
     },
     {
       "id": "B0FT99KCV8",
@@ -64,7 +64,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FT99KCV8/ref=cm_sw_r_as_gl_api_gl_i_dl_MJ5VBRZ3DMSR3A0RNV9C?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=66e49495791e4be97218f6a33faf6fcf%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429355
+      "timestamp": 1767436142
     },
     {
       "id": "B085CLZDWC",
@@ -75,7 +75,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B085CLZDWC?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=857465fb2ef9493bf7fd1d641265dfb4&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429356
+      "timestamp": 1767436143
     },
     {
       "id": "B0B5HRWH1S",
@@ -86,7 +86,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B5HRWH1S?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1767429356
+      "timestamp": 1767436143
     },
     {
       "id": "B0FF5FXC74",
@@ -97,18 +97,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Essentials-Relaxed-Fit-Long-Sleeve-Flannel/dp/B0FF5FXC74?pd_rd_w=PsyR7&amp%3Bcontent-id=amzn1.sym.1ea45ee5-3ff3-4c26-acca-ba15df829a8c&amp%3Bpf_rd_p=1ea45ee5-3ff3-4c26-acca-ba15df829a8c&amp%3Bpf_rd_r=QSPB10S6GCSGJMB00YXD&amp%3Bpd_rd_wg=iwziT&amp%3Bpd_rd_r=71798bac-e25a-40f8-b417-1018b6f33258&amp%3Bpd_rd_i=B0FF5J6YTY&amp%3Bth=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=9561c5ddd9a72461b4e8d138a96a2098&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429356
+      "timestamp": 1767436144
     },
     {
       "id": "B0G6KX4GNW",
       "title": "4 Tier Plastic Storage Bins with Lid 23QT, Stackable Storage Containers",
       "image": "https://m.media-amazon.com/images/I/B0G6KX4GNW._AC_SL1500_.jpg",
       "price": "$35.99",
-      "rating": "4.4 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G6KX4GNW?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1767429358
+      "timestamp": 1767436144
     },
     {
       "id": "B0G4SL68V7",
@@ -119,7 +119,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G4SL68V7?amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=ee691e8ebd885ca096be7c45925406a7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1767429358
+      "timestamp": 1767436144
     },
     {
       "id": "B0DQ7WKHGX",
@@ -130,7 +130,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Basics-House-Shark-Shape/dp/B0DQ7WKHGX?th=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=91a6fc3f20ef08f597c1131a49aff814&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429359
+      "timestamp": 1767436145
     },
     {
       "id": "B0D4Z9C562",
@@ -141,18 +141,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0D4Z9C562?pf_rd_r=BD1EFPEGHS8EX0DR1GCX&amp%3Bpf_rd_p=2bbd7858-17f7-41a5-a4ec-fd5304015c4b&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=d2e4f245cf798771673b49217dd8e197&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429359
+      "timestamp": 1767436145
     },
     {
       "id": "B0FLMGNBQR",
       "title": "Chefman Obliterator 48 oz Countertop Blender for Smoothies, 1380W Motor with Stainless Steel Blade ($79.99/47% OFF)",
       "image": "https://m.media-amazon.com/images/I/B0FLMGNBQR._AC_SL1500_.jpg",
       "price": "$79.99",
-      "rating": "4.6 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLMGNBQR?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=9f37f47254ddf7ea7e8b132b862d2ca5&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429361
+      "timestamp": 1767436146
     },
     {
       "id": "B0FQ5JQ2HG",
@@ -163,18 +163,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQ5JQ2HG\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429361
+      "timestamp": 1767436146
     },
     {
       "id": "B0FN9KNQMM",
       "title": "Pokemon TCG: Team Rocket\u2019s Mewtwo ex League Battle Deck ($15.98/70% OFF)",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$15.98",
-      "rating": "4.2 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FN9KNQMM?psc=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=439590bb24a13b79d1f6e45ecefa1bf5&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429363
+      "timestamp": 1767436146
     },
     {
       "id": "B0G3PJ6S8Y",
@@ -185,18 +185,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G3PJ6S8Y?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=f4155993176dfa9f1a127ddb214fe2dd&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1767429364
+      "timestamp": 1767436147
     },
     {
       "id": "B0G8DY9LZW",
       "title": "Windshield Cover for Ice and Snow",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "$9.99",
-      "rating": "N/A",
+      "rating": "5.0 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G8DY9LZW?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1767429364
+      "timestamp": 1767436148
     },
     {
       "id": "B0891BXHWL",
@@ -207,7 +207,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Pureology-Conditioner-Color-Treated-Moisturizes-Sulfate-Free/dp/B0891BXHWL?pf_rd_r=NY1R94C24BDQ6MZ2SS6H&amp%3Bpf_rd_p=fbba520b-9a33-40b6-b094-4cda85f329a2&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=a3a5196d889c80323a1f09cfd7633016&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767429365
+      "timestamp": 1767436149
     },
     {
       "id": "B0D7FWNDZJ",
@@ -218,7 +218,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D7FWNDZJ?ie=UTF8&amp%3B_encoding=UTF8&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=c9365d7e70e5b25ce1bddf1ef915ebdd&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1767429365
+      "timestamp": 1767436149
     },
     {
       "id": "B09STHNCKV",
@@ -229,7 +229,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09STHNCKV?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=e505da7ec2873ca131bb21e1ac8d7d62&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1767429365
+      "timestamp": 1767436149
     }
   ]
 }
