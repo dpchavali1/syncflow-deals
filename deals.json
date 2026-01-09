@@ -1,6 +1,17 @@
 {
   "deals": [
     {
+      "id": "SP02KGBP44",
+      "title": "Silicon Power 2TB UD90 NVMe 4.0 Gen4 PCIe M.2 SSD R/W up to 5,000/4,800 MB/s with Heatsink (SP02KGBP44UD9005US)",
+      "image": "https://m.media-amazon.com/images/I/SP02KGBP44._AC_SL1500_.jpg",
+      "price": "$129.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Silicon-Power-UD90-Heatsink-SP02KGBP44UD9005US/dp/B0DJGZ25H3?crid=1HPKURLSBSR0F&amp%3Bth=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1767976702
+    },
+    {
       "id": "B0CCZQTF74",
       "title": "ASUS ROG Harpe Ace Aim Lab Wireless Esports Gaming Mouse (White) - $55.20 after coupon on Amazon",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
@@ -9,18 +20,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CCZQTF74\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1767969160
+      "timestamp": 1767976702
     },
     {
-      "id": "B0D6GX6472",
-      "title": "BITFENIX Fang Medium Tower ATX Computer Case, Black w/ 4x ARGB fans",
-      "image": "https://m.media-amazon.com/images/I/B0D6GX6472._AC_SL1500_.jpg",
-      "price": "$39.90",
+      "id": "B0CDFTKJT9",
+      "title": "Rapoo VT9Pro Wireless Gaming Mouse - $13.49 (50% off with code 7G36USP7)",
+      "image": "https://m.media-amazon.com/images/I/B0CDFTKJT9._AC_SL1500_.jpg",
+      "price": "$13.49",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D6GX6472\">[link]</a></span>?tag=syncflow-20",
-      "category": "Accessories",
-      "timestamp": 1767969161
+      "url": "https://www.amazon.com/Rapoo-VT9Pro-Wireless-Gaming-Mouse/dp/B0CDFTKJT9\">[link]</a></span>?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1767976702
     },
     {
       "id": "B0F251YQR4",
@@ -31,18 +42,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F251YQR4?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=ae72aacf483710157304cc94d07a6fae&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767969162
-    },
-    {
-      "id": "B0DB19PMDY",
-      "title": "-39% SALE on a Knee-High Platform Boots (Women) - $39.99 \u2014 Athlefit",
-      "image": "https://m.media-amazon.com/images/I/B0DB19PMDY._AC_SL1500_.jpg",
-      "price": "$39.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DB19PMDY?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=94fdf6c12f5847f02b54885d631cca05&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1767969162
+      "timestamp": 1767976703
     },
     {
       "id": "B0FNNDWM4S",
@@ -53,7 +53,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FNNDWM4S?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1767969163
+      "timestamp": 1767976703
+    },
+    {
+      "id": "B0DB19PMDY",
+      "title": "-39% SALE on a Knee-High Platform Boots (Women) - $39.99 \u2014 Athlefit",
+      "image": "https://m.media-amazon.com/images/I/B0DB19PMDY._AC_SL1500_.jpg",
+      "price": "$39.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DB19PMDY?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=94fdf6c12f5847f02b54885d631cca05&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1767976703
     },
     {
       "id": "B0CLPKGLYC",
@@ -64,7 +75,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CLPKGLYC?th=1&amp%3Bie=UTF8&amp%3B_encoding=UTF8&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=f8d1cc8aa9458ed54ef01b0434bb717e&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767969163
+      "timestamp": 1767976703
     },
     {
       "id": "B09715G57M",
@@ -75,7 +86,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Keurig-K-Express-Coffee-Single-Brewer/dp/B09715G57M?pd_rd_w=pASDI&amp%3Bcontent-id=amzn1.sym.f8f23b2c-7e38-4939-a214-7a881e00bd67&amp%3Bpf_rd_p=f8f23b2c-7e38-4939-a214-7a881e00bd67&amp%3Bpf_rd_r=60ENJ104TVDVR371SW38&amp%3Bpd_rd_wg=Xsmmf&amp%3Bpd_rd_r=7d25f8a6-a69e-45c1-96ce-0ee9f93063e2&amp%3Bpd_rd_i=B09715G57M&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=67b6bc7e06d8f730fe77424c5826c68b&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1767969164
+      "timestamp": 1767976703
     },
     {
       "id": "B0CJY37RT3",
@@ -86,18 +97,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CJY37RT3/ref=cm_sw_r_as_gl_api_gl_i_3TAZPF8N3C8AB8Y1263J?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=6fabe2a723c04e6d28bba3550c1e109b%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1767969164
+      "timestamp": 1767976703
     },
     {
       "id": "B0G3PHPXHR",
       "title": "Amazon - Aiibe 512GB Internal Solid State Driver - $47.99",
       "image": "https://m.media-amazon.com/images/I/B0G3PHPXHR._AC_SL1500_.jpg",
       "price": "$47.99",
-      "rating": "N/A",
+      "rating": "4.8 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G3PHPXHR\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767969164
+      "timestamp": 1767976704
     },
     {
       "id": "B08T5QN2TR",
@@ -108,7 +119,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08T5QN2TR?ie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=5b444cd2dc5113e2beee08fd865168c7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1767969165
+      "timestamp": 1767976704
     },
     {
       "id": "B0CHGVB2SC",
@@ -119,7 +130,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CHGVB2SC?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=dc2e89562f50bb9501004ffd69f2f5a1&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1767969165
+      "timestamp": 1767976704
     },
     {
       "id": "B074ZL35DH",
@@ -130,7 +141,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B074ZL35DH?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=04a005550e77a0121dd4fbdb70eaa185&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1767969166
+      "timestamp": 1767976704
     },
     {
       "id": "B0CC189314",
@@ -141,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/OCOOPA-Rechargeable-Pocket-Sized-Handwarmers-Electronic/dp/B0CC189314?pf_rd_r=JJFQBHH076DD2ZC0PJN1&amp%3Bpf_rd_p=9f623cf3-178d-49b5-b265-c9ff506b7b32&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=1038670b7bbfdd680fda97dfec4c1926&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1767969166
+      "timestamp": 1767976705
     },
     {
       "id": "B0BL3R3L45",
@@ -152,40 +163,40 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BL3R3L45/ref=cm_sw_r_as_gl_api_gl_i_A1XR1TS9P73RV57T9K8X?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=b80cde93e5dd1014609404cc2b888458%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767969167
+      "timestamp": 1767976705
     },
     {
       "id": "B093ND8LML",
       "title": "CORSAIR CX750M 80 Plus Bronze Semi-Modular Low-Noise ATX 750 Watt Power Supply, Black ($59.99/40% OFF)",
       "image": "https://m.media-amazon.com/images/I/B093ND8LML._AC_SL1500_.jpg",
       "price": "$59.99",
-      "rating": "4.7 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B093ND8LML?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=df9d61509df6aaebbc8d3b1630ac20b7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767969168
+      "timestamp": 1767976705
     },
     {
       "id": "B0D82ZBMBT",
       "title": "CMF Buds Pro 2 Wireless Earbuds at $ 47 Limited Time Deal",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$?",
-      "rating": "N/A",
+      "price": "$47.00",
+      "rating": "4.4 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D82ZBMBT?ref=t_ac_view_request_product_image&amp%3BcampaignId=amzn1.campaign.YSQEHAFF4FT0&amp%3BlinkCode=tr1&amp%3Btag=kashkoli0f-20&amp%3BlinkId=amzn1.campaign.YSQEHAFF4FT0_1767623739063%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767969169
+      "timestamp": 1767976706
     },
     {
       "id": "B0FQM6SW3F",
       "title": "Baseus BS1 NC Semi-in-Ear Noise Cancelling Earbuds $30",
       "image": "https://m.media-amazon.com/images/I/B0FQM6SW3F._AC_SL1500_.jpg",
       "price": "$30",
-      "rating": "4.3 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQM6SW3F?ie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=f34c1ee09741a3c5c988f270ba27dcfa&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1767969170
+      "timestamp": 1767976706
     },
     {
       "id": "B0DZ6RWT1W",
@@ -196,7 +207,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Anker-Charger-Charging-Foldable-Included/dp/B0DZ6RWT1W?th=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=df4bca5aac5f7217701284cb2c2960be&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1767969171
+      "timestamp": 1767976707
     },
     {
       "id": "B0FH7468J2",
@@ -207,7 +218,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FH7468J2?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "Tech",
-      "timestamp": 1767969171
+      "timestamp": 1767976707
     }
   ]
 }
