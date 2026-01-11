@@ -1,15 +1,37 @@
 {
   "deals": [
     {
+      "id": "B0B25ML2FH",
+      "title": "Crucial P3 Plus PCIe NVMe 2TB SSD",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$145",
+      "rating": "4.8 out of 5 stars",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/aw/d/B0B25ML2FH/ref=ox_sc_saved_title_1?smid=ATVPDKIKX0DER&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1768107157
+    },
+    {
+      "id": "B0C3B3MD7K",
+      "title": "FN970 2TB M.2 2280 PCIe Gen4 x4 NVMe 1.4 Internal Solid State Drive with Heatsink",
+      "image": "https://m.media-amazon.com/images/I/B0C3B3MD7K._AC_SL1500_.jpg",
+      "price": "$139",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Fikwot-FN970-Internal-Solid-Heatsink/dp/B0C3B3MD7K\">[link]</a></span>?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1768107157
+    },
+    {
       "id": "B0DJDDCG4M",
       "title": "ARCTIC P12 Pro PST - 5 Pack - $27.74 + Free Shipping w/Prime",
       "image": "https://m.media-amazon.com/images/I/B0DJDDCG4M._AC_SL1500_.jpg",
       "price": "$27.74",
-      "rating": "4.5 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DJDDCG4M/\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098780
+      "timestamp": 1768107157
     },
     {
       "id": "SP02KGBP44",
@@ -20,18 +42,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Silicon-Power-UD90-Heatsink-SP02KGBP44UD9005US/dp/B0DJGZ25H3?crid=1HPKURLSBSR0F&amp%3Bth=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768098780
+      "timestamp": 1768107157
     },
     {
-      "id": "B0CDFTKJT9",
-      "title": "Rapoo VT9Pro Wireless Gaming Mouse - $13.49 (50% off with code 7G36USP7)",
-      "image": "https://m.media-amazon.com/images/I/B0CDFTKJT9._AC_SL1500_.jpg",
-      "price": "$13.49",
+      "id": "B0FG8KGGVM",
+      "title": "Amazon - Gigabyte Windforce RTX 5050 (MSRP $250 - $10)",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$250",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/Rapoo-VT9Pro-Wireless-Gaming-Mouse/dp/B0CDFTKJT9\">[link]</a></span>?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1768098781
+      "url": "https://www.amazon.com/dp/B0FG8KGGVM?ref=cm_sw_r_cso_cp_apan_dp_WDT06RKSMW5KP03BCJKT&amp%3Bref_=cm_sw_r_cso_cp_apan_dp_WDT06RKSMW5KP03BCJKT&amp%3Bsocial_share=cm_sw_r_cso_cp_apan_dp_WDT06RKSMW5KP03BCJKT&amp%3BtitleSource=true%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1768107157
     },
     {
       "id": "B09MQ5L5N9",
@@ -42,7 +64,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Digital-Canupdog-Storage-Mountable-Auto-Rotate/dp/B09MQ5L5N9?pf_rd_r=8JZ51W4SP48V4Z4FNPF7&amp%3Bpf_rd_p=9f623cf3-178d-49b5-b265-c9ff506b7b32&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=07aefc2885584d86a39228ed81016bb4&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768098782
+      "timestamp": 1768107158
     },
     {
       "id": "B0FVSV43CB",
@@ -53,18 +75,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FVSV43CB?th=1&amp%3BlinkCode=sl1&amp%3Btag=dailydeal0be-20&amp%3BlinkId=4d081000ce55f2865dd2c0b1cc46e65d&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1768098782
-    },
-    {
-      "id": "A1D9LTJ9G9",
-      "title": "Teqihat Winter Balaclava Ski Mask (7 colors) $6",
-      "image": "https://m.media-amazon.com/images/I/A1D9LTJ9G9._AC_SL1500_.jpg",
-      "price": "$6",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/promocode/A1D9LTJ9G9WB5X?ie=UTF8&amp%3Bascsubtag=8afbb0eeee5d11f09185c2b4e7a0d9cf0INT&amp%3B_encoding=UTF8&amp%3BlinkCode=ll2&amp%3Btag=122278-20&amp%3BlinkId=79829026586d3d10902d29daabaf84e9&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1768098783
+      "timestamp": 1768107158
     },
     {
       "id": "B09JHYVSCS",
@@ -75,7 +86,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09JHYVSCS?th=1&amp%3BlinkCode=ll1&amp%3Btag=f-25-20&amp%3BlinkId=e88d0a1c3487950964e93b8a8f8f2790&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098783
+      "timestamp": 1768107158
     },
     {
       "id": "B0DBDKT4QC",
@@ -86,7 +97,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DBDKT4QC?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1768098783
+      "timestamp": 1768107158
     },
     {
       "id": "B07FFBF91M",
@@ -97,40 +108,40 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B07FFBF91M?ie=UTF8&amp%3Bascsubtag=c1618636edc211f0a3b136f126d658a50INT&amp%3Bsmid=ATVPDKIKX0DER&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=f84f972897399d7868712e3d233410c2&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098784
+      "timestamp": 1768107159
     },
     {
       "id": "B0D9R1BMJR",
       "title": "Quaker Chewy Granola Bars, Chewy & Dipps Variety Pack, 58 Bars ($10.7/15% OFF)",
       "image": "https://m.media-amazon.com/images/I/B0D9R1BMJR._AC_SL1500_.jpg",
-      "price": "$10.7",
-      "rating": "N/A",
+      "price": "$10.70",
+      "rating": "4.6 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D9R1BMJR?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=5746b11025baf7385b74cb87be3dc89f&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098784
+      "timestamp": 1768107160
     },
     {
       "id": "B0FG7LTJ2B",
       "title": "-18% SALE on a Men\u2019s Long Hooded Fleece Robe - $35.98 \u2014 (Hellomamma)",
       "image": "https://m.media-amazon.com/images/I/B0FG7LTJ2B._AC_SL1500_.jpg",
       "price": "$35.98",
-      "rating": "4.6 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FG7LTJ2B?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=bbebd99376a2e1b2a71cab60a1ff9165&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098786
+      "timestamp": 1768107160
     },
     {
       "id": "B083L8RNJR",
       "title": "TOLOCO Massage Gun, Deep Tissue Back Massage for Athletes for Pain Relief, Percussion Massager with 10 Massages Heads & Silent Brushless Motor - $40",
       "image": "https://m.media-amazon.com/images/I/B083L8RNJR._AC_SL1500_.jpg",
       "price": "$40",
-      "rating": "4.4 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/TOLOCO-Athletes-Percussion-Massager-Brushless/dp/B083L8RNJR?pf_rd_r=TT4WQYRWCG0GJS3547TZ&amp%3Bpf_rd_p=9f623cf3-178d-49b5-b265-c9ff506b7b32&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=719449d6cec153462ba28d0619f5049f&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098787
+      "timestamp": 1768107161
     },
     {
       "id": "B0F251YQR4",
@@ -141,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F251YQR4?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=ae72aacf483710157304cc94d07a6fae&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098788
+      "timestamp": 1768107161
     },
     {
       "id": "B0FNNDWM4S",
@@ -152,7 +163,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FNNDWM4S?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1768098788
+      "timestamp": 1768107161
     },
     {
       "id": "B0DB19PMDY",
@@ -163,29 +174,29 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DB19PMDY?th=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=94fdf6c12f5847f02b54885d631cca05&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098788
+      "timestamp": 1768107161
     },
     {
       "id": "B0CLPKGLYC",
       "title": "10-Pack Gildan Men's Crew T-Shirts $21",
       "image": "https://m.media-amazon.com/images/I/B0CLPKGLYC._AC_SL1500_.jpg",
       "price": "$21",
-      "rating": "N/A",
+      "rating": "4.6 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CLPKGLYC?th=1&amp%3Bie=UTF8&amp%3B_encoding=UTF8&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=f8d1cc8aa9458ed54ef01b0434bb717e&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098789
+      "timestamp": 1768107162
     },
     {
       "id": "B09715G57M",
       "title": "Keurig K-Express Single Serve Coffee Maker \u2013 Strong Brew Option, 42oz Reservoir, Sleek Design for Holiday Hosting & Gifting, Black | K-Cup Pod, 3 Brew Sizes, Strong Button Feature $70",
       "image": "https://m.media-amazon.com/images/I/B09715G57M._AC_SL1500_.jpg",
-      "price": "$70",
-      "rating": "N/A",
+      "price": "$69.99",
+      "rating": "4.3 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Keurig-K-Express-Coffee-Single-Brewer/dp/B09715G57M?pd_rd_w=pASDI&amp%3Bcontent-id=amzn1.sym.f8f23b2c-7e38-4939-a214-7a881e00bd67&amp%3Bpf_rd_p=f8f23b2c-7e38-4939-a214-7a881e00bd67&amp%3Bpf_rd_r=60ENJ104TVDVR371SW38&amp%3Bpd_rd_wg=Xsmmf&amp%3Bpd_rd_r=7d25f8a6-a69e-45c1-96ce-0ee9f93063e2&amp%3Bpd_rd_i=B09715G57M&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=67b6bc7e06d8f730fe77424c5826c68b&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1768098789
+      "timestamp": 1768107163
     },
     {
       "id": "B0CJY37RT3",
@@ -196,7 +207,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CJY37RT3/ref=cm_sw_r_as_gl_api_gl_i_3TAZPF8N3C8AB8Y1263J?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=6fabe2a723c04e6d28bba3550c1e109b%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1768098790
+      "timestamp": 1768107163
     },
     {
       "id": "B0G3PHPXHR",
@@ -207,7 +218,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G3PHPXHR\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768098790
+      "timestamp": 1768107163
     },
     {
       "id": "B08T5QN2TR",
@@ -218,7 +229,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08T5QN2TR?ie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=5b444cd2dc5113e2beee08fd865168c7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768098791
+      "timestamp": 1768107163
+    },
+    {
+      "id": "B0CHGVB2SC",
+      "title": "Special K Bar Protein Meal Bars, 12g Protein, Chocolate Peanut Butter (3 Boxes, 18 Packs) ($13.35/41% OFF)",
+      "image": "https://m.media-amazon.com/images/I/B0CHGVB2SC._AC_SL1500_.jpg",
+      "price": "$13.35",
+      "rating": "4.7 out of 5 stars",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CHGVB2SC?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=dc2e89562f50bb9501004ffd69f2f5a1&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Fitness",
+      "timestamp": 1768107165
     }
   ]
 }
