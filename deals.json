@@ -1,17 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0B4SWQ39Y",
-      "title": "Western Digital 2TB SN850 NVMe SSD for PS5 Consoles Solid State Drive with Heatsink - Gen4 PCIe, M.2 2280, Up to 7,000 MB/s - WDBBKW0020BBK-WRSN ($199.61)",
-      "image": "https://m.media-amazon.com/images/I/B0B4SWQ39Y._AC_SL1500_.jpg",
-      "price": "$199.61",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/WD_BLACK-SN850-Consoles-Solid-Heatsink/dp/B0B4SWQ39Y/ref=pd_sbs_d_sccl_2_1/132-6909672-3923316?pd_rd_w=vaTrB&amp%3Bcontent-id=amzn1.sym.2cd14f8d-eb5c-4042-b934-4a05eafd2874&amp%3Bpf_rd_p=2cd14f8d-eb5c-4042-b934-4a05eafd2874&amp%3Bpf_rd_r=SWBQV9D9EVYGJC3KJVHX&amp%3Bpd_rd_wg=EGAoD&amp%3Bpd_rd_r=c7159f6d-1ad4-4e77-bf0d-aba15b610c44&amp%3Bpd_rd_i=B0B4SWQ39Y&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1768833388
-    },
-    {
       "id": "B0DFHQG8VH",
       "title": "Corsair 4000D Airflow ATX Mid Case - $81 Amazon",
       "image": "https://m.media-amazon.com/images/I/B0DFHQG8VH._AC_SL1500_.jpg",
@@ -20,7 +9,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DFHQG8VH?th=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1768833388
+      "timestamp": 1768840745
+    },
+    {
+      "id": "B0B4SWQ39Y",
+      "title": "Western Digital 2TB SN850 NVMe SSD for PS5 Consoles Solid State Drive with Heatsink - Gen4 PCIe, M.2 2280, Up to 7,000 MB/s - WDBBKW0020BBK-WRSN ($199.61)",
+      "image": "https://m.media-amazon.com/images/I/B0B4SWQ39Y._AC_SL1500_.jpg",
+      "price": "$199.61",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/WD_BLACK-SN850-Consoles-Solid-Heatsink/dp/B0B4SWQ39Y/ref=pd_sbs_d_sccl_2_1/132-6909672-3923316?pd_rd_w=vaTrB&amp%3Bcontent-id=amzn1.sym.2cd14f8d-eb5c-4042-b934-4a05eafd2874&amp%3Bpf_rd_p=2cd14f8d-eb5c-4042-b934-4a05eafd2874&amp%3Bpf_rd_r=SWBQV9D9EVYGJC3KJVHX&amp%3Bpd_rd_wg=EGAoD&amp%3Bpd_rd_r=c7159f6d-1ad4-4e77-bf0d-aba15b610c44&amp%3Bpd_rd_i=B0B4SWQ39Y&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1768840745
     },
     {
       "id": "B0DZVNBBST",
@@ -31,18 +31,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DZVNBBST\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833388
+      "timestamp": 1768840746
     },
     {
       "id": "B0G2BWL3GF",
       "title": "ACEMAGIC Kron K1 Mini Gaming PC, Core i5-12600H, 16GB DDR4 RAM 1TB SSD - $359.99 (with Amazon Prime + code 4CTO2QEO)",
       "image": "https://m.media-amazon.com/images/I/B0G2BWL3GF._AC_SL1500_.jpg",
-      "price": "$359.99",
-      "rating": "N/A",
+      "price": "$399.99",
+      "rating": "5.0 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G2BWL3GF\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768833389
+      "timestamp": 1768840747
     },
     {
       "id": "B083SJLWL9",
@@ -53,7 +53,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/GIGABYTE-B650M-AORUS-ELITE-ICE/dp/B083SJLWL9\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833389
+      "timestamp": 1768840747
     },
     {
       "id": "B0D54JZTHY",
@@ -64,7 +64,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-MX542LL-A-AirTag-Pack/dp/B0D54JZTHY\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833389
+      "timestamp": 1768840747
     },
     {
       "id": "B0FC414B9B",
@@ -75,7 +75,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/ASUS-ROG-III-Lightweight-Replaceable/dp/B0FC414B9B/ref=sr_1_2\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768833389
+      "timestamp": 1768840748
     },
     {
       "id": "B0DS6V7L5M",
@@ -86,7 +86,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DS6V7L5M\">[link]</a></span>?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833390
+      "timestamp": 1768840749
     },
     {
       "id": "B0F1MKKKV5",
@@ -97,7 +97,40 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F1MKKKV5\">[link]</a></span>?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768833390
+      "timestamp": 1768840749
+    },
+    {
+      "id": "B0DH2ZC9Y5",
+      "title": "iHood Women's Heated Jacket with Battery Pack Waterproof Winter Outdoor heated Jacket for Women Heating Jacket coat - 53% OFF - $69.99, MSRP $149.99",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$69.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DH2ZC9Y5?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
+      "category": "General",
+      "timestamp": 1768840750
+    },
+    {
+      "id": "B0DDL8WGH5",
+      "title": "DJI Mic Mini (2 TX + 1 RX + Charging Case) - $99",
+      "image": "https://m.media-amazon.com/images/I/B0DDL8WGH5._AC_SL1500_.jpg",
+      "price": "$99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DDL8WGH5/ref=cm_sw_r_as_gl_api_gl_i_YZCS4QFSH49SCQNXSQ75?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=34c53ad449b49ba774e99628edc0869d%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Accessories",
+      "timestamp": 1768840750
+    },
+    {
+      "id": "B0BDF8CVBN",
+      "title": "MCGOR 10inch Under Cabinet Lighting, 2 Pack Rechargeable Motion Sensor Light Indoor, 5 Levels Dimmable Magnetic Closet Lights, Wireless Under Counter Lights for Kitchen, Stairs $16",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$16",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Rechargeable-Operated-Magnetic-Dimmable-Wireless/dp/B0BDF8CVBN?pf_rd_r=2JR777DRZ7CSHRXR4M1J&amp%3Bpf_rd_p=d8e5cb87-9e25-447f-a8bd-9695f78f9278&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=54ba0bf3baa79e221514c919d054967c&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
+      "category": "Home",
+      "timestamp": 1768840750
     },
     {
       "id": "B0G5TG5Z66",
@@ -108,7 +141,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Lenovo-Business-Outperforms-i7-1065G7-Bluetooth/dp/B0G5TG5Z66?pf_rd_r=DGQW609VWM8B5FC3JE86&amp%3Bpf_rd_p=d8e5cb87-9e25-447f-a8bd-9695f78f9278&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=7f57ab43a50ba5891e8715bf3e4e10f2&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768833391
+      "timestamp": 1768840750
     },
     {
       "id": "B0DFGQPG3T",
@@ -119,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DFGQPG3T?amp%3BlinkCode=sl1&amp%3Btag=dailydeal0be-20&amp%3BlinkId=61de6f28db88e28c3a8642a3a6260b61&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833391
+      "timestamp": 1768840750
     },
     {
       "id": "B0D4DLXNR1",
@@ -130,18 +163,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/GOOLOO-Compressor-Portable-Auto-Shutoff-Supersafe/dp/B0D4DLXNR1?pf_rd_r=C9S2WMSQHDVWHA3FBH58&amp%3Bpf_rd_p=d8e5cb87-9e25-447f-a8bd-9695f78f9278&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6ff60f355df590f620b9d04966dd1fd1&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1768833391
+      "timestamp": 1768840750
     },
     {
       "id": "B0DDDPLBDH",
       "title": "Palmolive Ultra Dishwashing Liquid Dish Soap, Pure + Clear Fragrance Free, 32.5 Fluid Ounce, Pack of 3 ($8.79/33% OFF)",
       "image": "https://m.media-amazon.com/images/I/B0DDDPLBDH._AC_SL1500_.jpg",
       "price": "$8.79",
-      "rating": "4.7 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DDDPLBDH?th=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=3dd65c8fa748aec2d662a6e3c5ef0962&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833393
+      "timestamp": 1768840751
     },
     {
       "id": "B0CF4ZDH7C",
@@ -152,7 +185,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CF4ZDH7C?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1768833393
+      "timestamp": 1768840751
     },
     {
       "id": "B0C73XLG74",
@@ -163,7 +196,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C73XLG74?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=1a152b4deaa80c5045aad0a6856be2af&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833393
+      "timestamp": 1768840751
     },
     {
       "id": "B0FY2TNBHB",
@@ -174,7 +207,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/GooDee-Projector-Bluetooth-Portable-Applicable/dp/B0FY2TNBHB?pf_rd_r=R4Z4D8MAKDZZ4NRRDEZS&amp%3Bpf_rd_p=d8e5cb87-9e25-447f-a8bd-9695f78f9278&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=aiman2002-20&amp%3BlinkId=bb84ff10be8eac981e8a7a9962efd84e&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833393
+      "timestamp": 1768840751
     },
     {
       "id": "B09G4SZ2V3",
@@ -185,18 +218,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09G4SZ2V3?th=1&amp%3Bie=UTF8&amp%3B_encoding=UTF8&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=96304a4e7ea2aeb06728b41bdbdc3f19&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833394
+      "timestamp": 1768840751
     },
     {
       "id": "B0D4JF2V7F",
       "title": "Carhartt Men's Rugged Flex Duck Relaxed Fit Bomber Jacket - $71.99",
       "image": "https://m.media-amazon.com/images/I/B0D4JF2V7F._AC_SL1500_.jpg",
       "price": "$71.99",
-      "rating": "4.5 out of 5 stars",
+      "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D4JF2V7F?ie=UTF8&amp%3Bascsubtag=0638faa6f41111f0a7e2ce6fee926afb0INT&amp%3Bth=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=91715-20&amp%3BlinkId=5ae0729e34fcdfd99471ca4f9ee7904f&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833395
+      "timestamp": 1768840751
     },
     {
       "id": "B0DJ19GL96",
@@ -207,7 +240,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DJ19GL96/ref=cm_sw_r_as_gl_api_gl_i_6R8B9S6ECAJ6RD5V641S?linkCode=ml1&amp%3Btag=f-25-20&amp%3BlinkId=d2af7ae9019a30db41fd9896f5fc1829%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1768833395
+      "timestamp": 1768840752
     },
     {
       "id": "B099NB3TTY",
@@ -218,7 +251,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/POWSAV-Protector-Outlets-Outlet-Extension/dp/B099NB3TTY?pf_rd_r=CHY01DV73RBV9FMFE9J4&amp%3Bpf_rd_p=ebce20ea-bd48-4212-82a9-f73b9b8e1540&amp%3Bth=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=600f35fda26d50f6949e1b665ed005fe&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833395
+      "timestamp": 1768840752
     },
     {
       "id": "B07P5RX1LR",
@@ -229,7 +262,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07P5RX1LR?tag=syncflow-20&amp%3BlinkCode=ogi&amp%3Bth=1&amp%3Bpsc=1%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E",
       "category": "General",
-      "timestamp": 1768833395
+      "timestamp": 1768840752
     },
     {
       "id": "B0CZ39TFTP",
@@ -240,7 +273,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CZ39TFTP?th=1&amp%3BlinkCode=ll1&amp%3Btag=cvamonra-20&amp%3BlinkId=14456757b3ffbcca2b1fbd5b81555a42&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1768833395
+      "timestamp": 1768840752
     },
     {
       "id": "B0DBPTVP5P",
@@ -251,18 +284,18 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DBPTVP5P?th=1&amp%3Bie=UTF8&amp%3B_encoding=UTF8&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=9f93993fd873241b7b977a3886727edb&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1768833396
+      "timestamp": 1768840752
     },
     {
       "id": "B0B3S5GWX7",
       "title": "Ninja DG551 Foodi Smart XL 6-in-1 Indoor Grill with Air Fry, Roast, Bake, Broil, & Dehydrate - $179.99",
       "image": "https://m.media-amazon.com/images/I/B0B3S5GWX7._AC_SL1500_.jpg",
       "price": "$179.99",
-      "rating": "N/A",
+      "rating": "4.7 out of 5 stars",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B3S5GWX7/ref=cm_sw_r_as_gl_api_gl_i_dl_8YCJATW908MV7PWVBVCQ?linkCode=ml1&amp%3Btag=91715-20&amp%3BlinkId=04914c001aa59323bd536be35c62b00d%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833396
+      "timestamp": 1768840754
     },
     {
       "id": "B0DTQDRWTZ",
@@ -273,29 +306,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DTQDRWTZ?psc=1&amp%3BlinkCode=ll1&amp%3Btag=mkodrdtamz-20&amp%3BlinkId=abe7187889a19867af6acf3e204051c7&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
       "category": "General",
-      "timestamp": 1768833396
-    },
-    {
-      "id": "A1IUIRHVHK",
-      "title": "$30 Amazon credit when you spend $100 on pet products.",
-      "image": "https://m.media-amazon.com/images/I/A1IUIRHVHK._AC_SL1500_.jpg",
-      "price": "$30",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/promotion/psp/A1IUIRHVHKF18G?redirectAsin=B00HQM0UMS&amp%3BredirectMerchantId=ATVPDKIKX0DER&amp%3BlinkCode=ll2&amp%3Btag=f-25-20&amp%3BlinkId=cee67b2f9aa5420890668106bfc38f6e&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1768833396
-    },
-    {
-      "id": "B000VAJLUY",
-      "title": "Lucky Brand Men's 181 Relaxed Straight Jean $55",
-      "image": "https://m.media-amazon.com/images/I/B000VAJLUY._AC_SL1500_.jpg",
-      "price": "$55",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Lucky-Brand-Relaxed-Straight-Dellwood/dp/B000VAJLUY?_encoding=UTF8&amp%3Bpd_rd_w=oSOBf&amp%3Bcontent-id=amzn1.sym.048a6e3c-8d40-4302-8312-26c626af6738%3Aamzn1.symc.050ea944-f1cf-4610-b462-3b604f2f4082&amp%3Bpf_rd_p=048a6e3c-8d40-4302-8312-26c626af6738&amp%3Bpf_rd_r=R21TG3YHW9MTB1NMC62K&amp%3Bpd_rd_wg=T9Hd1&amp%3Bpd_rd_r=12f008d3-9ddc-48c6-bb3b-5d718b9f8570&amp%3Bth=1&amp%3Bpsc=1&amp%3BlinkCode=ll1&amp%3Btag=122278-20&amp%3BlinkId=6e2739ccdba6908a292b6ca81f3ba63f&amp%3Blanguage=en_US&amp%3Bref_=as_li_ss_tl%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan%3E&tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1768833396
+      "timestamp": 1768840754
     }
   ]
 }
