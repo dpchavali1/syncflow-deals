@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DH8MKYNS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 6,
       "discount": 75
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01ELI90R0/ref=cm_sw_r_as_gl_api_gl_i_K5MP81S76CVSZ95B4MSX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 5,
       "discount": 55
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B097F22XKY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 4,
       "discount": 71
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BNQ56MH5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 4,
       "discount": 40
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0831SCHG8?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 4,
       "discount": 42
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D92DJCR4?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 3,
       "discount": 26
     },
@@ -87,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CHJQ1XK7?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 3,
       "discount": 22
     },
@@ -100,22 +100,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FFB1Z36M?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 3,
       "discount": 50
-    },
-    {
-      "id": "B0013OJUY4",
-      "title": "Aveeno Skin Relief Moisturizing Lotion Heals Very Dry, Sensitive Skin $5.99",
-      "image": "https://m.media-amazon.com/images/I/B0013OJUY4._AC_SL1500_.jpg",
-      "price": "$5.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0013OJUY4?tag=syncflow-20",
-      "category": "Beauty",
-      "timestamp": 1769453401,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0G4SL68V7",
@@ -126,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G4SL68V7?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 30
     },
@@ -139,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 34
     },
@@ -152,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 24
     },
@@ -165,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-32-inch-LED-HD-Fire-TV/dp/B0F7RZ1MS9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 46
     },
@@ -178,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLQ292G3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 44
     },
@@ -191,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0886B1TWC/ref=cm_sw_r_as_gl_api_gl_i_dl_DGV1PRHZ7CXDGWCWRZBW?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 31
     },
@@ -204,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DR9DXNCF?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 24
     },
@@ -217,22 +204,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CBQRTQ6D?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769453419,
+      "timestamp": 1769459846,
       "score": 2,
       "discount": 38
-    },
-    {
-      "id": "B0CSFM4H2Y",
-      "title": "PHIXTON Rechargeable Flashlight - 10000 High Lumens Long Range 3280 FT $11 + Free Shipping w/ Prime - Amazon",
-      "image": "https://m.media-amazon.com/images/I/B0CSFM4H2Y._AC_SL1500_.jpg",
-      "price": "$11",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CSFM4H2Y?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769453401,
-      "score": 2,
-      "discount": 0
     },
     {
       "id": "B0F15C7JL2",
@@ -243,7 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F15C7JL2?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769453418,
+      "timestamp": 1769459845,
       "score": 0,
       "discount": 0
     },
@@ -256,10 +230,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B25ML2FH?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769453418,
+      "timestamp": 1769459845,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769453430
+  "updated": 1769459858
 }
