@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DH8MKYNS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 6,
       "discount": 75
     },
@@ -22,9 +22,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Timberland-Comfort-Moisture-Multiple-Assorted/dp/B0DSJTH216?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 6,
       "discount": 66
+    },
+    {
+      "id": "B01ELI90R0",
+      "title": "Shrek 4-Movie Collection",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$13.40",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B01ELI90R0/ref=cm_sw_r_as_gl_api_gl_i_K5MP81S76CVSZ95B4MSX?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769403608,
+      "score": 5,
+      "discount": 55
     },
     {
       "id": "B097F22XKY",
@@ -35,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B097F22XKY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 4,
       "discount": 71
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BNQ56MH5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 4,
       "discount": 40
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0831SCHG8?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 4,
       "discount": 42
     },
@@ -74,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D92DJCR4?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 3,
       "discount": 26
     },
@@ -87,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CHJQ1XK7?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 3,
       "discount": 22
     },
@@ -100,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FFB1Z36M?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 3,
       "discount": 50
     },
@@ -113,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DFY4F5LN?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 3,
       "discount": 26
     },
@@ -126,35 +139,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Anker-Travel-Ready-Technology-High-Speed-Output%EF%BC%88Black%EF%BC%89%EF%BC%8C1pack/dp/B0D5CLSMFB?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 3,
       "discount": 23
-    },
-    {
-      "id": "B0FC6PZ56P",
-      "title": "Amazon US - 38% OFF - Lightweight Cordless Leaf Blower with Variable Speed and 3 Rechargeable 21V Batteries",
-      "image": "https://m.media-amazon.com/images/I/B0FC6PZ56P._AC_SL1500_.jpg",
-      "price": "$39.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FC6PZ56P?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769394918,
-      "score": 3,
-      "discount": 38
-    },
-    {
-      "id": "B0DHL5H43K",
-      "title": "YMMV USB C Hub, QGeeM USB 4k to HDMI Adapter, 7 in 1 USB-C Dongle with 100W PD,USB 3.0, Card Reade Grey $7.51 AC at Amazon",
-      "image": "https://m.media-amazon.com/images/I/B0DHL5H43K._AC_SL1500_.jpg",
-      "price": "$7.51",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DHL5H43K?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1769394905,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0CD1BHXPZ",
@@ -165,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CD1BHXPZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769394858,
+      "timestamp": 1769403567,
       "score": 3,
       "discount": 0
     },
@@ -178,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-32-inch-LED-HD-Fire-TV/dp/B0F7RZ1MS9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 2,
       "discount": 46
     },
@@ -191,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 2,
       "discount": 24
     },
@@ -204,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLQ292G3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 2,
       "discount": 44
     },
@@ -217,7 +204,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0886B1TWC/ref=cm_sw_r_as_gl_api_gl_i_dl_DGV1PRHZ7CXDGWCWRZBW?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 2,
       "discount": 31
     },
@@ -230,7 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DR9DXNCF?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 2,
       "discount": 24
     },
@@ -243,20 +230,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CBQRTQ6D?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769394918,
+      "timestamp": 1769403608,
       "score": 2,
       "discount": 38
     },
     {
-      "id": "B0D9GZW76H",
-      "title": "YMMV VUSIGN Under Sink Organizers Storage, 2 Tier Under Cabinet Organizer Shelf, Pull Out Kitchen Bathroom Sink Organizer Storage Organization, 2 Pack Black $15.74 AC at Amazon",
-      "image": "https://m.media-amazon.com/images/I/B0D9GZW76H._AC_SL1500_.jpg",
-      "price": "$15.74",
+      "id": "B01LW03BX8",
+      "title": "$21.93: Steve Madden Men's Fenta Fashion Sneaker, Black Fabric, Size 10 M",
+      "image": "https://m.media-amazon.com/images/I/B01LW03BX8._AC_SL1500_.jpg",
+      "price": "$21.93",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D9GZW76H?tag=syncflow-20",
-      "category": "Home",
-      "timestamp": 1769394911,
+      "url": "https://www.amazon.com/dp/B01LW03BX8?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769403595,
       "score": 2,
       "discount": 0
     },
@@ -269,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07NWYCVPT?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1769394858,
+      "timestamp": 1769403567,
       "score": 2,
       "discount": 0
     },
@@ -282,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FFPF9WBG?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769394858,
+      "timestamp": 1769403567,
       "score": 2,
       "discount": 0
     },
@@ -295,7 +282,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F15C7JL2?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769394917,
+      "timestamp": 1769403607,
       "score": 0,
       "discount": 0
     },
@@ -308,7 +295,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B25ML2FH?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769394917,
+      "timestamp": 1769403607,
       "score": 0,
       "discount": 0
     },
@@ -321,23 +308,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/OWC-PC5-44800-288-pin-Compatible-Inspiron/dp/B0D1W1BCWV?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769394917,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0DLYZT2R6",
-      "title": "Calvin Klein Zulle Zip-Around Backpack w/ Signature Hang Off (Caramel) $55.55 + Free Shipping",
-      "image": "https://m.media-amazon.com/images/I/B0DLYZT2R6._AC_SL1500_.jpg",
-      "price": "$55.55",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DLYZT2R6?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1769394883,
+      "timestamp": 1769403607,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769394930
+  "updated": 1769403621
 }
