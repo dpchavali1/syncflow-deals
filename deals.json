@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DH8MKYNS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 6,
       "discount": 75
     },
@@ -22,9 +22,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Timberland-Comfort-Moisture-Multiple-Assorted/dp/B0DSJTH216?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 6,
       "discount": 66
+    },
+    {
+      "id": "B097F22XKY",
+      "title": "Amazon US - 71% OFF - Michael Kors Jet Set Large Crossbody bag (reg )",
+      "image": "https://m.media-amazon.com/images/I/B097F22XKY._AC_SL1500_.jpg",
+      "price": "$47.89",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B097F22XKY?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769394918,
+      "score": 4,
+      "discount": 71
     },
     {
       "id": "B0BNQ56MH5",
@@ -35,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BNQ56MH5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 4,
       "discount": 40
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0831SCHG8?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 4,
       "discount": 42
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D92DJCR4?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 3,
       "discount": 26
     },
@@ -74,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CHJQ1XK7?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 3,
       "discount": 22
     },
@@ -87,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FFB1Z36M?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 3,
       "discount": 50
     },
@@ -100,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DFY4F5LN?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 3,
       "discount": 26
     },
@@ -113,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Anker-Travel-Ready-Technology-High-Speed-Output%EF%BC%88Black%EF%BC%89%EF%BC%8C1pack/dp/B0D5CLSMFB?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 3,
       "discount": 23
     },
@@ -126,22 +139,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FC6PZ56P?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 3,
       "discount": 38
-    },
-    {
-      "id": "B0DTB3P91J",
-      "title": "$10*:Star Wars Non-Electronic Darth Vader Lightsaber & The Mandalorian Darksaber",
-      "image": "https://m.media-amazon.com/images/I/B0DTB3P91J._AC_SL1500_.jpg",
-      "price": "$10",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DTB3P91J?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769390471,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0DHL5H43K",
@@ -152,20 +152,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DHL5H43K?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390453,
+      "timestamp": 1769394905,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B0FT2XSPSN",
-      "title": "4-Grams Arctic MX-4 Premium Performance Thermal Paste $5.50",
-      "image": "https://m.media-amazon.com/images/I/B0FT2XSPSN._AC_SL1500_.jpg",
-      "price": "$5.50",
+      "id": "B0CD1BHXPZ",
+      "title": "UGREEN 4-Port USB 3.0 5Gbps Type-A Expander Hub w/ 6\" Cord $6",
+      "image": "https://m.media-amazon.com/images/I/B0CD1BHXPZ._AC_SL1500_.jpg",
+      "price": "$6",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FT2XSPSN?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0CD1BHXPZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390439,
+      "timestamp": 1769394858,
       "score": 3,
       "discount": 0
     },
@@ -178,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-32-inch-LED-HD-Fire-TV/dp/B0F7RZ1MS9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 2,
       "discount": 46
     },
@@ -191,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 2,
       "discount": 24
     },
@@ -204,7 +204,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLQ292G3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 2,
       "discount": 44
     },
@@ -217,7 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0886B1TWC/ref=cm_sw_r_as_gl_api_gl_i_dl_DGV1PRHZ7CXDGWCWRZBW?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 2,
       "discount": 31
     },
@@ -230,7 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DR9DXNCF?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 2,
       "discount": 24
     },
@@ -243,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CBQRTQ6D?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769390477,
+      "timestamp": 1769394918,
       "score": 2,
       "discount": 38
     },
@@ -256,7 +256,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D9GZW76H?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769390458,
+      "timestamp": 1769394911,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B07NWYCVPT",
+      "title": "24-Pack Amazon Basics Rechargeable AAA NiMH 850 mAh 1.2V Batteries $13.55 w/ Subscribe & Save",
+      "image": "https://m.media-amazon.com/images/I/B07NWYCVPT._AC_SL1500_.jpg",
+      "price": "$13.55",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B07NWYCVPT?tag=syncflow-20",
+      "category": "Baby",
+      "timestamp": 1769394858,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0FFPF9WBG",
+      "title": "Gourmia 12 Cup One-Touch Switch Coffee Maker with Auto Keep Warm $19.70",
+      "image": "https://m.media-amazon.com/images/I/B0FFPF9WBG._AC_SL1500_.jpg",
+      "price": "$19.70",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0FFPF9WBG?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769394858,
       "score": 2,
       "discount": 0
     },
@@ -269,7 +295,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F15C7JL2?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390475,
+      "timestamp": 1769394917,
       "score": 0,
       "discount": 0
     },
@@ -282,7 +308,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B25ML2FH?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390475,
+      "timestamp": 1769394917,
       "score": 0,
       "discount": 0
     },
@@ -295,7 +321,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/OWC-PC5-44800-288-pin-Compatible-Inspiron/dp/B0D1W1BCWV?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390475,
+      "timestamp": 1769394917,
       "score": 0,
       "discount": 0
     },
@@ -308,10 +334,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DLYZT2R6?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769390425,
+      "timestamp": 1769394883,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769390490
+  "updated": 1769394930
 }
