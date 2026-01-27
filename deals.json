@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B00JUMDGSC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 6,
       "discount": 65
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DH8MKYNS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 6,
       "discount": 75
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F7N7MWLC/ref=cm_sw_r_as_gl_api_gl_i_DXE5TKCVW6PJ46YV6H2G?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 5,
       "discount": 58
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01B77W0AM?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 5,
       "discount": 40
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FVLYNQZY?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 5,
       "discount": 50
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01ELI90R0/ref=cm_sw_r_as_gl_api_gl_i_K5MP81S76CVSZ95B4MSX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 5,
       "discount": 55
     },
@@ -87,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B097F22XKY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 4,
       "discount": 71
     },
@@ -100,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BNQ56MH5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 4,
       "discount": 40
     },
@@ -113,35 +113,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0831SCHG8?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 4,
       "discount": 42
-    },
-    {
-      "id": "B0D92DJCR4",
-      "title": "26% SALE on a pack of 2 Hand Warmers",
-      "image": "https://m.media-amazon.com/images/I/B0D92DJCR4._AC_SL1500_.jpg",
-      "price": "$19.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D92DJCR4?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769532262,
-      "score": 3,
-      "discount": 26
-    },
-    {
-      "id": "B0D9KSY9QY",
-      "title": "Melissa & Doug Sticker Wow!\u2122 Bunny Bundle: 24-Page Activity Pad, Stamper, 500 Stickers",
-      "image": "https://m.media-amazon.com/images/I/B0D9KSY9QY._AC_SL1500_.jpg",
-      "price": "$5.82",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D9KSY9QY/?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769532254,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0G4SL68V7",
@@ -152,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G4SL68V7?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 2,
       "discount": 30
     },
@@ -165,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 2,
       "discount": 34
     },
@@ -178,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 2,
       "discount": 24
     },
@@ -191,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-32-inch-LED-HD-Fire-TV/dp/B0F7RZ1MS9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 2,
       "discount": 46
     },
@@ -204,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLQ292G3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 2,
       "discount": 44
     },
@@ -217,46 +191,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0886B1TWC/ref=cm_sw_r_as_gl_api_gl_i_dl_DGV1PRHZ7CXDGWCWRZBW?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769532262,
+      "timestamp": 1769540083,
       "score": 2,
       "discount": 31
     },
     {
-      "id": "B09351Z6JM",
-      "title": "$19.13: Streamlight 73300 Pocket Mate 325-Lumen Keychain/Clip-on USB Rechargeable Flashlight, Silver",
-      "image": "https://m.media-amazon.com/images/I/B09351Z6JM._AC_SL1500_.jpg",
-      "price": "$19.13",
+      "id": "B0CTHDRWHG",
+      "title": "$11*:MEANHIGH M.2 NVME SSD Enclosure, Tool-Free USB 3.2 Gen 2 10Gbps Adapter, for 2242/2260/2280 (Up to 8TB)",
+      "image": "https://m.media-amazon.com/images/I/B0CTHDRWHG._AC_SL1500_.jpg",
+      "price": "$11",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B09351Z6JM?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0CTHDRWHG?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769532235,
+      "timestamp": 1769540080,
       "score": 2,
       "discount": 0
     },
     {
-      "id": "B0D1KGXTFG",
-      "title": "Amelie Home Chenille Knit Waffle Weave Throw Blanket (50\" x 60\", Sage Green) $13.50",
-      "image": "https://m.media-amazon.com/images/I/B0D1KGXTFG._AC_SL1500_.jpg",
-      "price": "$13.50",
+      "id": "B09XGYWJ3F",
+      "title": "Anker 535 USB-C Hub w/ 2x USB-A, 1x USB-C 10Gbps Data Ports for iMac $22",
+      "image": "https://m.media-amazon.com/images/I/B09XGYWJ3F._AC_SL1500_.jpg",
+      "price": "$22",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D1KGXTFG/?tag=syncflow-20",
-      "category": "Home",
-      "timestamp": 1769532226,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B0F6LTLRLW",
-      "title": "24\" VECELO C-Shaped End Side Table w/ Charging Station & 2 USB Ports (Black Marble) $20.30",
-      "image": "https://m.media-amazon.com/images/I/B0F6LTLRLW._AC_SL1500_.jpg",
-      "price": "$20.30",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0F6LTLRLW\\u003C/a?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B09XGYWJ3F\\u003C/a?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769532205,
+      "timestamp": 1769539962,
       "score": 2,
       "discount": 0
     },
@@ -269,20 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Monoxide-Detector-Temperature-Humidity-Apartment/dp/B0GCZBJSZQ?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1769532262,
-      "score": 1,
-      "discount": 0
-    },
-    {
-      "id": "B08NBHV5F5",
-      "title": "1500W Pelonis Basic Electric Oil Filled Radiator (White) $44.05 + Free Shipping",
-      "image": "https://m.media-amazon.com/images/I/B08NBHV5F5._AC_SL1500_.jpg",
-      "price": "$44.05",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B08NBHV5F5\\u003C/a?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769532202,
+      "timestamp": 1769540083,
       "score": 1,
       "discount": 0
     },
@@ -295,7 +243,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769532261,
+      "timestamp": 1769540082,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0B25ML2FH",
+      "title": "Crucial P3 Plus PCIe Gen4 NVMe 2TB SSD (S&S by Amazon)",
+      "image": "https://m.media-amazon.com/images/I/B0B25ML2FH._AC_SL1500_.jpg",
+      "price": "$146.22",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0B25ML2FH?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1769540082,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0DC8RVRBZ",
+      "title": "Crucial P310 2TB SSD (S&S by Amazon)",
+      "image": "https://m.media-amazon.com/images/I/B0DC8RVRBZ._AC_SL1500_.jpg",
+      "price": "$191.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DC8RVRBZ?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1769540082,
       "score": 0,
       "discount": 0
     },
@@ -308,23 +282,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B4SWQ39Y?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769532261,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0F15C7JL2",
-      "title": "LG 39GX90SA-W 39-inch Ultragear WQHD (3440 x 1440) OLED 240Hz $784 All Time Low",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$784",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F15C7JL2?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1769532261,
+      "timestamp": 1769540082,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769532273
+  "updated": 1769540098
 }
