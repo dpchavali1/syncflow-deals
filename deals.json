@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B00JUMDGSC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 6,
       "discount": 65
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DH8MKYNS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 6,
       "discount": 75
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F7N7MWLC/ref=cm_sw_r_as_gl_api_gl_i_DXE5TKCVW6PJ46YV6H2G?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 5,
       "discount": 58
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FVLYNQZY?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 5,
       "discount": 50
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01B77W0AM?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 5,
       "discount": 40
     },
@@ -74,22 +74,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01ELI90R0/ref=cm_sw_r_as_gl_api_gl_i_K5MP81S76CVSZ95B4MSX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 5,
       "discount": 55
-    },
-    {
-      "id": "B0831SCHG8",
-      "title": "42% OFF - 2-Tier Electric Food Steamer, 5-Quart Stainless Steel Stackable Steam Cooker with 400W Power, 60-Minute Timer, Auto Shut-Off, and Dishwasher-Safe Design",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$19.19",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0831SCHG8?tag=syncflow-20",
-      "category": "Gaming",
-      "timestamp": 1769546024,
-      "score": 4,
-      "discount": 42
     },
     {
       "id": "B097F22XKY",
@@ -100,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B097F22XKY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 4,
       "discount": 71
     },
@@ -113,35 +100,48 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BNQ56MH5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 4,
       "discount": 40
     },
     {
-      "id": "B0FZT9PQ24",
-      "title": "$19*:NEWBULIG 2 Step Ladder, Folding Step Stool with Safety Lock, Anti-Slip Design, Portable Foldable Ladder for Home Kitchen, Jet Black",
-      "image": "https://m.media-amazon.com/images/I/B0FZT9PQ24._AC_SL1500_.jpg",
-      "price": "$19",
+      "id": "B0831SCHG8",
+      "title": "42% OFF - 2-Tier Electric Food Steamer, 5-Quart Stainless Steel Stackable Steam Cooker with 400W Power, 60-Minute Timer, Auto Shut-Off, and Dishwasher-Safe Design",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$19.19",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0FZT9PQ24?tag=syncflow-20",
-      "category": "Home",
-      "timestamp": 1769545995,
+      "url": "https://www.amazon.com/dp/B0831SCHG8?tag=syncflow-20",
+      "category": "Gaming",
+      "timestamp": 1769553079,
+      "score": 4,
+      "discount": 42
+    },
+    {
+      "id": "B0DZQXZGCG",
+      "title": "Ocean Spray\u00ae ZERO Sugar Strawberry Mango Juice Drink, Strawberry Mango Juice Drink Sweetened with Stevia, 10 Fl Oz Bottle, 6 Count (Pack of 1)~$3.12 With S&S @ Amazon",
+      "image": "https://m.media-amazon.com/images/I/B0DZQXZGCG._AC_SL1500_.jpg",
+      "price": "$3.12",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0DZQXZGCG?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769553069,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B0886B1TWC",
-      "title": "Edifier R1700BTs Active Bluetooth Bookshelf Speakers",
-      "image": "https://m.media-amazon.com/images/I/B0886B1TWC._AC_SL1500_.jpg",
-      "price": "$159.49",
+      "id": "B0G3WDB5XF",
+      "title": "SONGMICS Bed Laptop Desk, Foldable Bed Desk for Laptop, 15.7 x 22 Inches Large Desktop, 120\u00b0 Stepless Tilt, Adjustable Height, Cup Holder, Tray, Portable Bed Sofa Table, Ink Black $32",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$32",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0886B1TWC/ref=cm_sw_r_as_gl_api_gl_i_dl_DGV1PRHZ7CXDGWCWRZBW?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769546024,
+      "url": "https://www.amazon.com/dp/B0G3WDB5XF?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1769553079,
       "score": 2,
-      "discount": 31
+      "discount": 20
     },
     {
       "id": "B0G4SL68V7",
@@ -152,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G4SL68V7?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 2,
       "discount": 30
     },
@@ -165,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 2,
       "discount": 34
     },
@@ -178,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 2,
       "discount": 24
     },
@@ -191,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-32-inch-LED-HD-Fire-TV/dp/B0F7RZ1MS9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 2,
       "discount": 46
     },
@@ -204,22 +204,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLQ292G3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769546023,
+      "timestamp": 1769553079,
       "score": 2,
       "discount": 44
-    },
-    {
-      "id": "B0FCTJ1C6B",
-      "title": "PAW Patrol Rescue Wheels: Championship (Nintendo Switch) $14.65",
-      "image": "https://m.media-amazon.com/images/I/B0FCTJ1C6B._AC_SL1500_.jpg",
-      "price": "$14.65",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0FCTJ1C6B\\u003C/a?tag=syncflow-20",
-      "category": "Gaming",
-      "timestamp": 1769545951,
-      "score": 2,
-      "discount": 0
     },
     {
       "id": "B0GCZBJSZQ",
@@ -230,20 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Monoxide-Detector-Temperature-Humidity-Apartment/dp/B0GCZBJSZQ?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1769546023,
-      "score": 1,
-      "discount": 0
-    },
-    {
-      "id": "B09W2Y51TC",
-      "title": "$31*:Amazon Basics 4-Shelf Adjustable Storage Shelving Unit,Black,13.4\" D x 23.2\" W x 48\" H at Amazon",
-      "image": "https://m.media-amazon.com/images/I/B09W2Y51TC._AC_SL1500_.jpg",
-      "price": "$31",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B09W2Y51TC?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769545997,
+      "timestamp": 1769553079,
       "score": 1,
       "discount": 0
     },
@@ -256,7 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DWJPZ23Y\\u003C/a?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769545947,
+      "timestamp": 1769553044,
       "score": 1,
       "discount": 0
     },
@@ -269,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769546022,
+      "timestamp": 1769553078,
       "score": 0,
       "discount": 0
     },
@@ -282,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DC8RVRBZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769546022,
+      "timestamp": 1769553078,
       "score": 0,
       "discount": 0
     },
@@ -295,23 +269,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B25ML2FH?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769546022,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0B4SWQ39Y",
-      "title": "Western Digital 2TB SN850 NVMe SSD $199.99",
-      "image": "https://m.media-amazon.com/images/I/B0B4SWQ39Y._AC_SL1500_.jpg",
-      "price": "$199.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0B4SWQ39Y?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1769546022,
+      "timestamp": 1769553078,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769546035
+  "updated": 1769553091
 }
