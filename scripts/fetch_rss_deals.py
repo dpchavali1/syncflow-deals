@@ -27,7 +27,9 @@ RSS_FEEDS = [
     "https://www.reddit.com/r/buildapcsales/.rss",
     "https://www.reddit.com/r/deals/.rss",
     "https://www.dealnews.com/?rss=1",
+    # Amazon deal blogs
     "https://happydealhappyday.com/category/amazon-deals/feed/",
+    "https://moneysavingmom.com/category/deals/amazon-deals/feed/",
     "https://www.dealsplus.com/rss.xml",
     "https://www.techbargains.com/rss.xml",
 ]
