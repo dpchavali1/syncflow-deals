@@ -51,6 +51,7 @@ MOBILE_HEADERS = {
 
 # ---- REGEX & HELPERS ----
 AMAZON_LINK_REGEX = r'(https?://(?:www\.)?amazon\.com/[^\s"<>\']+)'
+AMZN_SHORT_REGEX = r'(https?://(?:amzn\.to|amzn\.com)/[^\s"<>\']+)'
 ASIN_REGEX = r"/(?:dp|gp/product|gp/aw/d)/([A-Z0-9]{10})"
 PRICE_REGEX = r"\$([0-9,]+(?:\.[0-9]{1,2})?)"
 DISCOUNT_REGEX = r"(\d+)%"
@@ -130,16 +131,47 @@ def add_affiliate_tag(url):
     return urlunparse(parsed._replace(query=urlencode(q)))
 
 
+def resolve_short_url(short_url):
+    """Resolve amzn.to or other short URLs to full Amazon URL."""
+    try:
+        response = requests.head(short_url, headers=HEADERS, timeout=5, allow_redirects=True)
+        final_url = response.url
+        if 'amazon.com' in final_url:
+            return final_url
+    except:
+        pass
+    return None
+
+
 def extract_amazon_url(text, fallback=""):
     """Finds an Amazon URL in the text or uses fallback."""
-    if fallback and "amazon.com" in fallback:
-        return fallback
+    # Check fallback first
+    if fallback:
+        if "amazon.com" in fallback:
+            return fallback
+        if "amzn.to" in fallback or "amzn.com" in fallback:
+            resolved = resolve_short_url(fallback)
+            if resolved:
+                return resolved
+
     if not text:
         return None
+
+    # First try to find direct Amazon URLs
     matches = re.findall(AMAZON_LINK_REGEX, text)
     for match in matches:
-        if "amazon.com" in match:
+        if "amazon.com" in match and extract_asin(match):
             return match
+
+    # Then try amzn.to short links
+    short_matches = re.findall(AMZN_SHORT_REGEX, text)
+    for short_url in short_matches:
+        if DEBUG:
+            print(f"[DEBUG] Resolving short URL: {short_url}")
+        resolved = resolve_short_url(short_url)
+        if resolved and extract_asin(resolved):
+            return resolved
+
     return matches[0] if matches else None
 
 
