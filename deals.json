@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07815BYTV?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 6,
       "discount": 70
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B00JUMDGSC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 6,
       "discount": 65
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DH8MKYNS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 6,
       "discount": 75
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CHN8BFY3?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 5,
       "discount": 58
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F7N7MWLC/ref=cm_sw_r_as_gl_api_gl_i_DXE5TKCVW6PJ46YV6H2G?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 5,
       "discount": 58
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FVLYNQZY?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 5,
       "discount": 50
     },
@@ -87,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01B77W0AM?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 5,
       "discount": 40
     },
@@ -100,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01ELI90R0/ref=cm_sw_r_as_gl_api_gl_i_K5MP81S76CVSZ95B4MSX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 5,
       "discount": 55
     },
@@ -113,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B097F22XKY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 4,
       "discount": 71
     },
@@ -126,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G3WDB5XF?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 2,
       "discount": 20
     },
@@ -139,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G4SL68V7?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 2,
       "discount": 30
     },
@@ -152,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 2,
       "discount": 34
     },
@@ -165,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 2,
       "discount": 24
     },
@@ -178,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-32-inch-LED-HD-Fire-TV/dp/B0F7RZ1MS9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 2,
       "discount": 46
     },
@@ -191,22 +191,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLQ292G3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
       "score": 2,
       "discount": 44
-    },
-    {
-      "id": "B0CX23GC84",
-      "title": "Forca 49pcs Oscillating Tool Blades $23 @ Amazon $21",
-      "image": "https://m.media-amazon.com/images/I/B0CX23GC84._AC_SL1500_.jpg",
-      "price": "$23",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0CX23GC84?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769567196,
-      "score": 2,
-      "discount": 0
     },
     {
       "id": "B0GCZBJSZQ",
@@ -217,7 +204,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Monoxide-Detector-Temperature-Humidity-Apartment/dp/B0GCZBJSZQ?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1769567215,
+      "timestamp": 1769575928,
+      "score": 1,
+      "discount": 0
+    },
+    {
+      "id": "B0C1C7XY5X",
+      "title": "$40* | Cooler Master MasterLiquid 360L Core ARGB CPU Liquid Cooler at Amazon",
+      "image": "https://m.media-amazon.com/images/I/B0C1C7XY5X._AC_SL1500_.jpg",
+      "price": "$40",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0C1C7XY5X?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769575923,
       "score": 1,
       "discount": 0
     },
@@ -230,7 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769567214,
+      "timestamp": 1769575927,
       "score": 0,
       "discount": 0
     },
@@ -243,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DC8RVRBZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769567214,
+      "timestamp": 1769575927,
       "score": 0,
       "discount": 0
     },
@@ -256,23 +256,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B25ML2FH?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769567214,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0B4SWQ39Y",
-      "title": "Western Digital 2TB SN850 NVMe SSD $199.99",
-      "image": "https://m.media-amazon.com/images/I/B0B4SWQ39Y._AC_SL1500_.jpg",
-      "price": "$199.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0B4SWQ39Y?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1769567214,
+      "timestamp": 1769575927,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769567226
+  "updated": 1769575939
 }
