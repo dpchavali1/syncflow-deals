@@ -19,19 +19,18 @@ RATE_LIMIT_DELAY = 0.5
 
 # RSS feeds - existing + Slickdeals
 RSS_FEEDS = [
-    # Slickdeals (new)
+    # Slickdeals
     "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
     "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1",
-    # Existing feeds
-    "https://slickdeals.net/newsearch.php?searchin=first&rss=1",
+    # Reddit
     "https://www.reddit.com/r/buildapcsales/.rss",
     "https://www.reddit.com/r/deals/.rss",
+    "https://www.reddit.com/r/AmazonDeals/.rss",
+    # Deal news sites
     "https://www.dealnews.com/?rss=1",
-    # Amazon deal blogs
+    # Amazon deal blogs (these link to blog posts, script fetches Amazon URLs from pages)
     "https://happydealhappyday.com/category/amazon-deals/feed/",
     "https://moneysavingmom.com/category/deals/amazon-deals/feed/",
-    "https://www.dealsplus.com/rss.xml",
-    "https://www.techbargains.com/rss.xml",
 ]
 
 HEADERS = {
@@ -274,10 +273,19 @@ def main():
             # Try to find Amazon URL in summary or link
             amazon_url = extract_amazon_url(summary, fallback_link)
 
-            # If no direct Amazon URL and it's a Slickdeals link mentioning Amazon, try fetching the page
-            if not amazon_url and "slickdeals.net" in fallback_link:
+            # If no direct Amazon URL, try fetching from the page for known deal sites
+            if not amazon_url:
                 combined = f"{title} {summary}".lower()
-                if "amazon" in combined:
+                # Check if it's a deal site that links to blog posts (not direct Amazon links)
+                deal_blog_domains = [
+                    "slickdeals.net",
+                    "moneysavingmom.com",
+                    "happydealhappyday.com",
+                    "dealnews.com",
+                ]
+                is_deal_blog = any(domain in fallback_link for domain in deal_blog_domains)
+
+                if is_deal_blog and "amazon" in combined:
                     amazon_url = fetch_amazon_url_from_page(fallback_link)
 
             if not amazon_url:
