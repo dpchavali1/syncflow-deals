@@ -1,6 +1,19 @@
 {
   "deals": [
     {
+      "id": "B07815BYTV",
+      "title": "Amazon US - 70% OFF - Under Armour Mens Tech 2.0 Short-Sleeve T-shirtShirt - Just $7.35 (Blue, L)",
+      "image": "https://m.media-amazon.com/images/I/B07815BYTV._AC_SL1500_.jpg",
+      "price": "$7.35",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B07815BYTV?tag=syncflow-20",
+      "category": "Accessories",
+      "timestamp": 1769567215,
+      "score": 6,
+      "discount": 70
+    },
+    {
       "id": "B00JUMDGSC",
       "title": "Hanes mens Ultimate Sweatshirt, Heavyweight Fleece Sweatshirt, Crewneck Pullover for Men $9.20",
       "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
@@ -9,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B00JUMDGSC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 6,
       "discount": 65
     },
@@ -22,9 +35,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DH8MKYNS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 6,
       "discount": 75
+    },
+    {
+      "id": "B0CHN8BFY3",
+      "title": "Stanley IceFlow Cap and Carry Water Bottle, Orange ($14.58/58% Off)",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$14.58",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CHN8BFY3?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769567215,
+      "score": 5,
+      "discount": 58
     },
     {
       "id": "B0F7N7MWLC",
@@ -35,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F7N7MWLC/ref=cm_sw_r_as_gl_api_gl_i_DXE5TKCVW6PJ46YV6H2G?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 5,
       "discount": 58
     },
@@ -48,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FVLYNQZY?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 5,
       "discount": 50
     },
@@ -61,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01B77W0AM?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 5,
       "discount": 40
     },
@@ -74,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01ELI90R0/ref=cm_sw_r_as_gl_api_gl_i_K5MP81S76CVSZ95B4MSX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 5,
       "discount": 55
     },
@@ -87,48 +113,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B097F22XKY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 4,
       "discount": 71
-    },
-    {
-      "id": "B0BNQ56MH5",
-      "title": "Amazon - 2-Tier Multi-Purpose Bathroom Under Sink Organizers and Storage",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$23.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0BNQ56MH5?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769553079,
-      "score": 4,
-      "discount": 40
-    },
-    {
-      "id": "B0831SCHG8",
-      "title": "42% OFF - 2-Tier Electric Food Steamer, 5-Quart Stainless Steel Stackable Steam Cooker with 400W Power, 60-Minute Timer, Auto Shut-Off, and Dishwasher-Safe Design",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "$19.19",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0831SCHG8?tag=syncflow-20",
-      "category": "Gaming",
-      "timestamp": 1769553079,
-      "score": 4,
-      "discount": 42
-    },
-    {
-      "id": "B0DZQXZGCG",
-      "title": "Ocean Spray\u00ae ZERO Sugar Strawberry Mango Juice Drink, Strawberry Mango Juice Drink Sweetened with Stevia, 10 Fl Oz Bottle, 6 Count (Pack of 1)~$3.12 With S&S @ Amazon",
-      "image": "https://m.media-amazon.com/images/I/B0DZQXZGCG._AC_SL1500_.jpg",
-      "price": "$3.12",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0DZQXZGCG?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769553069,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0G3WDB5XF",
@@ -139,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G3WDB5XF?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 2,
       "discount": 20
     },
@@ -152,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G4SL68V7?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 2,
       "discount": 30
     },
@@ -165,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 2,
       "discount": 34
     },
@@ -178,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 2,
       "discount": 24
     },
@@ -191,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-32-inch-LED-HD-Fire-TV/dp/B0F7RZ1MS9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 2,
       "discount": 46
     },
@@ -204,9 +191,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLQ292G3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769553079,
+      "timestamp": 1769567215,
       "score": 2,
       "discount": 44
+    },
+    {
+      "id": "B0CX23GC84",
+      "title": "Forca 49pcs Oscillating Tool Blades $23 @ Amazon $21",
+      "image": "https://m.media-amazon.com/images/I/B0CX23GC84._AC_SL1500_.jpg",
+      "price": "$23",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0CX23GC84?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769567196,
+      "score": 2,
+      "discount": 0
     },
     {
       "id": "B0GCZBJSZQ",
@@ -217,20 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Monoxide-Detector-Temperature-Humidity-Apartment/dp/B0GCZBJSZQ?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1769553079,
-      "score": 1,
-      "discount": 0
-    },
-    {
-      "id": "B0DWJPZ23Y",
-      "title": "Prime Members: 4-pk 1.1kg JAYO 3D High Speed 1.75mm PLA Printer Filament (various) $40 + Free Shipping",
-      "image": "https://m.media-amazon.com/images/I/B0DWJPZ23Y._AC_SL1500_.jpg",
-      "price": "$40",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DWJPZ23Y\\u003C/a?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769553044,
+      "timestamp": 1769567215,
       "score": 1,
       "discount": 0
     },
@@ -243,7 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769553078,
+      "timestamp": 1769567214,
       "score": 0,
       "discount": 0
     },
@@ -256,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DC8RVRBZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769553078,
+      "timestamp": 1769567214,
       "score": 0,
       "discount": 0
     },
@@ -269,10 +256,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B25ML2FH?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769553078,
+      "timestamp": 1769567214,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0B4SWQ39Y",
+      "title": "Western Digital 2TB SN850 NVMe SSD $199.99",
+      "image": "https://m.media-amazon.com/images/I/B0B4SWQ39Y._AC_SL1500_.jpg",
+      "price": "$199.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0B4SWQ39Y?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1769567214,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769553091
+  "updated": 1769567226
 }
