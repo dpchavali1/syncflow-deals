@@ -11,11 +11,13 @@ from collections import defaultdict
 
 # ---- CONFIG ----
 OUTPUT = "deals.json"
+CACHE_FILE = "feed_cache.json"
 AFFILIATE_TAG = "syncflow-20"
 MAX_DEALS = 80
 REQUEST_TIMEOUT = 10
 REQUEST_RETRIES = 2
-RATE_LIMIT_DELAY = 0.5
+RATE_LIMIT_DELAY = 0.8  # Slightly slower to avoid rate limiting when fetching images
+DEBUG = True  # Set to True to see why entries are skipped
 
 # RSS feeds - existing + Slickdeals
 RSS_FEEDS = [
@@ -25,7 +27,7 @@ RSS_FEEDS = [
     # Reddit
     "https://www.reddit.com/r/buildapcsales/.rss",
     "https://www.reddit.com/r/deals/.rss",
-    "https://www.reddit.com/r/AmazonDeals/.rss",
+    "https://www.reddit.com/r/amazondeals/.rss",  # lowercase
     # Deal news sites
     "https://www.dealnews.com/?rss=1",
     # Amazon deal blogs (these link to blog posts, script fetches Amazon URLs from pages)
@@ -55,10 +57,66 @@ DISCOUNT_REGEX = r"(\d+)%"
 
 
 def amazon_image_from_asin(asin):
-    """Constructs a higher-quality image URL from an ASIN."""
+    """Fallback: construct Amazon product page URL to scrape image later."""
+    # Note: This doesn't actually work as Amazon images use different IDs
+    # We'll fetch the real image from the product page
     if not asin:
         return None
-    return f"https://m.media-amazon.com/images/I/{asin}._AC_SL1500_.jpg"
+    return None  # Return None to force fetching from page
+
+
+def fetch_amazon_image(asin):
+    """Fetch the actual product image from Amazon product page."""
+    if not asin:
+        return None
+
+    try:
+        url = f"https://www.amazon.com/dp/{asin}"
+        time.sleep(RATE_LIMIT_DELAY)
+        response = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+
+        if response.status_code != 200:
+            return None
+
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Try multiple selectors for product image
+        image_selectors = [
+            '#landingImage',
+            '#imgBlkFront',
+            '#ebooksImgBlkFront',
+            '.a-dynamic-image',
+            '#main-image',
+            'img[data-old-hires]',
+            '#imageBlock img',
+        ]
+
+        for selector in image_selectors:
+            img = soup.select_one(selector)
+            if img:
+                # Try data-old-hires first (high res), then src
+                img_url = img.get('data-old-hires') or img.get('data-a-dynamic-image') or img.get('src')
+                if img_url:
+                    # Handle data-a-dynamic-image which is JSON
+                    if img_url.startswith('{'):
+                        try:
+                            import json as json_module
+                            img_data = json_module.loads(img_url)
+                            img_url = list(img_data.keys())[0] if img_data else None
+                        except:
+                            continue
+                    if img_url and img_url.startswith('http') and 'amazon.com' in img_url or 'media-amazon.com' in img_url:
+                        return img_url
+
+        # Try Open Graph image as fallback
+        og_image = soup.select_one('meta[property="og:image"]')
+        if og_image and og_image.get('content'):
+            return og_image['content']
+
+        return None
+    except Exception as e:
+        print(f"[IMAGE] Error fetching image for {asin}: {e}")
+        return None
 
 
 def add_affiliate_tag(url):
@@ -112,12 +170,37 @@ def extract_discount_from_title(title):
 
 
 def extract_image_from_summary(summary):
-    """Extracts the first image URL from HTML summary content."""
+    """Extracts the best image URL from HTML summary content."""
     if not summary:
         return None
     soup = BeautifulSoup(summary, "html.parser")
-    img = soup.find("img")
-    return img["src"] if img and img.get("src") else None
+
+    # Look for Amazon images first (they're higher quality)
+    for img in soup.find_all("img"):
+        src = img.get("src") or img.get("data-src") or img.get("data-lazy-src")
+        if src and ("amazon.com" in src or "media-amazon.com" in src):
+            # Clean up and get higher res version
+            src = re.sub(r'\._[A-Z]{2}\d+_', '._AC_SL500_', src)
+            return src
+
+    # Then look for any reasonable image
+    for img in soup.find_all("img"):
+        src = img.get("src") or img.get("data-src") or img.get("data-lazy-src")
+        if src and src.startswith("http"):
+            # Skip tiny icons and tracking pixels
+            width = img.get("width", "100")
+            height = img.get("height", "100")
+            try:
+                if int(width) < 50 or int(height) < 50:
+                    continue
+            except:
+                pass
+            # Skip common non-product images
+            if any(skip in src.lower() for skip in ['icon', 'logo', 'avatar', 'pixel', 'tracking', 'badge']):
+                continue
+            return src
+
+    return None
 
 
 def clean_title(title):
@@ -207,37 +290,112 @@ def categorize(title):
 
 
 def fetch_amazon_url_from_page(page_url):
-    """Try to fetch Amazon URL from a deal page (for Slickdeals etc)."""
+    """Try to fetch Amazon URL and image from a deal page (for Slickdeals etc).
+    Returns tuple: (amazon_url, image_url)
+    """
     try:
         time.sleep(RATE_LIMIT_DELAY)
         response = requests.get(page_url, headers=HEADERS, timeout=REQUEST_TIMEOUT, allow_redirects=True)
         response.raise_for_status()
 
-        # Look for Amazon URLs in page content
-        amazon_url = extract_amazon_url(response.text)
-        if amazon_url and extract_asin(amazon_url):
-            return amazon_url
-
-        # Parse and look for Amazon links
         soup = BeautifulSoup(response.text, "html.parser")
+        amazon_url = None
+        image_url = None
+
+        # Look for Amazon URLs in anchor tags first (more reliable)
         for link in soup.find_all('a', href=True):
             href = link['href']
-            if 'amazon.com' in href and ('/dp/' in href or '/gp/' in href):
-                return href
+            # Check various Amazon URL patterns
+            if 'amazon.com' in href:
+                if '/dp/' in href or '/gp/' in href or '/product/' in href:
+                    if extract_asin(href):
+                        amazon_url = href
+                        break
+            # Also check for amzn.to short links
+            elif 'amzn.to' in href or 'amzn.com' in href:
+                # Try to follow the redirect to get real Amazon URL
+                try:
+                    redirect_resp = requests.head(href, headers=HEADERS, timeout=5, allow_redirects=True)
+                    final_url = redirect_resp.url
+                    if 'amazon.com' in final_url and extract_asin(final_url):
+                        amazon_url = final_url
+                        break
+                except:
+                    pass
 
-        return None
+        # Fallback: look via regex in full page content
+        if not amazon_url or not extract_asin(amazon_url):
+            amazon_url = extract_amazon_url(response.text)
+
+        # Extract image from the page (usually deal blogs have product images)
+        image_url = extract_image_from_summary(str(soup))
+
+        if DEBUG and amazon_url:
+            print(f"[DEBUG] Found Amazon URL: {amazon_url[:60]}...")
+
+        return (amazon_url, image_url)
+    except Exception as e:
+        print(f"[FETCH] Error fetching {page_url}: {e}")
+        return (None, None)
+
+
+def load_feed_cache():
+    """Load feed cache from file."""
+    try:
+        with open(CACHE_FILE, 'r') as f:
+            return json.load(f)
     except:
-        return None
+        return {}
 
 
-def fetch_feed(url):
-    """Fetch RSS feed with better error handling."""
+def save_feed_cache(cache):
+    """Save feed cache to file."""
+    try:
+        with open(CACHE_FILE, 'w') as f:
+            json.dump(cache, f, indent=2)
+    except Exception as e:
+        print(f"[CACHE] Error saving cache: {e}")
+
+
+def fetch_feed(url, cache=None):
+    """Fetch RSS feed with caching and better error handling."""
     print(f"\n[RSS] Fetching: {url}")
+
+    # Check cache for ETag/Last-Modified
+    cached_etag = None
+    cached_modified = None
+    if cache and url in cache:
+        cached_etag = cache[url].get('etag')
+        cached_modified = cache[url].get('last_modified')
+
     for attempt in range(REQUEST_RETRIES):
         try:
             time.sleep(RATE_LIMIT_DELAY)
-            response = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+
+            # Add conditional headers if we have cached data
+            req_headers = HEADERS.copy()
+            if cached_etag:
+                req_headers['If-None-Match'] = cached_etag
+            if cached_modified:
+                req_headers['If-Modified-Since'] = cached_modified
+
+            response = requests.get(url, headers=req_headers, timeout=REQUEST_TIMEOUT)
+
+            # 304 = Not Modified, skip this feed
+            if response.status_code == 304:
+                print(f"[RSS] Not modified (cached), skipping")
+                return []
+
             response.raise_for_status()
+
+            # Update cache with new ETag/Last-Modified
+            if cache is not None:
+                cache[url] = {
+                    'etag': response.headers.get('ETag'),
+                    'last_modified': response.headers.get('Last-Modified'),
+                    'fetched_at': int(time.time())
+                }
+
             feed = feedparser.parse(response.text)
             print(f"[RSS] Found {len(feed.entries)} entries")
             return feed.entries
@@ -255,12 +413,15 @@ def main():
     category_counts = defaultdict(int)
     max_per_category = 25
 
+    # Load feed cache
+    feed_cache = load_feed_cache()
+
     for feed_url in RSS_FEEDS:
         if len(deals) >= MAX_DEALS:
             print("[MAIN] Max deals reached, stopping early.")
             break
 
-        entries = fetch_feed(feed_url)
+        entries = fetch_feed(feed_url, feed_cache)
 
         for entry in entries:
             if len(deals) >= MAX_DEALS:
@@ -270,12 +431,21 @@ def main():
             summary = entry.get("summary", "")
             fallback_link = entry.get("link", "")
 
-            # Try to find Amazon URL in summary or link
-            amazon_url = extract_amazon_url(summary, fallback_link)
+            # Also check content:encoded (many RSS feeds put full content here)
+            content_encoded = ""
+            if hasattr(entry, 'content') and entry.content:
+                content_encoded = entry.content[0].get('value', '') if entry.content else ""
+
+            # Combine all text sources for searching
+            all_content = f"{summary} {content_encoded}"
+
+            # Try to find Amazon URL in summary, content, or link
+            amazon_url = extract_amazon_url(all_content, fallback_link)
+            page_image = None  # Image found from deal page
 
             # If no direct Amazon URL, try fetching from the page for known deal sites
             if not amazon_url:
-                combined = f"{title} {summary}".lower()
+                combined = f"{title} {all_content}".lower()
                 # Check if it's a deal site that links to blog posts (not direct Amazon links)
                 deal_blog_domains = [
                     "slickdeals.net",
@@ -285,14 +455,27 @@ def main():
                 ]
                 is_deal_blog = any(domain in fallback_link for domain in deal_blog_domains)
 
-                if is_deal_blog and "amazon" in combined:
-                    amazon_url = fetch_amazon_url_from_page(fallback_link)
+                # Check for Amazon-related keywords
+                amazon_keywords = ["amazon", "amzn", "prime deal", "shipped", "subscribe & save"]
+                has_amazon_keyword = any(kw in combined for kw in amazon_keywords)
+
+                # For deal blogs, always try to fetch the page (they often have Amazon deals)
+                if is_deal_blog and (has_amazon_keyword or "deal" in title.lower()):
+                    if DEBUG:
+                        print(f"[DEBUG] Fetching page: {fallback_link[:60]}...")
+                    amazon_url, page_image = fetch_amazon_url_from_page(fallback_link)
 
             if not amazon_url:
+                if DEBUG and "amazon" in f"{title} {all_content}".lower():
+                    print(f"[DEBUG] No Amazon URL found for: {title[:50]}...")
                 continue
 
             asin = extract_asin(amazon_url)
-            if not asin or asin in seen_asins:
+            if not asin:
+                if DEBUG:
+                    print(f"[DEBUG] No ASIN in URL: {amazon_url[:60]}...")
+                continue
+            if asin in seen_asins:
                 continue
 
             # Check for title duplicates
@@ -306,10 +489,27 @@ def main():
             if category_counts[category] >= max_per_category:
                 continue
 
-            # Get image
-            image = extract_image_from_summary(summary) or amazon_image_from_asin(asin)
+            # Get image - try multiple sources in order of preference
+            image = None
+
+            # 1. Try image from RSS summary/content
+            image = extract_image_from_summary(all_content)
+
+            # 2. Try image from deal page (if we fetched it)
+            if not image and page_image:
+                image = page_image
+
+            # 3. Fetch directly from Amazon product page
             if not image:
-                continue
+                print(f"[IMAGE] Fetching image from Amazon for {asin}...")
+                image = fetch_amazon_image(asin)
+
+            # If no image found, use a placeholder (don't skip the deal)
+            if not image:
+                if DEBUG:
+                    print(f"[DEBUG] No image for: {cleaned_title[:40]}... using placeholder")
+                # Use Amazon's generic product image placeholder
+                image = f"https://m.media-amazon.com/images/I/{asin}._AC_SL500_.jpg"
 
             # Extract discount and price
             discount = extract_discount_from_title(title)
@@ -350,6 +550,9 @@ def main():
     print("[CATEGORY BREAKDOWN]:")
     for cat, count in sorted(category_counts.items()):
         print(f"  {cat}: {count} deals")
+
+    # Save feed cache
+    save_feed_cache(feed_cache)
 
     # Write to file
     with open(OUTPUT, "w") as f:
