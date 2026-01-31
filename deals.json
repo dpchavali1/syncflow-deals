@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/OstWony-Absorbent-Multipurpose-Double-Sided-Microfiber/dp/B08QTRG66J?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769855669,
+      "timestamp": 1769864761,
       "score": 6,
       "discount": 60
     },
     {
       "id": "B0C93G2M83",
       "title": "Amazon Basics USB-C to USB-C 4 Fast Charger Cable, 40 Gbps, 8K Video, 240W, USB-IF Cert, Thunderbolt 4/3 Compatible, for Apple iPhone 16/15, iPad, Samsung Galaxy, Tablets, Laptops, 3.3 Foot, Black $9.99",
-      "image": "https://m.media-amazon.com/images/I/61krG1Oz-LL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0C93G2M83._AC_SL500_.jpg",
       "price": "$9.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C93G2M83?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769855681,
+      "timestamp": 1769864769,
       "score": 5,
       "discount": 38
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FBZL5SWD?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855675,
+      "timestamp": 1769864765,
       "score": 5,
       "discount": 44
     },
@@ -48,9 +48,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0863M7C1L?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855668,
+      "timestamp": 1769864760,
       "score": 5,
       "discount": 47
+    },
+    {
+      "id": "B0FCTJ1C6B",
+      "title": "PAW Patrol Rescue Wheels: Championship - Nintendo Switch",
+      "image": "https://m.media-amazon.com/images/I/B0FCTJ1C6B._AC_SL500_.jpg",
+      "price": "$15.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0FCTJ1C6B/ref=cm_sw_r_as_gl_api_gl_i_THDWT76QDH1X3VJ8VXG6?tag=syncflow-20",
+      "category": "Gaming",
+      "timestamp": 1769864759,
+      "score": 5,
+      "discount": 60
     },
     {
       "id": "B0CGHNQ53C",
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CGHNQ53C?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769855748,
+      "timestamp": 1769864837,
       "score": 4,
       "discount": 0
     },
@@ -74,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-MGGN4LL-A-Crossbody-Strap/dp/B0FQFBV6Q7?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855673,
+      "timestamp": 1769864763,
       "score": 4,
       "discount": 55
     },
@@ -87,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DQY7LSBR?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855670,
+      "timestamp": 1769864762,
       "score": 4,
       "discount": 35
     },
@@ -100,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FRTYS5C4?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855668,
+      "timestamp": 1769864760,
       "score": 4,
       "discount": 80
     },
@@ -113,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0FBY895GF?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1769855749,
+      "timestamp": 1769864839,
       "score": 3,
       "discount": 0
     },
@@ -126,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B00G36TJKW?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1769855748,
+      "timestamp": 1769864837,
       "score": 3,
       "discount": 0
     },
@@ -139,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Upwords-Challenging-Family-Stackable-Letter/dp/B07N3ZM4GQ?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1769855748,
+      "timestamp": 1769864837,
       "score": 3,
       "discount": 0
     },
@@ -152,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/MRS-MEYERS-CLEAN-DAY-Biodegradable/dp/B07MFMWFYL?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1769855745,
+      "timestamp": 1769864834,
       "score": 3,
       "discount": 0
     },
@@ -165,20 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BRYL3XL2?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1769855744,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B002YEBESM",
-      "title": "Rayovac High Energy AA Batteries (30 Pack) only $7.98 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2025/08/Batteries-630x426.jpg",
-      "price": "$7.98",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B002YEBESM?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769855742,
+      "timestamp": 1769864833,
       "score": 3,
       "discount": 0
     },
@@ -191,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B074H5SRPW?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855741,
+      "timestamp": 1769864830,
       "score": 3,
       "discount": 0
     },
@@ -204,7 +204,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FG7WXNP3?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855741,
+      "timestamp": 1769864830,
       "score": 3,
       "discount": 0
     },
@@ -217,7 +217,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D928X61B?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855741,
+      "timestamp": 1769864830,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B002YEBESM",
+      "title": "Rayovac High Energy AA Batteries (30 Pack) only $7.98 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/08/Batteries-630x426.jpg",
+      "price": "$7.98",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B002YEBESM?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769864830,
       "score": 3,
       "discount": 0
     },
@@ -230,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SAMSUNG-ViewFinity-Resolution-DisplayPort-LS27D806EANXGO/dp/B0D4ZK2JDX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855677,
+      "timestamp": 1769864768,
       "score": 3,
       "discount": 52
     },
@@ -243,20 +256,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01726HAZC/ref=cm_sw_r_as_gl_api_gl_i_0PPY4VWGY517W801G79W?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855677,
+      "timestamp": 1769864768,
       "score": 3,
       "discount": 50
     },
     {
       "id": "B0CLS2GZQ7",
       "title": "Amazon - SEHMUA 4G LTE Cellular Trail Cameras 3rd Gen with Live Streaming",
-      "image": "https://m.media-amazon.com/images/I/71gxFoL9GVL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0CLS2GZQ7._AC_SL500_.jpg",
       "price": "$32.29",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CLS2GZQ7?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855672,
+      "timestamp": 1769864762,
       "score": 3,
       "discount": 35
     },
@@ -269,7 +282,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CSTD5NCN\\u003C/a?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855620,
+      "timestamp": 1769864718,
       "score": 3,
       "discount": 0
     },
@@ -282,7 +295,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FX3LCRCT?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769855750,
+      "timestamp": 1769864839,
       "score": 2,
       "discount": 0
     },
@@ -295,7 +308,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CP8VWD56?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1769855750,
+      "timestamp": 1769864839,
       "score": 2,
       "discount": 0
     },
@@ -308,7 +321,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DPQBZSX2?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769855748,
+      "timestamp": 1769864837,
       "score": 2,
       "discount": 0
     },
@@ -321,7 +334,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F6TJ724F?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1769855746,
+      "timestamp": 1769864835,
       "score": 2,
       "discount": 0
     },
@@ -334,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BXKX8HNL?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769855742,
+      "timestamp": 1769864831,
       "score": 2,
       "discount": 0
     },
@@ -347,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FirsTime-Antique-Contour-Wall-Clock/dp/B00NQAKH8Q/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855736,
+      "timestamp": 1769864824,
       "score": 2,
       "discount": 0
     },
@@ -360,7 +373,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0018CE8LQ/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1769855734,
+      "timestamp": 1769864823,
       "score": 2,
       "discount": 0
     },
@@ -373,7 +386,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01EH5SAIM/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769855731,
+      "timestamp": 1769864820,
       "score": 2,
       "discount": 0
     },
@@ -386,22 +399,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peacock-Costume-Small-One-Color/dp/B00AUJ2PMW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1769855728,
+      "timestamp": 1769864817,
       "score": 2,
       "discount": 0
-    },
-    {
-      "id": "B094DMH7ZM",
-      "title": "Airmoto Tire Inflator Portable Air Compressor - Air Pump for Car Tires with Digital Pressure Gauge, LED Light and Auto Shut-Off Function - Cordless Pump for Car, Motorcycle, Bicycle, Ball.",
-      "image": "https://m.media-amazon.com/images/I/B094DMH7ZM._AC_SL500_.jpg",
-      "price": "$?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Airmoto-Tire-Inflator-Air-Compressor/dp/B094DMH7ZM?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1769855683,
-      "score": 2,
-      "discount": 33
     },
     {
       "id": "B0FLD4FJFT",
@@ -412,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLD4FJFT?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1769855744,
+      "timestamp": 1769864833,
       "score": 1,
       "discount": 0
     },
@@ -425,7 +425,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FMDKK378?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769855742,
+      "timestamp": 1769864831,
       "score": 1,
       "discount": 0
     },
@@ -438,7 +438,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09CP8SSGP?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1769855741,
+      "timestamp": 1769864830,
       "score": 1,
       "discount": 0
     },
@@ -451,7 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D2Z6NPV9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855740,
+      "timestamp": 1769864829,
       "score": 1,
       "discount": 0
     },
@@ -464,7 +464,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FWJLW1D6?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855678,
+      "timestamp": 1769864769,
       "score": 1,
       "discount": 9
     },
@@ -477,7 +477,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CZRPV137?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769855676,
+      "timestamp": 1769864766,
       "score": 1,
       "discount": 17
     },
@@ -490,9 +490,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CXJDDJ9X?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1769855674,
+      "timestamp": 1769864764,
       "score": 1,
       "discount": 25
+    },
+    {
+      "id": "B0861DCSF8",
+      "title": "Proven Winners Endless Summer Hydrangea Bloomstruck, 2 Gallon",
+      "image": "https://static.slickdealscdn.com/attachment/3/7/7/0/4/4/300x300/19464004.thumb",
+      "price": "$27",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0861DCSF8?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1769864740,
+      "score": 1,
+      "discount": 0
     },
     {
       "id": "B0F4DKRM5Z",
@@ -503,7 +516,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F4DKRM5Z?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769855745,
+      "timestamp": 1769864834,
       "score": 0,
       "discount": 0
     },
@@ -516,7 +529,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FKMRM3WT?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855742,
+      "timestamp": 1769864830,
       "score": 0,
       "discount": 0
     },
@@ -529,7 +542,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855725,
+      "timestamp": 1769864813,
       "score": 0,
       "discount": 0
     },
@@ -542,7 +555,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SIDIZ-Highly-Adjustable-Ergonomic-TNB500HLDA/dp/B083FBN9BH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855723,
+      "timestamp": 1769864812,
       "score": 0,
       "discount": 0
     },
@@ -555,7 +568,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peanuts-Snoopy-Halloween-Costume-T-Shirt/dp/B07GNYFPWW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855720,
+      "timestamp": 1769864809,
       "score": 0,
       "discount": 0
     },
@@ -568,7 +581,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1769855719,
+      "timestamp": 1769864807,
       "score": 0,
       "discount": 0
     },
@@ -581,7 +594,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Introducing-sound-compact-speaker-Lavender/dp/B09ZXJDSL5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855717,
+      "timestamp": 1769864806,
       "score": 0,
       "discount": 0
     },
@@ -594,7 +607,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01ANF1D7U?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855682,
+      "timestamp": 1769864771,
       "score": 0,
       "discount": 18
     },
@@ -607,7 +620,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Epson-Lifestudio-Lifestyle-Brightness-Projection/dp/B0FNGD95SG?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855681,
+      "timestamp": 1769864770,
       "score": 0,
       "discount": 14
     },
@@ -620,20 +633,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/UEQ-Foldable-Wireless-Charging-Compatible/dp/B0DK4VM1SX?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769855677,
+      "timestamp": 1769864767,
       "score": 0,
       "discount": 18
     },
     {
       "id": "B0DC8RVRBZ",
       "title": "Crucial P310 2TB SSD, PCIe Gen4 NVMe M.2 2280 $191.99",
-      "image": "https://m.media-amazon.com/images/I/51iNNIdPqkL._AC_SL1080_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DC8RVRBZ._AC_SL500_.jpg",
       "price": "$191.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DC8RVRBZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1769855665,
+      "timestamp": 1769864756,
       "score": 0,
       "discount": 0
     },
@@ -646,20 +659,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0D1TLYC7C?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1769855647,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B019GPK24I",
-      "title": "Jetboil MiniMo Camping and Backpacking Stove Cooking System (Sunset) $77.40 + Free Shipping",
-      "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/19466971.thumb",
-      "price": "$77.40",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B019GPK24I\\u003C/a?tag=syncflow-20",
-      "category": "Accessories",
-      "timestamp": 1769855628,
+      "timestamp": 1769864744,
       "score": 0,
       "discount": 0
     },
@@ -672,10 +672,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0B2H7696Q?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1769855615,
+      "timestamp": 1769864714,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1769855754
+  "updated": 1769864844
 }
