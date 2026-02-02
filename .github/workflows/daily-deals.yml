@@ -5,29 +5,67 @@ on:
     - cron: "0 */2 * * *"   # Every 2 hours
   workflow_dispatch:
 
+# Prevent multiple runs from conflicting
+concurrency:
+  group: rss-deals-fetch
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10  # Prevent stuck jobs
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  # Shallow clone for speed
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Use v5 (latest)
         with:
-          python-version: "3.x"
+          python-version: "3.12"  # Specific version
+          cache: 'pip'  # Cache dependencies
 
       - name: Install Dependencies
-        run: pip install feedparser beautifulsoup4 requests
+        run: |
+          pip install --upgrade pip
+          pip install feedparser beautifulsoup4 requests
 
       - name: Run RSS Deal Scraper
+        id: scraper
+        continue-on-error: true  # Don't fail workflow if scraper has issues
         run: python scripts/fetch_rss_deals.py
 
-      - name: Commit Changes
+      - name: Check if deals.json changed
+        id: check_changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          if git diff --quiet deals.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes to deals.json"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "deals.json has changes"
+          fi
+
+      - name: Commit and Push Changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add deals.json
-          git commit -m "Updated RSS deals" || echo "No changes"
-          git push
+          git commit -m "🤖 Updated RSS deals - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+
+          # Retry push up to 3 times
+          for i in 1 2 3; do
+            git pull --rebase && git push && break || sleep 5
+          done
+
+      - name: Report Status
+        if: always()
+        run: |
+          if [ "${{ steps.scraper.outcome }}" = "failure" ]; then
+            echo "⚠️ Scraper failed but workflow continued"
+            exit 1
+          fi
+          echo "✅ Workflow completed successfully"
