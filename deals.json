@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B07VBMGD5L?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138251,
+      "timestamp": 1770145687,
       "score": 6,
       "discount": 67
     },
     {
       "id": "B0D72CW75S",
       "title": "Prime Members: Anker 25W USB-C Wall Charger Block w/ 5' USB-C Cable (White) on sale for $7.99",
-      "image": "https://m.media-amazon.com/images/I/61-sdbtHrqL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0D72CW75S._AC_SL500_.jpg",
       "price": "$7.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0D72CW75S?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138248,
+      "timestamp": 1770145683,
       "score": 6,
       "discount": 50
     },
@@ -35,20 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B01N0DK3FK?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138244,
+      "timestamp": 1770145682,
       "score": 6,
       "discount": 73
     },
     {
       "id": "B0DGWGVQJD",
       "title": "Amazon.com - adidas Santiago Lunch Bag Cooler",
-      "image": "https://m.media-amazon.com/images/I/91OttP1i7tL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DGWGVQJD._AC_SL500_.jpg",
       "price": "$10.49",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DGWGVQJD?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138254,
+      "timestamp": 1770145690,
       "score": 5,
       "discount": 63
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07B2G8KHF?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138254,
+      "timestamp": 1770145690,
       "score": 5,
       "discount": 37
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FNRYHWF4/ref=cm_sw_r_as_gl_api_gl_i_QS81BV54BADMAYN4VKH8?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1770138253,
+      "timestamp": 1770145689,
       "score": 5,
       "discount": 33
     },
@@ -87,7 +87,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CGHNQ53C?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1770138319,
+      "timestamp": 1770145777,
+      "score": 4,
+      "discount": 0
+    },
+    {
+      "id": "B0FKB289VY",
+      "title": "*HOT* Sonic Electric Toothbrushes for only $3.99!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/01/COSLUS-Sonic-Electric-Toothbrush.jpg",
+      "price": "$3.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0FKB289VY?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1770145764,
       "score": 4,
       "discount": 0
     },
@@ -100,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BPLB81LX?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1770138307,
+      "timestamp": 1770145761,
       "score": 4,
       "discount": 0
     },
@@ -113,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Upwords-Challenging-Family-Stackable-Letter/dp/B07N3ZM4GQ?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1770138319,
+      "timestamp": 1770145777,
       "score": 3,
       "discount": 0
     },
@@ -126,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B00G36TJKW?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1770138318,
+      "timestamp": 1770145776,
       "score": 3,
       "discount": 0
     },
@@ -139,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/MRS-MEYERS-CLEAN-DAY-Biodegradable/dp/B07MFMWFYL?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1770138316,
+      "timestamp": 1770145773,
       "score": 3,
       "discount": 0
     },
@@ -152,7 +165,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BRYL3XL2?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1770138315,
+      "timestamp": 1770145771,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CRWRHLCF",
+      "title": "Lysol Power Toilet Bowl Cleaner (4 pack) only $6.19 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/09/Lysol-Toilet-Bowl-Cleaner-1.jpg",
+      "price": "$6.19",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Lysol-Cleaner-Cleaning-Disinfecting-Removal/dp/B0CRWRHLCF?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1770145764,
       "score": 3,
       "discount": 0
     },
@@ -165,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Sprite-Lemon-Lime-Soda-Drinks/dp/B000T9UV2O?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138307,
+      "timestamp": 1770145761,
       "score": 3,
       "discount": 0
     },
@@ -178,7 +204,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B01MR37ILQ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138307,
+      "timestamp": 1770145761,
       "score": 3,
       "discount": 0
     },
@@ -191,22 +217,35 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G4CCTHXB?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138307,
+      "timestamp": 1770145761,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B0FL9DN3GY",
-      "title": "Xtra Muse, Vlogging Camera with 1'' CMOS & 4K/120fps Videos, Pocket Camera with 3-Axis Gimbal Stabilizer, Fast Focusing, Face/Object Tracking, Digital Video Camera for Photography, Digital Camera.",
-      "image": "https://m.media-amazon.com/images/I/B0FL9DN3GY._AC_SL500_.jpg",
-      "price": "$?",
+      "id": "B0FC2W6D39",
+      "title": "Gold Plated Cross Necklace only $3.99!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/01/Cross-Necklace-630x599.jpg",
+      "price": "$3.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/Xtra-Vlogging-Stabilizer-Focusing-Photography/dp/B0FL9DN3GY?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0FC2W6D39?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138260,
+      "timestamp": 1770145761,
       "score": 3,
-      "discount": 40
+      "discount": 0
+    },
+    {
+      "id": "B0DSQXZN79",
+      "title": "Burt\u2019s Bees Essentials Everyday Set only $6.36 shipped, plus more! {Valentine\u2019s Day Gift Ideas}",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Burts-Bees-Essential-Kit.jpg",
+      "price": "$6.36",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Burts-Bees-Gift-Ideas-Essentials/dp/B0DSQXZN79?tag=syncflow-20",
+      "category": "Gifts",
+      "timestamp": 1770145759,
+      "score": 3,
+      "discount": 0
     },
     {
       "id": "B0B1LVC5VZ",
@@ -217,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B1LVC5VZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138257,
+      "timestamp": 1770145693,
       "score": 3,
       "discount": 44
     },
@@ -230,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Nautica-Voyage-Eau-Toilette-Spray/dp/B000P22TIY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138256,
+      "timestamp": 1770145692,
       "score": 3,
       "discount": 21
     },
@@ -243,7 +282,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/ThermoMaven-Rechargeable-Automatic-Adjustable-Coarseness/dp/B0D7Q7LNNY/131-1730945-8978619?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138256,
+      "timestamp": 1770145692,
       "score": 3,
       "discount": 33
     },
@@ -256,7 +295,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09P1D2H4L?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138249,
+      "timestamp": 1770145684,
       "score": 3,
       "discount": 38
     },
@@ -269,35 +308,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FXBH2SFJ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138248,
+      "timestamp": 1770145683,
       "score": 3,
       "discount": 20
-    },
-    {
-      "id": "B0CZ7P8P4C",
-      "title": "Acer Nitro 27\" XV272U 2560x1440 IPS 300hz 99% sRGB",
-      "image": "https://m.media-amazon.com/images/I/B0CZ7P8P4C._AC_SL500_.jpg",
-      "price": "$199",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CZ7P8P4C?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1770138239,
-      "score": 3,
-      "discount": 99
-    },
-    {
-      "id": "B00CFPLI90",
-      "title": "$6.5*:ACDelco 24-Count Double AA Batteries, Maximum Power Super Alkaline Battery for Home and Office, 10-Year Shelf Life, Reclosable Packaging",
-      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/19482502.thumb",
-      "price": "$6.5",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B00CFPLI90?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1770138221,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0DPQBZSX2",
@@ -308,7 +321,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DPQBZSX2?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138319,
+      "timestamp": 1770145777,
       "score": 2,
       "discount": 0
     },
@@ -321,7 +334,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F6TJ724F?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1770138317,
+      "timestamp": 1770145773,
       "score": 2,
       "discount": 0
     },
@@ -334,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BXKX8HNL?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1770138312,
+      "timestamp": 1770145767,
       "score": 2,
       "discount": 0
     },
@@ -347,7 +360,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BY8NH5ZG?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138311,
+      "timestamp": 1770145766,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B07G4C85XX",
+      "title": "Pink Stork Total Prenatal Vitamins (One Month Supply) only $16.49 shipped, plus more!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Pink-Stork-Total-Prenatal-Vitamins--630x711.jpg",
+      "price": "$16.49",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B07G4C85XX?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1770145764,
       "score": 2,
       "discount": 0
     },
@@ -360,7 +386,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07PB657SW?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1770138310,
+      "timestamp": 1770145764,
       "score": 2,
       "discount": 0
     },
@@ -373,7 +399,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FirsTime-Antique-Contour-Wall-Clock/dp/B00NQAKH8Q/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138301,
+      "timestamp": 1770145754,
       "score": 2,
       "discount": 0
     },
@@ -386,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0018CE8LQ/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1770138300,
+      "timestamp": 1770145752,
       "score": 2,
       "discount": 0
     },
@@ -399,7 +425,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01EH5SAIM/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1770138297,
+      "timestamp": 1770145749,
       "score": 2,
       "discount": 0
     },
@@ -412,7 +438,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peacock-Costume-Small-One-Color/dp/B00AUJ2PMW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1770138294,
+      "timestamp": 1770145745,
       "score": 2,
       "discount": 0
     },
@@ -425,7 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DHVFWVNG?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1770138258,
+      "timestamp": 1770145694,
       "score": 2,
       "discount": 34
     },
@@ -438,48 +464,48 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Anker-Multi-Device-Charging-Advanced-Intuitive/dp/B0DFCH3C4W?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138256,
+      "timestamp": 1770145692,
       "score": 2,
       "discount": 35
     },
     {
       "id": "B0C9L8ZR6Q",
       "title": "Skullcandy Crusher ANC 2 Wireless Over-Ear Bluetooth Headphones with Multi-Sensory Bass, Active Noise Cancelling, Up to 60 Hours Battery, Microphone for iPhone Android - True Black.",
-      "image": "https://m.media-amazon.com/images/I/B0C9L8ZR6Q._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71ew5pFViAL._AC_SL1500_.jpg",
       "price": "$?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Skullcandy-Cancelling-Headphones-Microphone-Bluetooth/dp/B0C9L8ZR6Q?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138250,
+      "timestamp": 1770145686,
       "score": 2,
       "discount": 38
     },
     {
       "id": "B0DM2LQV3F",
       "title": "INSIGNIA 65-inch Class F50 Series LED 4K UHD Smart Fire TV with Alexa Voice Remote (NS-65F501NA24) $275",
-      "image": "https://m.media-amazon.com/images/I/710gREHO2FL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DM2LQV3F._AC_SL500_.jpg",
       "price": "$275",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/INSIGNIA-fire-tv-65-inch-class-f50-series-4k-smart-tv/dp/B0DM2LQV3F?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138246,
+      "timestamp": 1770145681,
       "score": 2,
       "discount": 39
     },
     {
-      "id": "B00PUS6A7Y",
-      "title": "19.1-Oz Ghirardelli Intense Dark Assorted Dark Chocolate Squares $20.35 or less",
-      "image": "https://static.slickdealscdn.com/attachment/1/7/2/9/6/9/0/300x300/19484791.thumb",
-      "price": "$20.35",
+      "id": "B0DVHV7N4X",
+      "title": "Unlocked Google Pixel 9a",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$349",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/Ghirardelli-Intense-Chocolate-Soiree-Almonds/dp/B00PUS6A7Y/ref=sr_1_16?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0DVHV7N4X?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138194,
+      "timestamp": 1770145680,
       "score": 2,
-      "discount": 0
+      "discount": 30
     },
     {
       "id": "B0FLD4FJFT",
@@ -490,7 +516,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLD4FJFT?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1770138315,
+      "timestamp": 1770145771,
       "score": 1,
       "discount": 0
     },
@@ -503,7 +529,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FMDKK378?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1770138314,
+      "timestamp": 1770145769,
       "score": 1,
       "discount": 0
     },
@@ -516,7 +542,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09CP8SSGP?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1770138307,
+      "timestamp": 1770145761,
       "score": 1,
       "discount": 0
     },
@@ -529,20 +555,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FM7XQSJ5?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1770138307,
+      "timestamp": 1770145761,
       "score": 1,
       "discount": 0
     },
     {
       "id": "B0CN8QLS4K",
       "title": "TP-Link Deco 7 Pro BE63 Tri-Band WiFi 7 BE10000 Whole Home Mesh System $360.00 28% Off",
-      "image": "https://m.media-amazon.com/images/I/B0CN8QLS4K._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61DeeFwkrpL._AC_SL1500_.jpg",
       "price": "$360.00",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/TP-Link-wifi-7-mesh-system/dp/B0CN8QLS4K?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138259,
+      "timestamp": 1770145696,
       "score": 1,
       "discount": 28
     },
@@ -555,7 +581,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Watch-Ultra-Cellular-Titanium/dp/B0BX4XG53Z?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1770138255,
+      "timestamp": 1770145691,
       "score": 1,
       "discount": 0
     },
@@ -568,9 +594,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0FQF5BZ8Z?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138252,
+      "timestamp": 1770145688,
       "score": 1,
       "discount": 23
+    },
+    {
+      "id": "B0DYNL31T5",
+      "title": "29% OFF \u2013 2000W High-Speed Blender for Smoothies & Ice",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$99.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DYNL31T5?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1770145682,
+      "score": 1,
+      "discount": 29
     },
     {
       "id": "B0F4DKRM5Z",
@@ -581,7 +620,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F4DKRM5Z?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1770138316,
+      "timestamp": 1770145772,
       "score": 0,
       "discount": 0
     },
@@ -594,7 +633,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138290,
+      "timestamp": 1770145740,
       "score": 0,
       "discount": 0
     },
@@ -607,7 +646,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SIDIZ-Highly-Adjustable-Ergonomic-TNB500HLDA/dp/B083FBN9BH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138288,
+      "timestamp": 1770145738,
       "score": 0,
       "discount": 0
     },
@@ -620,7 +659,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peanuts-Snoopy-Halloween-Costume-T-Shirt/dp/B07GNYFPWW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138283,
+      "timestamp": 1770145732,
       "score": 0,
       "discount": 0
     },
@@ -633,7 +672,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1770138282,
+      "timestamp": 1770145730,
       "score": 0,
       "discount": 0
     },
@@ -646,72 +685,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Introducing-sound-compact-speaker-Lavender/dp/B09ZXJDSL5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138279,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B09VCJ2SHD",
-      "title": "AMD Ryzen 7 5800X3D",
-      "image": "https://m.media-amazon.com/images/I/51rz9osumDL._AC_SL1000_.jpg",
-      "price": "$340.59",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B09VCJ2SHD?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1770138241,
+      "timestamp": 1770145728,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0DC8RVRBZ",
       "title": "Crucial P310 2TB SSD, PCIe Gen4 NVME M.2 2280 $198.99",
-      "image": "https://m.media-amazon.com/images/I/51iNNIdPqkL._AC_SL1080_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DC8RVRBZ._AC_SL500_.jpg",
       "price": "$198.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DC8RVRBZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1770138238,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0001LQW82",
-      "title": "Bora Centipede 2'x4'x30\"h Folding Work Table Steel 1500 lb. $69.51 @ Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/0/6/5/4/6/3/6/300x300/19489432.thumb",
-      "price": "$69.51",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0001LQW82?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1770138223,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0D851Z6NQ",
-      "title": "YMMV Samsung Galaxy Tab S10+ Plus 12.4\u201d 512GB Android Tablet, Galaxy AI Tools, Circle to Search, AMOLED 2X Display, S Pen for Note-Taking, for $624",
-      "image": "https://static.slickdealscdn.com/attachment/9/2/3/2/7/8/3/300x300/19489855.thumb",
-      "price": "$624",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D851Z6NQ?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1770138221,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0DWHVZHBY",
-      "title": "Roku Smart TV 2025 \u2013 55-Inch Plus Series, Mini-LED TV \u2013 RokuTV with Enhanced Voice Remote \u2013 Flat Screen 4K QLED Television with Dolby Vision $348",
-      "image": "https://static.slickdealscdn.com/attachment/2/5/6/3/8/300x300/19483939.thumb",
-      "price": "$348",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DWHVZHBY?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1770138218,
+      "timestamp": 1770145676,
       "score": 0,
       "discount": 0
     },
@@ -724,10 +711,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BTD36Y1J?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1770138174,
+      "timestamp": 1770145630,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1770138319
+  "updated": 1770145777
 }
