@@ -22,7 +22,7 @@ jobs:
           fetch-depth: 1  # Shallow clone for speed
 
       - name: Setup Python
-        uses: actions/setup-python@v5  # Use v5 (latest)
+        uses: actions/setup-python@v4  # Use v5 (latest)
         with:
           python-version: "3.12"  # Specific version
           cache: 'pip'  # Cache dependencies
