@@ -30,7 +30,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
-          pip install feedparser beautifulsoup4 requests
+          pip install -r requirements.txt
 
       - name: Run RSS Deal Scraper
         id: scraper
