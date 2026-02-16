@@ -71,7 +71,7 @@ REGION_IN = {
     "affiliate_tag": "syncflowin-21",
     "amazon_domain": "amazon.in",
     "currency_symbol": "₹",
-    "price_regex": r"(?:₹|Rs\.?|INR)\s?([0-9,]+(?:\.[0-9]{1,2})?)",
+    "price_regex": r"(?:₹|Rs\.?|INR|@\s*(?:Rs\.?)?\s*)\s?([0-9,]+(?:\.[0-9]{1,2})?)",
     "price_format": lambda p: f"₹{p}",
     "feeds": [
         # Reddit India deal communities
@@ -242,6 +242,10 @@ def extract_price_from_title(title, region):
         m = re.search(r"\$([0-9,]+(?:\.[0-9]{1,2})?)", title)
         if m:
             return f"${m.group(1).replace(',', '')}"
+        # Try bare number with /- suffix (e.g. "3,020/-")
+        m = re.search(r"([0-9,]+)\s*/\s*-", title)
+        if m:
+            return region["price_format"](m.group(1).replace(',', ''))
     return None
 
 

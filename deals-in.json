@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0G34T4V1C/ref=cm_sw_r_as_gl_apa_gl_i_KPG4MVX8QM3XWJZ83V50?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771201137,
+      "timestamp": 1771204598,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GDMMJMTJ/ref=cm_sw_r_as_gl_apa_gl_i_7AVPBCF6D6PTPB1E73R4?tag=syncflowin-21",
       "category": "Home",
-      "timestamp": 1771201134,
+      "timestamp": 1771204595,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771201113,
+      "timestamp": 1771204574,
       "score": 3,
       "discount": 0
     },
@@ -43,13 +43,13 @@
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
       "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
-      "price": "\u20b9?",
+      "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771201122,
-      "score": 1,
+      "timestamp": 1771204583,
+      "score": 2,
       "discount": 24
     },
     {
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771201146,
+      "timestamp": 1771204606,
       "score": 0,
       "discount": 0
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/9395192801/ref=cm_sw_r_as_gl_api_gl_i_V99T09S2R07KT4D32C2C?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771201131,
+      "timestamp": 1771204592,
       "score": 0,
       "discount": 0
     },
@@ -82,15 +82,15 @@
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
       "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
-      "price": "\u20b9?",
+      "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771201124,
+      "timestamp": 1771204585,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771201146
+  "updated": 1771204606
 }
