@@ -1,0 +1,96 @@
+{
+  "deals": [
+    {
+      "id": "B0G34T4V1C",
+      "title": "Rechargeable Torch Light | Flashlight Aluminum Metal Body, Telescopic Zoom, High Power @Rs.499",
+      "image": "https://m.media-amazon.com/images/I/71vBDEfCviL._SL1500_.jpg",
+      "price": "\u20b9499",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0G34T4V1C/ref=cm_sw_r_as_gl_apa_gl_i_KPG4MVX8QM3XWJZ83V50?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771201137,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0GDMMJMTJ",
+      "title": "6 PCS Car Cleaning Kit with 3-in-1 Mini Vacuum Cleaner @Rs.749",
+      "image": "https://m.media-amazon.com/images/I/71ekySOTd3L._SL1500_.jpg",
+      "price": "\u20b9749",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0GDMMJMTJ/ref=cm_sw_r_as_gl_apa_gl_i_7AVPBCF6D6PTPB1E73R4?tag=syncflowin-21",
+      "category": "Home",
+      "timestamp": 1771201134,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B01N24I6JD",
+      "title": "TP-Link LB100 Wi-Fi SmartLight 7W @ Rs. 499 only (Down from Rs. 1,399)",
+      "image": "https://m.media-amazon.com/images/I/B01N24I6JD._AC_SL500_.jpg",
+      "price": "\u20b9499",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771201113,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B07BFGGNT9",
+      "title": "RDR 2 @ 3,020/-",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771201122,
+      "score": 1,
+      "discount": 24
+    },
+    {
+      "id": "B09V1BTCCM",
+      "title": "Custom NAS using rpi 4 advice",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771201146,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "9395192801",
+      "title": "Enemies to lovers books",
+      "image": "https://m.media-amazon.com/images/I/71a4JPvJCCL._SL1500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/9395192801/ref=cm_sw_r_as_gl_api_gl_i_V99T09S2R07KT4D32C2C?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771201131,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0725RBY9V",
+      "title": "Apple 6 @18999 only",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771201124,
+      "score": 0,
+      "discount": 0
+    }
+  ],
+  "updated": 1771201146
+}

@@ -37,15 +37,15 @@ jobs:
         continue-on-error: true  # Don't fail workflow if scraper has issues
         run: python scripts/fetch_rss_deals.py
 
-      - name: Check if deals.json changed
+      - name: Check if deals changed
         id: check_changes
         run: |
-          if git diff --quiet deals.json; then
+          if git diff --quiet deals.json deals-in.json 2>/dev/null; then
             echo "changed=false" >> $GITHUB_OUTPUT
-            echo "No changes to deals.json"
+            echo "No changes to deal files"
           else
             echo "changed=true" >> $GITHUB_OUTPUT
-            echo "deals.json has changes"
+            echo "Deal files have changes"
           fi
 
       - name: Commit and Push Changes
@@ -53,8 +53,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add deals.json
-          git commit -m "🤖 Updated RSS deals - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git add deals.json deals-in.json
+          git commit -m "🤖 Updated RSS deals (US + IN) - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
 
           # Retry push up to 3 times
           for i in 1 2 3; do
