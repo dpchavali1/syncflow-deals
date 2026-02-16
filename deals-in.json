@@ -1,84 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0FSRNQBHD",
-      "title": "No Maida Cookies (3 x 80g) @\u20b9185",
-      "image": "https://m.media-amazon.com/images/I/71vHWOtQ-sL._SL1500_.jpg",
-      "price": "\u20b9185",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Refined-Assorted-Cookies-Healthy-Multigrains/dp/B0FSRNQBHD?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771253746,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B082418FHJ",
-      "title": "Chamomile Tea 50+ Cups @\u20b9192",
-      "image": "https://m.media-amazon.com/images/I/61GHt687EgL._SL1080_.jpg",
-      "price": "\u20b9192",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/BLUE-TEA-Chamomile-Flower-Petals/dp/B082418FHJ?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771253743,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B07S4T87MK",
-      "title": "Scotch-Brite Wipes (10 Pack) @\u20b9549",
-      "image": "https://m.media-amazon.com/images/I/B07S4T87MK._AC_SL500_.jpg",
-      "price": "\u20b9549",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Scotch-Brite-Sponge-Wipe-Pack-10/dp/B07S4T87MK?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771253740,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B08LWQJ2TX",
-      "title": "Pampers Wet Wipes (144 Pack) @\u20b9246",
-      "image": "https://m.media-amazon.com/images/I/61TlPVkd+sL._SL1500_.jpg",
-      "price": "\u20b9246",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Pampers-Baby-Gentle-Wipes-Aloe/dp/B08LWQJ2TX?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771253738,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B003L62T7W",
-      "title": "Logitech USB Mouse @\u20b9309",
-      "image": "https://m.media-amazon.com/images/I/B003L62T7W._AC_SL500_.jpg",
-      "price": "\u20b9309",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Logitech-B100-Optical-Mouse-Black/dp/B003L62T7W?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1771253735,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CHS75QYV",
-      "title": "Apply \u20b9250 Off Coupon | UCB 25L Laptop Backpack @389.",
-      "image": "https://m.media-amazon.com/images/I/41uyGASl3uL._SX522_.jpg",
-      "price": "\u20b9250",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0CHS75QYV?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1771253734,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0GFMYNJPG",
       "title": "Oil Control Brightening Gel Multi-Active French Sunscreen SPF 50 PA++++ @Rs.199",
       "image": "https://m.media-amazon.com/images/I/B0GFMYNJPG._AC_SL500_.jpg",
@@ -87,7 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GFMYNJPG?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253728,
+      "timestamp": 1771261124,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0DGQNCBN6",
+      "title": "Rosemary Water For Hair Growth (200 ml) | @Rs.199",
+      "image": "https://m.media-amazon.com/images/I/B0DGQNCBN6._AC_SL500_.jpg",
+      "price": "\u20b9199",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DGQNCBN6?tag=syncflowin-21",
+      "category": "Beauty",
+      "timestamp": 1771261123,
       "score": 3,
       "discount": 0
     },
@@ -100,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253711,
+      "timestamp": 1771261113,
       "score": 3,
       "discount": 0
     },
@@ -113,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dealsmagnet.com/dp/B0F946DCR8?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253731,
+      "timestamp": 1771261126,
       "score": 2,
       "discount": 0
     },
@@ -126,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253720,
+      "timestamp": 1771261119,
       "score": 2,
       "discount": 24
     },
@@ -139,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0D4VBSR48?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253730,
+      "timestamp": 1771261130,
       "score": 1,
       "discount": 0
     },
@@ -152,7 +87,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253752,
+      "timestamp": 1771261141,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0DP33YS5S",
+      "title": "Deals on skirt",
+      "image": "https://m.media-amazon.com/images/I/61VRPuBuB-L._SL1500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DP33YS5S/ref=cm_sw_r_as_gl_api_gl_i_QA5N7NMT5PVTFCHBE0B4?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771261129,
       "score": 0,
       "discount": 0
     },
@@ -165,23 +113,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0DKFMSMYK?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253727,
+      "timestamp": 1771261127,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771253722,
+      "timestamp": 1771261120,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771253752
+  "updated": 1771261141
 }

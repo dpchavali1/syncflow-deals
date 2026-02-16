@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B002PK0ROM?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253634,
+      "timestamp": 1771261050,
       "score": 5,
       "discount": 48
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F3B4PPGM/ref=cm_sw_r_as_gl_api_gl_i_dl_NQCSNCJH4QYSPE4E4J1F?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253617,
+      "timestamp": 1771261037,
       "score": 5,
       "discount": 50
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01F36JEXE?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253702,
+      "timestamp": 1771261105,
       "score": 4,
       "discount": 0
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08XGHNVFP?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253690,
+      "timestamp": 1771261097,
       "score": 4,
       "discount": 0
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B81FSFGY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253682,
+      "timestamp": 1771261092,
       "score": 4,
       "discount": 0
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/True-Classic-Navy-Crew-T-Shirt/dp/B0BJYV34W5?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1771253631,
+      "timestamp": 1771261048,
       "score": 4,
       "discount": 43
     },
@@ -87,20 +87,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00ESKVN7W?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253624,
+      "timestamp": 1771261042,
       "score": 4,
       "discount": 44
     },
     {
       "id": "B09NW9JQNC",
       "title": "Amazon.com: 8-Pack Angel Soft Mega Rolls Toilet Paper (320 Sheets Per Roll)",
-      "image": "https://m.media-amazon.com/images/I/71YW3G8MmOL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09NW9JQNC._AC_SL500_.jpg",
       "price": "$5.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B09NW9JQNC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253623,
+      "timestamp": 1771261041,
       "score": 4,
       "discount": 25
     },
@@ -113,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CK1KTP5S/ref=cm_sw_r_as_gl_api_gl_i_EP6G5ZMNJ884ESGJEXZ8?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1771253617,
+      "timestamp": 1771261037,
       "score": 4,
       "discount": 50
     },
@@ -126,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Burts-Bees-Gift-Ideas-Essentials/dp/B0DSQXZN79?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1771253706,
+      "timestamp": 1771261109,
       "score": 3,
       "discount": 0
     },
@@ -139,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FG8C71TL?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1771253703,
+      "timestamp": 1771261107,
       "score": 3,
       "discount": 0
     },
@@ -152,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DLNM7Y3R?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253701,
+      "timestamp": 1771261105,
       "score": 3,
       "discount": 0
     },
@@ -165,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09KYDPRVG?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1771253701,
+      "timestamp": 1771261105,
       "score": 3,
       "discount": 0
     },
@@ -178,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Skippy-Natural-Peanut-Butter-Spread/dp/B00MHVEBY6?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253690,
+      "timestamp": 1771261097,
       "score": 3,
       "discount": 0
     },
@@ -191,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FMS6W6DK?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253690,
+      "timestamp": 1771261097,
       "score": 3,
       "discount": 0
     },
@@ -204,59 +204,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B076Q2G7MV?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253686,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CN86DV9L",
-      "title": "*HOT* Finish Quantum Dishwasher Pods, 84 count only $12.73 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-at-1.48.18\u202fPM-630x560.jpg",
-      "price": "$12.73",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CN86DV9L?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771253685,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DV16CHNP",
-      "title": "Melissa & Doug Wooden Magnetic Dress-Up only $8.55!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Melissa-Doug-Disney-Minnie-Mouse-and-Daisy-Duck-Deluxe-Wooden-Magnetic-Dress-Up-630x556.jpg",
-      "price": "$8.55",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DV16CHNP?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771253685,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0199RFD6K",
-      "title": "Nature Valley Crunchy Granola only $2.79 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2024/12/Nature-Valley-Crunchy-Granola-Oats-and-Honey-Resealable-Bag-16-OZ-1.jpg",
-      "price": "$2.79",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0199RFD6K?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771253685,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B00I8GR0YW",
-      "title": "Rag\u00fa Old World Style Traditional Sauce, 45 oz only $2.65 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/RAGU-Old-World-Style-Traditional-Sauce.jpg",
-      "price": "$2.65",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B00I8GR0YW?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771253685,
+      "timestamp": 1771261095,
       "score": 3,
       "discount": 0
     },
@@ -269,7 +217,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C7WTPT64?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253684,
+      "timestamp": 1771261094,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CN86DV9L",
+      "title": "*HOT* Finish Quantum Dishwasher Pods, 84 count only $12.73 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/05/Screenshot-2025-05-13-at-1.48.18\u202fPM-630x560.jpg",
+      "price": "$12.73",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CN86DV9L?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771261094,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0DV16CHNP",
+      "title": "Melissa & Doug Wooden Magnetic Dress-Up only $8.55!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Melissa-Doug-Disney-Minnie-Mouse-and-Daisy-Duck-Deluxe-Wooden-Magnetic-Dress-Up-630x556.jpg",
+      "price": "$8.55",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DV16CHNP?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771261094,
       "score": 3,
       "discount": 0
     },
@@ -282,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Lenovo-IdeaPad-Slim-3i-Military-Grade/dp/B0GDPRF7M3?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253636,
+      "timestamp": 1771261052,
       "score": 3,
       "discount": 52
     },
@@ -295,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FY766WLZ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253626,
+      "timestamp": 1771261044,
       "score": 3,
       "discount": 41
     },
@@ -308,7 +282,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G6YG8YZK?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253625,
+      "timestamp": 1771261043,
       "score": 3,
       "discount": 38
     },
@@ -321,7 +295,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Zigzagger-Moccasin-Slippers-Indoor-Outdoor/dp/B0BD3ZF5FS?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1771253619,
+      "timestamp": 1771261039,
       "score": 3,
       "discount": 32
     },
@@ -334,9 +308,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DFZGT3XX?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1771253618,
+      "timestamp": 1771261038,
       "score": 3,
       "discount": 63
+    },
+    {
+      "id": "B0FQFPN3WR",
+      "title": "Apple 40W Dynamic Power Adapter with 60W Max $27.30 (30%)",
+      "image": "https://m.media-amazon.com/images/I/B0FQFPN3WR._AC_SL500_.jpg",
+      "price": "$27.30",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Apple-40W-Dynamic-Power-Adapter/dp/B0FQFPN3WR?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771261035,
+      "score": 3,
+      "discount": 30
     },
     {
       "id": "B0DGTHQMYD",
@@ -347,7 +334,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DGTHQMYD?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1771253699,
+      "timestamp": 1771261104,
       "score": 2,
       "discount": 0
     },
@@ -360,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BXKX8HNL?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253688,
+      "timestamp": 1771261096,
       "score": 2,
       "discount": 0
     },
@@ -373,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DSVXBPLZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253685,
+      "timestamp": 1771261094,
       "score": 2,
       "discount": 0
     },
@@ -386,7 +373,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CM4NY91V?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253682,
+      "timestamp": 1771261092,
       "score": 2,
       "discount": 0
     },
@@ -399,7 +386,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FS1VH7NY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253682,
+      "timestamp": 1771261092,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0B7RSV894",
+      "title": "Cordless Electric Spin Scrubber only $19.99 (Reg. $57)!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/01/Bomves-Electric-Spin-Scrubber-1.jpg",
+      "price": "$19.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0B7RSV894?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771261090,
       "score": 2,
       "discount": 0
     },
@@ -412,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FirsTime-Antique-Contour-Wall-Clock/dp/B00NQAKH8Q/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253677,
+      "timestamp": 1771261086,
       "score": 2,
       "discount": 0
     },
@@ -425,7 +425,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0018CE8LQ/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1771253675,
+      "timestamp": 1771261084,
       "score": 2,
       "discount": 0
     },
@@ -438,7 +438,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01EH5SAIM/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253672,
+      "timestamp": 1771261081,
       "score": 2,
       "discount": 0
     },
@@ -451,7 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peacock-Costume-Small-One-Color/dp/B00AUJ2PMW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1771253668,
+      "timestamp": 1771261079,
       "score": 2,
       "discount": 0
     },
@@ -464,22 +464,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00J9BZIAS?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1771253636,
+      "timestamp": 1771261052,
       "score": 2,
       "discount": 14
-    },
-    {
-      "id": "B08MBFLMDC",
-      "title": "Amazon.com: NETGEAR 8 Port PoE Gigabit Ethernet Easy Smart Managed Essentials Switch (GS308EP)",
-      "image": "https://m.media-amazon.com/images/I/B08MBFLMDC._AC_SL500_.jpg",
-      "price": "$59.98",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B08MBFLMDC?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771253636,
-      "score": 2,
-      "discount": 40
     },
     {
       "id": "B072JFVXSY",
@@ -490,20 +477,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Waterpik-Aquarius-Professional-WP-663-Packaging/dp/B072JFVXSY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253635,
+      "timestamp": 1771261051,
       "score": 2,
       "discount": 40
     },
     {
       "id": "B0DHLTCYWH",
       "title": "Blink Outdoor 4 (4th Gen) 5-Camera System with Sync Module Core",
-      "image": "https://m.media-amazon.com/images/I/61Ie0wCDrsL._SL1000_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DHLTCYWH._AC_SL500_.jpg",
       "price": "$164.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Blink-Outdoor-newest-model-Wireless/dp/B0DHLTCYWH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253633,
+      "timestamp": 1771261049,
       "score": 2,
       "discount": 45
     },
@@ -516,7 +503,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08QGX549G?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253630,
+      "timestamp": 1771261047,
       "score": 2,
       "discount": 31
     },
@@ -529,22 +516,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Dreo-Electric-Oscillating-Thermostat-Detection/dp/B097RG67QB/131-1730945-8978619?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253628,
+      "timestamp": 1771261045,
       "score": 2,
       "discount": 10
-    },
-    {
-      "id": "B0D7M7396C",
-      "title": "N-GEN GAMING Video Gaming Chair with Footrest Lumbar Support for Home Office High Back Recliner Height Adjustable Ergonomic Comfy Leather Computer Desk Chair (Black)",
-      "image": "https://m.media-amazon.com/images/I/B0D7M7396C._AC_SL500_.jpg",
-      "price": "$89.78",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/N-GEN-GAMING-Ergonomic-Comfortable-Adjustable/dp/B0D7M7396C?tag=syncflow-20",
-      "category": "Gaming",
-      "timestamp": 1771253627,
-      "score": 2,
-      "discount": 36
     },
     {
       "id": "B0G5WN5L7T",
@@ -555,20 +529,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253626,
+      "timestamp": 1771261044,
       "score": 2,
       "discount": 43
     },
     {
+      "id": "B0D7M7396C",
+      "title": "N-GEN GAMING Video Gaming Chair with Footrest Lumbar Support for Home Office High Back Recliner Height Adjustable Ergonomic Comfy Leather Computer Desk Chair (Black)",
+      "image": "https://m.media-amazon.com/images/I/B0D7M7396C._AC_SL500_.jpg",
+      "price": "$89.78",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/N-GEN-GAMING-Ergonomic-Comfortable-Adjustable/dp/B0D7M7396C?tag=syncflow-20",
+      "category": "Gaming",
+      "timestamp": 1771261044,
+      "score": 2,
+      "discount": 36
+    },
+    {
       "id": "B0FKMWX32S",
       "title": "Acer Ergonomic Wireless Mouse w/ Side Scroll Wheel and Dual Modes 4000 DPI - F/S w/ code M70332FF",
-      "image": "https://m.media-amazon.com/images/I/71us5uikzyL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0FKMWX32S._AC_SL500_.jpg",
       "price": "$18",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/acer-Ergonomic-Wireless-Bluetooth-Vertical/dp/B0FKMWX32S?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253611,
+      "timestamp": 1771261028,
       "score": 2,
       "discount": 0
     },
@@ -581,20 +568,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FWT2Y9TX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253607,
+      "timestamp": 1771261027,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0G4MRV599",
+      "title": "Prime Members: 34-in-1 Magnetic Ratchet Screwdriver Set (S2 Steel, Multi-Bit w/ Case) $13 + Free Shipping",
+      "image": "https://static.slickdealscdn.com/attachment/2/1/5/2/0/9/6/300x300/19604755.thumb",
+      "price": "$13",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0G4MRV599?tag=syncflow-20",
+      "category": "Accessories",
+      "timestamp": 1771261007,
       "score": 2,
       "discount": 0
     },
     {
       "id": "B0CYTF6Q51",
-      "title": "Dell MS700 Bluetooth Travel Mouse - Bluetooth 5.0/Dell Pair/Microsoft Swift Pair Connectivity, Adjust DPI up to 4000, Optical LED Sensor, for $20",
+      "title": "Dell MS700 Bluetooth Travel Mouse (Misty Blue) $20",
       "image": "https://static.slickdealscdn.com/attachment/9/2/3/2/7/8/3/300x300/19602670.thumb",
       "price": "$20",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CYTF6Q51?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253572,
+      "timestamp": 1771260965,
       "score": 2,
       "discount": 0
     },
@@ -607,7 +607,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FM7XQSJ5?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253706,
+      "timestamp": 1771261109,
       "score": 1,
       "discount": 0
     },
@@ -620,7 +620,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DYF1HFP3?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253704,
+      "timestamp": 1771261107,
       "score": 1,
       "discount": 0
     },
@@ -633,7 +633,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DR3XXRVJ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253682,
+      "timestamp": 1771261092,
       "score": 1,
       "discount": 0
     },
@@ -646,7 +646,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FK7K482H?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253682,
+      "timestamp": 1771261092,
       "score": 1,
       "discount": 0
     },
@@ -659,7 +659,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazfit-Fitness-Tracker-Resistant-Silicone/dp/B0DT3YNMBX?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253629,
+      "timestamp": 1771261046,
       "score": 1,
       "discount": 20
     },
@@ -672,7 +672,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Fast-Charging/dp/B0FFTPPFMZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253627,
+      "timestamp": 1771261044,
       "score": 1,
       "discount": 25
     },
@@ -685,7 +685,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253616,
+      "timestamp": 1771261036,
       "score": 1,
       "discount": 23
     },
@@ -698,7 +698,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DQLJWRDX/ref=ox_sc_act_title_1?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253608,
+      "timestamp": 1771261028,
       "score": 1,
       "discount": 0
     },
@@ -711,7 +711,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F3GYMWG5?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253703,
+      "timestamp": 1771261107,
       "score": 0,
       "discount": 0
     },
@@ -724,7 +724,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DT4GSCW9?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771253702,
+      "timestamp": 1771261106,
       "score": 0,
       "discount": 0
     },
@@ -737,7 +737,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FX2DXNHY?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771253688,
+      "timestamp": 1771261096,
       "score": 0,
       "discount": 0
     },
@@ -750,7 +750,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D98776RL?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253684,
+      "timestamp": 1771261094,
       "score": 0,
       "discount": 0
     },
@@ -763,7 +763,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253664,
+      "timestamp": 1771261075,
       "score": 0,
       "discount": 0
     },
@@ -776,7 +776,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SIDIZ-Highly-Adjustable-Ergonomic-TNB500HLDA/dp/B083FBN9BH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253662,
+      "timestamp": 1771261073,
       "score": 0,
       "discount": 0
     },
@@ -789,7 +789,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peanuts-Snoopy-Halloween-Costume-T-Shirt/dp/B07GNYFPWW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253658,
+      "timestamp": 1771261070,
       "score": 0,
       "discount": 0
     },
@@ -802,7 +802,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1771253656,
+      "timestamp": 1771261068,
       "score": 0,
       "discount": 0
     },
@@ -815,20 +815,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Introducing-sound-compact-speaker-Lavender/dp/B09ZXJDSL5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253654,
+      "timestamp": 1771261067,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0CY3C6QKQ",
       "title": "Clothes Drying Rack Tripod, 16 Wooden Poles,Retractable,Foldable $59.99",
-      "image": "https://m.media-amazon.com/images/I/91OC4AR6TZL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0CY3C6QKQ._AC_SL500_.jpg",
       "price": "$59.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/LIENAHU-Clothing-Standing-Collapsible-Retractable/dp/B0CY3C6QKQ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771253621,
+      "timestamp": 1771261040,
       "score": 0,
       "discount": 14
     },
@@ -841,36 +841,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BP94J8VD/?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771253609,
+      "timestamp": 1771261026,
       "score": 0,
       "discount": 0
     },
     {
-      "id": "B0FLM15Q5L",
-      "title": "$169.99*: LG 27G610A-B 27\" Ultragear QHD Gaming Monitor \u2013 200Hz, 1ms, AMD FreeSync, VESA DisplayHDR 400 at Amaozn.com",
-      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/19590784.thumb",
-      "price": "$169.99",
+      "id": "B0DSWL46CF",
+      "title": "PowerColor Reaper AMD Radeon RX 9070 16GB GDDR6 $589.99",
+      "image": "https://static.slickdealscdn.com/attachment/1/6/0/1/6/4/7/5/300x300/19604344.thumb",
+      "price": "$589.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FLM15Q5L?tag=syncflow-20",
-      "category": "Gaming",
-      "timestamp": 1771253604,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0B52M7GBY",
-      "title": "CAP Barbell Single Adjustable Dumbbell w/ Contoured Rotation Handle (55 Lbs.) $96.40 + Free Shipping",
-      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/19595962.thumb",
-      "price": "$96.40",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0B52M7GBY\\u003C/a?tag=syncflow-20",
-      "category": "Fitness",
-      "timestamp": 1771253557,
+      "url": "https://www.amazon.com/dp/B0DSWL46CF?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771261007,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771253707
+  "updated": 1771261110
 }
