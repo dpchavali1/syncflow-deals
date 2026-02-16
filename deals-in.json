@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0FT3RQG6H",
-      "title": "Motion sensor light, pack of 2 at \u20b9455",
-      "image": "https://m.media-amazon.com/images/I/B0FT3RQG6H._AC_SL500_.jpg",
-      "price": "\u20b9455",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0FT3RQG6H/ref=cm_sw_r_as_gl_api_gl_i_dl_YZTZNQ44667RFBPR95AX?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771226367,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B07N8RQ6W7",
       "title": "Mobile holder at \u20b999",
       "image": "https://m.media-amazon.com/images/I/B07N8RQ6W7._AC_SL500_.jpg",
@@ -22,20 +9,59 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B07N8RQ6W7/ref=cm_sw_r_as_gl_api_gl_i_93BJG8W65EDDTCC30VFD?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771226366,
+      "timestamp": 1771232552,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07WMS7TWB",
       "title": "Pigeon electric kettle at \u20b9549",
-      "image": "https://m.media-amazon.com/images/I/B07WMS7TWB._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/51DGcy8eBCL._SL1080_.jpg",
       "price": "\u20b9549",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B07WMS7TWB/ref=cm_sw_r_as_gl_api_gl_i_Y55DZTGYCTSD57CT6BG5?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771226364,
+      "timestamp": 1771232550,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0BNXG8DX4",
+      "title": "Heavy Duty Extension Board @\u20b9711",
+      "image": "https://m.media-amazon.com/images/I/B0BNXG8DX4._AC_SL500_.jpg",
+      "price": "\u20b9711",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0BNXG8DX4?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771232544,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B07FKWGXQG",
+      "title": "12W Fast Car Charger @\u20b9175",
+      "image": "https://m.media-amazon.com/images/I/B07FKWGXQG._AC_SL500_.jpg",
+      "price": "\u20b9175",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/Ambrane-Multi-Layer-Protection-Charging-Compatible/dp/B07FKWGXQG?tag=syncflowin-21",
+      "category": "Tech",
+      "timestamp": 1771232543,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B07QDB1F6V",
+      "title": "Lakme Blush Face Wash @\u20b991",
+      "image": "https://m.media-amazon.com/images/I/B07QDB1F6V._AC_SL500_.jpg",
+      "price": "\u20b991",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/Lakm%C3%A9-Blush-Lemon-Freshness-Extracts/dp/B07QDB1F6V?tag=syncflowin-21",
+      "category": "Beauty",
+      "timestamp": 1771232541,
       "score": 3,
       "discount": 0
     },
@@ -48,8 +74,21 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771226352,
+      "timestamp": 1771232527,
       "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B076BS83BT",
+      "title": "Microfibre Reversible Comforter @\u20b9971",
+      "image": "https://m.media-amazon.com/images/I/715B42pP4pL._SL1500_.jpg",
+      "price": "\u20b9971",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B076BS83BT?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771232546,
+      "score": 2,
       "discount": 0
     },
     {
@@ -61,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771226358,
+      "timestamp": 1771232534,
       "score": 2,
       "discount": 24
     },
@@ -74,7 +113,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771226373,
+      "timestamp": 1771232559,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0FHQ98C78",
+      "title": "Electric Police Car For Kids @\u20b97999",
+      "image": "https://m.media-amazon.com/images/I/B0FHQ98C78._AC_SL500_.jpg",
+      "price": "\u20b97999",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/DealsSpy/dp/B0FHQ98C78?tag=syncflowin-21",
+      "category": "Baby",
+      "timestamp": 1771232548,
       "score": 0,
       "discount": 0
     },
@@ -87,10 +139,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771226360,
+      "timestamp": 1771232536,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771226373
+  "updated": 1771232559
 }
