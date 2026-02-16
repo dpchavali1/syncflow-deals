@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BNXG8DX4?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771239575,
+      "timestamp": 1771248275,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Ambrane-Multi-Layer-Protection-Charging-Compatible/dp/B07FKWGXQG?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1771239573,
+      "timestamp": 1771248273,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +35,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Lakm%C3%A9-Blush-Lemon-Freshness-Extracts/dp/B07QDB1F6V?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771239572,
+      "timestamp": 1771248272,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0108Q0UIW",
+      "title": "Dove Silky Cream @\u20b9477",
+      "image": "https://m.media-amazon.com/images/I/B0108Q0UIW._AC_SL500_.jpg",
+      "price": "\u20b9477",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0108Q0UIW?tag=syncflowin-21",
+      "category": "Beauty",
+      "timestamp": 1771248271,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0DSF699CT",
+      "title": "Men Beard Styling Tool (3 Pack) @\u20b9172",
+      "image": "https://m.media-amazon.com/images/I/B0DSF699CT._AC_SL500_.jpg",
+      "price": "\u20b9172",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DSF699CT?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771248270,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771239562,
+      "timestamp": 1771248259,
       "score": 3,
       "discount": 0
     },
@@ -61,20 +87,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B076BS83BT?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771239576,
+      "timestamp": 1771248276,
       "score": 2,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771239568,
+      "timestamp": 1771248263,
       "score": 2,
       "discount": 24
     },
@@ -87,36 +113,49 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771239583,
+      "timestamp": 1771248283,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0FHQ98C78",
       "title": "Electric Police Car For Kids @\u20b97999",
-      "image": "https://m.media-amazon.com/images/I/B0FHQ98C78._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61kCUu+UL4L._SL1500_.jpg",
       "price": "\u20b97999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/DealsSpy/dp/B0FHQ98C78?tag=syncflowin-21",
       "category": "Baby",
-      "timestamp": 1771239577,
+      "timestamp": 1771248278,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0DKFMSMYK",
+      "title": "\ud83d\udd25\ud83d\udd25 AMD Ryzen 7 9800X 3D Desktop Processor with Integrated Radeon Graphic",
+      "image": "https://m.media-amazon.com/images/I/B0DKFMSMYK._AC_SL500_.jpg",
+      "price": "\u20b943999",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DKFMSMYK?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771248269,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771239569,
+      "timestamp": 1771248265,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771239583
+  "updated": 1771248283
 }
