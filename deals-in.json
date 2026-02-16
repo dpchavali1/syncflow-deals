@@ -1,32 +1,6 @@
 {
   "deals": [
     {
-      "id": "B07N8RQ6W7",
-      "title": "Mobile holder at \u20b999",
-      "image": "https://m.media-amazon.com/images/I/B07N8RQ6W7._AC_SL500_.jpg",
-      "price": "\u20b999",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B07N8RQ6W7/ref=cm_sw_r_as_gl_api_gl_i_93BJG8W65EDDTCC30VFD?tag=syncflowin-21",
-      "category": "Accessories",
-      "timestamp": 1771232552,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B07WMS7TWB",
-      "title": "Pigeon electric kettle at \u20b9549",
-      "image": "https://m.media-amazon.com/images/I/51DGcy8eBCL._SL1080_.jpg",
-      "price": "\u20b9549",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B07WMS7TWB/ref=cm_sw_r_as_gl_api_gl_i_Y55DZTGYCTSD57CT6BG5?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771232550,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0BNXG8DX4",
       "title": "Heavy Duty Extension Board @\u20b9711",
       "image": "https://m.media-amazon.com/images/I/B0BNXG8DX4._AC_SL500_.jpg",
@@ -35,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BNXG8DX4?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771232544,
+      "timestamp": 1771239575,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Ambrane-Multi-Layer-Protection-Charging-Compatible/dp/B07FKWGXQG?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1771232543,
+      "timestamp": 1771239573,
       "score": 3,
       "discount": 0
     },
@@ -61,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Lakm%C3%A9-Blush-Lemon-Freshness-Extracts/dp/B07QDB1F6V?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771232541,
+      "timestamp": 1771239572,
       "score": 3,
       "discount": 0
     },
@@ -74,46 +48,46 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771232527,
+      "timestamp": 1771239562,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B076BS83BT",
       "title": "Microfibre Reversible Comforter @\u20b9971",
-      "image": "https://m.media-amazon.com/images/I/715B42pP4pL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B076BS83BT._AC_SL500_.jpg",
       "price": "\u20b9971",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B076BS83BT?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771232546,
+      "timestamp": 1771239576,
       "score": 2,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771232534,
+      "timestamp": 1771239568,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771232559,
+      "timestamp": 1771239583,
       "score": 0,
       "discount": 0
     },
@@ -126,23 +100,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/DealsSpy/dp/B0FHQ98C78?tag=syncflowin-21",
       "category": "Baby",
-      "timestamp": 1771232548,
+      "timestamp": 1771239577,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771232536,
+      "timestamp": 1771239569,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771232559
+  "updated": 1771239583
 }
