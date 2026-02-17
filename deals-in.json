@@ -1,41 +1,15 @@
 {
   "deals": [
     {
-      "id": "B0GFMYNJPG",
-      "title": "Oil Control Brightening Gel Multi-Active French Sunscreen SPF 50 PA++++ @Rs.199",
-      "image": "https://m.media-amazon.com/images/I/B0GFMYNJPG._AC_SL500_.jpg",
-      "price": "\u20b9199",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0GFMYNJPG?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771312330,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DGQNCBN6",
-      "title": "Rosemary Water For Hair Growth (200 ml) | @Rs.199",
-      "image": "https://m.media-amazon.com/images/I/B0DGQNCBN6._AC_SL500_.jpg",
-      "price": "\u20b9199",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0DGQNCBN6?tag=syncflowin-21",
-      "category": "Beauty",
-      "timestamp": 1771312329,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0FTZB2VF8",
       "title": "REFULGIX LED Pine Tree Lamp for Home Decoration - @Rs.299",
-      "image": "https://m.media-amazon.com/images/I/51Ox1lK-FSL._SY355_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0FTZB2VF8._AC_SL500_.jpg",
       "price": "\u20b9299",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FTZB2VF8?tag=syncflowin-21",
       "category": "Home",
-      "timestamp": 1771312326,
+      "timestamp": 1771318866,
       "score": 3,
       "discount": 0
     },
@@ -48,21 +22,8 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771312313,
+      "timestamp": 1771318856,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0F946DCR8",
-      "title": "Aristocrat Medium Combat Check-in Trolley Bag, 63 Cm @Rs.1519",
-      "image": "https://m.media-amazon.com/images/I/B0F946DCR8._AC_SL500_.jpg",
-      "price": "\u20b91519",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dealsmagnet.com/dp/B0F946DCR8?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771312331,
-      "score": 2,
       "discount": 0
     },
     {
@@ -74,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771312320,
+      "timestamp": 1771318861,
       "score": 2,
       "discount": 24
     },
@@ -87,20 +48,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771312339,
+      "timestamp": 1771318874,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0C1S1QC3C",
       "title": "Mens polo shirt deal",
-      "image": "https://m.media-amazon.com/images/I/B0C1S1QC3C._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71e7pr053dL._SL1500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0C1S1QC3C/ref=cm_sw_r_as_gl_api_gl_i_5544XDMAE97F6J2KXNPD?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771312327,
+      "timestamp": 1771318868,
       "score": 0,
       "discount": 0
     },
@@ -113,10 +74,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771312321,
+      "timestamp": 1771318862,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771312339
+  "updated": 1771318874
 }
