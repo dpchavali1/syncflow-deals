@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771383367,
+      "timestamp": 1771392538,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771383374,
+      "timestamp": 1771392545,
       "score": 2,
       "discount": 24
     },
@@ -35,23 +35,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771383385,
+      "timestamp": 1771392558,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0FZL3HY4Z",
+      "title": "Deals on womens shorts",
+      "image": "https://m.media-amazon.com/images/I/B0FZL3HY4Z._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FZL3HY4Z/ref=cm_sw_r_as_gl_api_gl_i_dl_M7SM6H56ZWKXHJJHAAM0?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771392552,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771383375,
+      "timestamp": 1771392547,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771383385
+  "updated": 1771392558
 }
