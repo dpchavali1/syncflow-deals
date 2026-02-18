@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B07HY4RYPD?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441677,
+      "timestamp": 1771447927,
       "score": 6,
       "discount": 54
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F42WNN99?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441678,
+      "timestamp": 1771447928,
       "score": 5,
       "discount": 36
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0D9N5WX8L?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441677,
+      "timestamp": 1771447927,
       "score": 5,
       "discount": 33
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/TP-Link-Bluetooth-Receiver-Controller-UB500/dp/B09DMP6T22?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441672,
+      "timestamp": 1771447920,
       "score": 5,
       "discount": 52
     },
@@ -61,9 +61,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B078GLSLBN?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441671,
+      "timestamp": 1771447919,
       "score": 5,
       "discount": 65
+    },
+    {
+      "id": "B01ARAH6O0",
+      "title": "UGREEN SD Card Reader USB 3.0 Card Hub Adapter",
+      "image": "https://m.media-amazon.com/images/I/B01ARAH6O0._AC_SL500_.jpg",
+      "price": "$8.49",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B01ARAH6O0?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1771447916,
+      "score": 5,
+      "discount": 35
     },
     {
       "id": "B08XGHNVFP",
@@ -74,20 +87,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08XGHNVFP?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441740,
+      "timestamp": 1771448001,
       "score": 4,
       "discount": 0
     },
     {
       "id": "B0FCXS2LCS",
       "title": "-46% LIMITED TIME SALE on a 1500W Space Heater \u2013 $30.99",
-      "image": "https://m.media-amazon.com/images/I/B0FCXS2LCS._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81AlfO312FL._AC_SL1500_.jpg",
       "price": "$30.99",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FCXS2LCS?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771441681,
+      "timestamp": 1771447932,
       "score": 4,
       "discount": 46
     },
@@ -100,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DRWKHRD1?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441680,
+      "timestamp": 1771447930,
       "score": 4,
       "discount": 31
     },
@@ -113,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BJ13K7FR?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1771441673,
+      "timestamp": 1771447921,
       "score": 4,
       "discount": 30
     },
@@ -126,22 +139,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01E60QQ3Y?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441668,
+      "timestamp": 1771447917,
       "score": 4,
       "discount": 32
-    },
-    {
-      "id": "B0DLNM7Y3R",
-      "title": "Quilted Makeup Bags for $5.99 with free Prime shipping!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Quilted-Makeup-Bag.jpg",
-      "price": "$5.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DLNM7Y3R?tag=syncflow-20",
-      "category": "Beauty",
-      "timestamp": 1771441746,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B00MHVEBY6",
@@ -152,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Skippy-Natural-Peanut-Butter-Spread/dp/B00MHVEBY6?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771441740,
+      "timestamp": 1771448001,
       "score": 3,
       "discount": 0
     },
@@ -165,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B076Q2G7MV?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771441738,
+      "timestamp": 1771447997,
       "score": 3,
       "discount": 0
     },
@@ -178,59 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C7WTPT64?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771441737,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B07BQXJ123",
-      "title": "Squirrel Brand Sweet Brown Butter Cashews, 3.5 Ounces Resealable Bag only $3.78 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2025/01/Squirrel-Brand-Sweet-Brown-Butter-Cashews-3.5-Ounces-Resealable-Bag.jpg",
-      "price": "$3.78",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B07BQXJ123?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771441733,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B00T0C9XRK",
-      "title": "Essence Lash Princess False Lash Effect Mascara only $3.32 shipped! (Over 300,000 Reviews!)",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2025/02/essence-_-Lash-Princess-False-Lash-Effect-Mascara-3-Pack.jpg",
-      "price": "$3.32",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/essence-Princess-Effect-Mascara-Cruelty/dp/B00T0C9XRK?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771441733,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B07P7HPWC2",
-      "title": "Hunt\u2019s All Natural Tomato Ketchup, 20 oz just $1.51 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2025/01/Hunts-All-Natural-Tomato-Ketchup-20-oz-1.jpg",
-      "price": "$1.51",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B07P7HPWC2?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771441733,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CPJRCCMG",
-      "title": "HUBBA BUBBA Minis Skittles Flavored Sugar Free Gum (Bulk Bag) only $7.88 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/HUBBA-BUBBA-Minis-SKITTLES-Flavored-Sugar-Free-Gum-630x702.jpg",
-      "price": "$7.88",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CPJRCCMG?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771441733,
+      "timestamp": 1771447996,
       "score": 3,
       "discount": 0
     },
@@ -243,33 +191,59 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/eos-Shea-Better-Hand-Cream/dp/B09QP658PT?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771441733,
+      "timestamp": 1771447992,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B08T5WPC53",
-      "title": "USB-C 6-Foot Fast Charging Cords 2-Pack for just $4.99!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2025/08/AINOPE-USB-C-to-USB-C-Cable-60W-2Pack-1.jpg",
-      "price": "$4.99",
+      "id": "B07BQXJ123",
+      "title": "Squirrel Brand Sweet Brown Butter Cashews, 3.5 Ounces Resealable Bag only $3.78 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/01/Squirrel-Brand-Sweet-Brown-Butter-Cashews-3.5-Ounces-Resealable-Bag.jpg",
+      "price": "$3.78",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B08T5WPC53?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1771441732,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0D14W2DF5",
-      "title": "Kraft Original Slow-Simmered Barbecue Sauce 2-Pack only $2.83 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Kraft-Original-Slow-Simmered-BBQ-Barbecue-Sauce-1-1.jpg",
-      "price": "$2.83",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0D14W2DF5?tag=syncflow-20",
+      "url": "https://www.amazon.com/gp/product/B07BQXJ123?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441732,
+      "timestamp": 1771447991,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B00T0C9XRK",
+      "title": "Essence Lash Princess False Lash Effect Mascara only $3.32 shipped! (Over 300,000 Reviews!)",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/02/essence-_-Lash-Princess-False-Lash-Effect-Mascara-3-Pack.jpg",
+      "price": "$3.32",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/essence-Princess-Effect-Mascara-Cruelty/dp/B00T0C9XRK?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771447991,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B07P7HPWC2",
+      "title": "Hunt\u2019s All Natural Tomato Ketchup, 20 oz just $1.51 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/01/Hunts-All-Natural-Tomato-Ketchup-20-oz-1.jpg",
+      "price": "$1.51",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B07P7HPWC2?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771447991,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CPJRCCMG",
+      "title": "HUBBA BUBBA Minis Skittles Flavored Sugar Free Gum (Bulk Bag) only $7.88 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/HUBBA-BUBBA-Minis-SKITTLES-Flavored-Sugar-Free-Gum-630x702.jpg",
+      "price": "$7.88",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CPJRCCMG?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771447991,
       "score": 3,
       "discount": 0
     },
@@ -282,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Lysol-Cleaner-Cleaning-Disinfecting-Removal/dp/B0CRWRHLCF?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441732,
+      "timestamp": 1771447990,
       "score": 3,
       "discount": 0
     },
@@ -295,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CS511T7M?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441732,
+      "timestamp": 1771447990,
       "score": 3,
       "discount": 0
     },
@@ -308,7 +282,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FMS6W6DK?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1771441732,
+      "timestamp": 1771447990,
       "score": 3,
       "discount": 0
     },
@@ -321,7 +295,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/MODERNA-Enriched-Semolina-Vitamin-Fortified-Macaroni/dp/B000VCBYBQ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441732,
+      "timestamp": 1771447990,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B08T5WPC53",
+      "title": "USB-C 6-Foot Fast Charging Cords 2-Pack for just $4.99!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/08/AINOPE-USB-C-to-USB-C-Cable-60W-2Pack-1.jpg",
+      "price": "$4.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B08T5WPC53?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1771447989,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0D14W2DF5",
+      "title": "Kraft Original Slow-Simmered Barbecue Sauce 2-Pack only $2.83 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Kraft-Original-Slow-Simmered-BBQ-Barbecue-Sauce-1-1.jpg",
+      "price": "$2.83",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B0D14W2DF5?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771447989,
       "score": 3,
       "discount": 0
     },
@@ -334,7 +334,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Apple-40W-Dynamic-Power-Adapter/dp/B0FQFPN3WR?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441682,
+      "timestamp": 1771447933,
       "score": 3,
       "discount": 30
     },
@@ -347,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FZ56RX6Q?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441671,
+      "timestamp": 1771447918,
       "score": 3,
       "discount": 36
     },
@@ -360,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DGTHQMYD?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1771441746,
+      "timestamp": 1771448010,
       "score": 2,
       "discount": 0
     },
@@ -373,7 +373,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BXKX8HNL?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771441739,
+      "timestamp": 1771447999,
       "score": 2,
       "discount": 0
     },
@@ -386,7 +386,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FK7K482H?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1771441739,
+      "timestamp": 1771447999,
       "score": 2,
       "discount": 0
     },
@@ -399,20 +399,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F8BNMZQP?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441733,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B00XWP9H90",
-      "title": "Rayovac Batteries Stock Up Deals: AAA Batteries 60-Count for only $13.19 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2024/11/Rayovac-AAA-Batteries-Alkaline-Triple-A-Batteries-1.jpg",
-      "price": "$13.19",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B00XWP9H90?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771441732,
+      "timestamp": 1771447992,
       "score": 2,
       "discount": 0
     },
@@ -425,7 +412,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/PBfit-All-Natural-Powdered-Roasted-Pressed/dp/B01KKEECLS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441732,
+      "timestamp": 1771447990,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B00LHSAARW",
+      "title": "Rayovac Batteries Stock Up Deals: AA Batteries 60-Count for only $11.63 shipped, plus more!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/Screenshot-2026-02-18-at-2.08.28\u202fPM-630x470.jpg",
+      "price": "$11.63",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/RAYOVAC-60-Pack-Alkaline-Batteries-815-60PPK/dp/B00LHSAARW?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771447987,
       "score": 2,
       "discount": 0
     },
@@ -438,7 +438,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CG2J72R2?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1771441730,
+      "timestamp": 1771447987,
       "score": 2,
       "discount": 0
     },
@@ -451,7 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B08L4PHVG7?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441730,
+      "timestamp": 1771447987,
       "score": 2,
       "discount": 0
     },
@@ -464,7 +464,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FirsTime-Antique-Contour-Wall-Clock/dp/B00NQAKH8Q/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441724,
+      "timestamp": 1771447981,
       "score": 2,
       "discount": 0
     },
@@ -477,7 +477,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0018CE8LQ/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1771441723,
+      "timestamp": 1771447979,
       "score": 2,
       "discount": 0
     },
@@ -490,7 +490,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01EH5SAIM/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771441720,
+      "timestamp": 1771447976,
       "score": 2,
       "discount": 0
     },
@@ -503,7 +503,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peacock-Costume-Small-One-Color/dp/B00AUJ2PMW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1771441717,
+      "timestamp": 1771447972,
       "score": 2,
       "discount": 0
     },
@@ -516,7 +516,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/UGG-Euphoria-Plush-Fur-Reversible/dp/B07WRDL2VZ?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771441682,
+      "timestamp": 1771447934,
       "score": 2,
       "discount": 48
     },
@@ -529,7 +529,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/HP-Touchscreen-Display-Windows11-Accessories/dp/B0GFCH6B5Y?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441679,
+      "timestamp": 1771447929,
       "score": 2,
       "discount": 39
     },
@@ -542,7 +542,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Logitech-Wireless-Mouse-M185-Swift/dp/B004YAVF8I?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441676,
+      "timestamp": 1771447926,
       "score": 2,
       "discount": 17
     },
@@ -555,22 +555,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GHRY6RQY?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1771441676,
+      "timestamp": 1771447926,
       "score": 2,
       "discount": 49
-    },
-    {
-      "id": "B0F841YB1P",
-      "title": "SwitchBot Smart Lock Ultra with Keypad, Fingerprint Door Lock",
-      "image": "https://m.media-amazon.com/images/I/B0F841YB1P._AC_SL500_.jpg",
-      "price": "$128.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Fingerprint-Control-Deadbolt-Waterproof-Supports/dp/B0F841YB1P?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771441675,
-      "score": 2,
-      "discount": 39
     },
     {
       "id": "B0GHGV75PF",
@@ -581,9 +568,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Walking-Pad-Treadmill-Home-Treadmills/dp/B0GHGV75PF?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1771441675,
+      "timestamp": 1771447925,
       "score": 2,
       "discount": 40
+    },
+    {
+      "id": "B0F841YB1P",
+      "title": "SwitchBot Smart Lock Ultra with Keypad, Fingerprint Door Lock",
+      "image": "https://m.media-amazon.com/images/I/71Ic90HAf+L._AC_SL1500_.jpg",
+      "price": "$128.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Fingerprint-Control-Deadbolt-Waterproof-Supports/dp/B0F841YB1P?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771447924,
+      "score": 2,
+      "discount": 39
     },
     {
       "id": "B0C5T9JM59",
@@ -594,22 +594,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Wireless-Headset-With-Mic-For-Work/dp/B0C5T9JM59?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441669,
+      "timestamp": 1771447918,
       "score": 2,
       "discount": 25
-    },
-    {
-      "id": "B0FX9SPPH1",
-      "title": "Steelbook Dungeons & Dragons: Honor Among Thieves (4K+Blu-ray+Digital) $21.75",
-      "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/19623397.thumb",
-      "price": "$21.75",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FX9SPPH1?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1771441625,
-      "score": 2,
-      "discount": 0
     },
     {
       "id": "B0BX8TFZW1",
@@ -620,22 +607,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BX8TFZW1?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1771441733,
+      "timestamp": 1771447991,
       "score": 1,
       "discount": 0
-    },
-    {
-      "id": "B0DGHMNQ5Z",
-      "title": "Apple AirPods 4 Deal: 23% OFF Wireless Earbuds with USB-C, H2 Chip & Personalized Spatial Audio - Now $99 on Amazon",
-      "image": "https://m.media-amazon.com/images/I/B0DGHMNQ5Z._AC_SL500_.jpg",
-      "price": "$99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1771441683,
-      "score": 1,
-      "discount": 23
     },
     {
       "id": "B0FQF5BZ8Z",
@@ -646,7 +620,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQF5BZ8Z?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441676,
+      "timestamp": 1771447926,
       "score": 1,
       "discount": 23
     },
@@ -659,7 +633,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BNPVDD63?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1771441674,
+      "timestamp": 1771447922,
       "score": 1,
       "discount": 15
     },
@@ -672,22 +646,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Alienware-AW3423DWF-Curved-QD-OLED-Monitor/dp/B0BP94J8VD?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1771441670,
+      "timestamp": 1771447918,
       "score": 1,
       "discount": 28
-    },
-    {
-      "id": "B0779PK6SH",
-      "title": "$33.71*: 12\" x 22\" bella XL Electric Ceramic Titanium Griddle at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/19624936.thumb",
-      "price": "$33.71",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0779PK6SH?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1771441655,
-      "score": 1,
-      "discount": 0
     },
     {
       "id": "B0FX2DXNHY",
@@ -698,7 +659,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FX2DXNHY?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1771441739,
+      "timestamp": 1771447999,
       "score": 0,
       "discount": 0
     },
@@ -711,7 +672,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FKMRM3WT?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441732,
+      "timestamp": 1771447990,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0DKXCHYBF",
+      "title": "RENPHO Lynx Smart Ring only $160.55 shipped (Reg. $230!)",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/02/RENPHO-Lynx-Smart-Ring-630x545.jpg",
+      "price": "$160.55",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DKXCHYBF?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1771447986,
       "score": 0,
       "discount": 0
     },
@@ -724,7 +698,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441714,
+      "timestamp": 1771447968,
       "score": 0,
       "discount": 0
     },
@@ -737,7 +711,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SIDIZ-Highly-Adjustable-Ergonomic-TNB500HLDA/dp/B083FBN9BH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441712,
+      "timestamp": 1771447966,
       "score": 0,
       "discount": 0
     },
@@ -750,7 +724,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peanuts-Snoopy-Halloween-Costume-T-Shirt/dp/B07GNYFPWW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441709,
+      "timestamp": 1771447961,
       "score": 0,
       "discount": 0
     },
@@ -763,7 +737,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1771441707,
+      "timestamp": 1771447959,
       "score": 0,
       "discount": 0
     },
@@ -776,7 +750,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Introducing-sound-compact-speaker-Lavender/dp/B09ZXJDSL5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441706,
+      "timestamp": 1771447957,
       "score": 0,
       "discount": 0
     },
@@ -789,7 +763,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B25M8FXX?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1771441665,
+      "timestamp": 1771447911,
       "score": 0,
       "discount": 0
     },
@@ -802,10 +776,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DJP95MGB?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1771441664,
+      "timestamp": 1771447910,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771441746
+  "updated": 1771448010
 }
