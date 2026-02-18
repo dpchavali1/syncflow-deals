@@ -3,13 +3,13 @@
     {
       "id": "B0FCM6CBZT",
       "title": "Noise BT Buds @\u20b9799",
-      "image": "https://m.media-amazon.com/images/I/B0FCM6CBZT._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61tcqGvsY0L._SL1500_.jpg",
       "price": "\u20b9799",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FCM6CBZT?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771421267,
+      "timestamp": 1771426659,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/SUGAR-POP-Lacquer-Radiant-Rainbow/dp/B0DR29LWW5?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771421266,
+      "timestamp": 1771426657,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/INOVERA-LABEL-Professional-Adjustable-Compartment/dp/B08HX2F6ZF?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771421263,
+      "timestamp": 1771426654,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0C62ZPJBB",
+      "title": "Axe Deodorant @\u20b9123",
+      "image": "https://m.media-amazon.com/images/I/B0C62ZPJBB._AC_SL500_.jpg",
+      "price": "\u20b9123",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0C62ZPJBB?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771426649,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771421243,
+      "timestamp": 1771426635,
       "score": 3,
       "discount": 0
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Premium-Reflective-Breathable-Adjustable-No-Choke/dp/B0F7FNBMYP?tag=syncflowin-21",
       "category": "Pets",
-      "timestamp": 1771421265,
+      "timestamp": 1771426655,
       "score": 2,
       "discount": 0
     },
@@ -74,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771421251,
+      "timestamp": 1771426643,
       "score": 2,
       "discount": 24
     },
@@ -87,33 +100,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771421274,
+      "timestamp": 1771426667,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B08GJ57MKL",
       "title": "Coway Airmega 150 Air Purifier @\u20b915,999",
-      "image": "https://m.media-amazon.com/images/I/91mE+0CCnGL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B08GJ57MKL._AC_SL500_.jpg",
       "price": "\u20b915999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Coway-Professional-Purifier-Anti-Virus-AP-1019C/dp/B08GJ57MKL?tag=syncflowin-21",
       "category": "Home",
-      "timestamp": 1771421261,
+      "timestamp": 1771426652,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0CW184WNH",
       "title": "Whirlpool 270L Triple-Door Refrigerator deal",
-      "image": "https://m.media-amazon.com/images/I/61RBQL-aq4L._SL1482_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0CW184WNH._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CW184WNH/ref=cm_sw_r_as_gl_apa_gl_i_dl_NG3MZP83ZNAM30P5WJ9Q?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771421258,
+      "timestamp": 1771426650,
       "score": 0,
       "discount": 0
     },
@@ -126,10 +139,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771421253,
+      "timestamp": 1771426645,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771421274
+  "updated": 1771426667
 }
