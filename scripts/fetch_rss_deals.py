@@ -384,6 +384,75 @@ def categorize(title):
     return "General"
 
 
+def is_amazon_deal_page(soup):
+    """Check if a Slickdeals page is for an Amazon deal (vs Walmart, Target, etc)."""
+    # Check "Get Deal at Amazon" button text
+    for a in soup.find_all('a'):
+        text = a.get_text(strip=True).lower()
+        if 'get deal' in text and 'amazon' in text:
+            return True
+    # Check store mentions in page
+    page_text = soup.get_text().lower()
+    if 'get deal at amazon' in page_text:
+        return True
+    return False
+
+
+def extract_asin_from_slickdeals(soup, domain="amazon.com"):
+    """Extract Amazon ASIN from a Slickdeals deal page using multiple strategies.
+    Returns tuple: (asin, amazon_url)
+    """
+    from urllib.parse import unquote, urlparse, parse_qs
+
+    # Strategy 1: Find ASIN in u2= parameter of click links (product reviews, etc)
+    for a in soup.find_all('a', href=True):
+        href = a['href']
+        if 'u2=' in href:
+            decoded = unquote(href)
+            m = re.search(rf'{domain}/(?:dp|gp/product|product-reviews)/([A-Z0-9]{{10}})', decoded)
+            if m:
+                asin = m.group(1)
+                url = f"https://www.{domain}/dp/{asin}"
+                if DEBUG:
+                    print(f"[SLICKDEALS] Found ASIN {asin} via u2= parameter")
+                return (asin, url)
+
+    # Strategy 2: Find ASIN in any encoded Amazon URL in the page HTML
+    decoded_html = unquote(soup.decode())
+    escaped_domain = domain.replace(".", r"\.")
+    m = re.search(rf'{escaped_domain}/(?:dp|gp/product|product-reviews)/([A-Z0-9]{{10}})', decoded_html)
+    if m:
+        asin = m.group(1)
+        url = f"https://www.{domain}/dp/{asin}"
+        if DEBUG:
+            print(f"[SLICKDEALS] Found ASIN {asin} in decoded page HTML")
+        return (asin, url)
+
+    # Strategy 3: Follow the "Get Deal" click redirect (slower, requires HTTP request)
+    for a in soup.find_all('a', href=True):
+        text = a.get_text(strip=True).lower()
+        href = a['href']
+        if ('get deal' in text or 'see deal' in text) and '/click' in href:
+            try:
+                full_url = href if href.startswith('http') else f"https://slickdeals.net{href}"
+                if DEBUG:
+                    print(f"[SLICKDEALS] Following redirect: {full_url[:80]}...")
+                time.sleep(RATE_LIMIT_DELAY)
+                resp = requests.head(full_url, headers=HEADERS, timeout=8, allow_redirects=True)
+                final_url = resp.url
+                if domain in final_url:
+                    asin = extract_asin(final_url)
+                    if asin:
+                        if DEBUG:
+                            print(f"[SLICKDEALS] Found ASIN {asin} via redirect")
+                        return (asin, final_url)
+            except Exception as e:
+                if DEBUG:
+                    print(f"[SLICKDEALS] Redirect failed: {e}")
+
+    return (None, None)
+
+
 def fetch_amazon_url_from_page(page_url, region):
     """Try to fetch Amazon URL and image from a deal page (for Slickdeals etc).
     Returns tuple: (amazon_url, image_url)
@@ -398,16 +467,29 @@ def fetch_amazon_url_from_page(page_url, region):
         amazon_url = None
         image_url = None
 
-        # Look for Amazon URLs in anchor tags first (more reliable)
+        is_slickdeals = 'slickdeals.net' in page_url
+
+        if is_slickdeals:
+            # Check if this is actually an Amazon deal (skip Walmart, Target, etc)
+            if not is_amazon_deal_page(soup):
+                if DEBUG:
+                    print(f"[SLICKDEALS] Not an Amazon deal, skipping: {page_url[:60]}...")
+                return (None, None)
+
+            # Use Slickdeals-specific extraction (handles click redirects)
+            asin, amazon_url = extract_asin_from_slickdeals(soup, domain)
+            if amazon_url:
+                image_url = extract_image_from_summary(str(soup), domain)
+                return (amazon_url, image_url)
+
+        # Generic: look for direct Amazon URLs in anchor tags
         for link in soup.find_all('a', href=True):
             href = link['href']
-            # Check various Amazon URL patterns
             if domain in href:
                 if '/dp/' in href or '/gp/' in href or '/product/' in href:
                     if extract_asin(href):
                         amazon_url = href
                         break
-            # Also check for amzn.to short links
             elif 'amzn.to' in href or 'amzn.com' in href:
                 try:
                     redirect_resp = requests.head(href, headers=HEADERS, timeout=5, allow_redirects=True)
