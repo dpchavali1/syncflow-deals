@@ -1,28 +1,15 @@
 {
   "deals": [
     {
-      "id": "B01N16SZQ0",
-      "title": "Rupa Jon Sleeveless Vest for Men Pack of 5 @Rs.311",
-      "image": "https://m.media-amazon.com/images/I/B01N16SZQ0._AC_SL500_.jpg",
-      "price": "\u20b9311",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B01N16SZQ0?tag=syncflowin-21",
-      "category": "Accessories",
-      "timestamp": 1771491556,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B09ZSQLNBK",
       "title": "FITINC Stretchable Shorts for Gym @Rs.248",
-      "image": "https://m.media-amazon.com/images/I/B09ZSQLNBK._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61fregVSyqL._SL1500_.jpg",
       "price": "\u20b9248",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B09ZSQLNBK?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1771491552,
+      "timestamp": 1771498644,
       "score": 3,
       "discount": 0
     },
@@ -35,46 +22,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771491540,
+      "timestamp": 1771498630,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771491546,
+      "timestamp": 1771498636,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771491561,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0FDFR7K1T",
-      "title": "Boat Aavante 5.2.4 Prime Home Theatre Soundbar Speaker @Rs.15,999",
-      "image": "https://m.media-amazon.com/images/I/B0FDFR7K1T._AC_SL500_.jpg",
-      "price": "\u20b915999",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0FDFR7K1T?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771491555,
+      "timestamp": 1771498651,
       "score": 0,
       "discount": 0
     },
@@ -87,23 +61,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FH4L89MZ/ref=cm_sw_r_as_gl_api_gl_i_P8EDRJ07GDJADAX7GERX?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771491551,
+      "timestamp": 1771498642,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771491547,
+      "timestamp": 1771498638,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771491561
+  "updated": 1771498651
 }
