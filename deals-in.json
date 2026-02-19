@@ -1,6 +1,19 @@
 {
   "deals": [
     {
+      "id": "B01N16SZQ0",
+      "title": "Rupa Jon Sleeveless Vest for Men Pack of 5 @Rs.311",
+      "image": "https://m.media-amazon.com/images/I/B01N16SZQ0._AC_SL500_.jpg",
+      "price": "\u20b9311",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B01N16SZQ0?tag=syncflowin-21",
+      "category": "Accessories",
+      "timestamp": 1771469675,
+      "score": 3,
+      "discount": 0
+    },
+    {
       "id": "B01N24I6JD",
       "title": "TP-Link LB100 Wi-Fi SmartLight 7W @ Rs. 499 only (Down from Rs. 1,399)",
       "image": "https://m.media-amazon.com/images/I/B01N24I6JD._AC_SL500_.jpg",
@@ -9,33 +22,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771459301,
+      "timestamp": 1771469661,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771459307,
+      "timestamp": 1771469667,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771459318,
+      "timestamp": 1771469681,
       "score": 0,
       "discount": 0
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/KAJARU-Ribbed-T-Shirt-Sleeve-Coffee/dp/B0FK2MBTHQ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771459311,
+      "timestamp": 1771469675,
       "score": 0,
       "discount": 0
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Parachute-Coconut-Oil-300ml-Bottle/dp/B07BDNCTFC?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771459311,
+      "timestamp": 1771469675,
       "score": 0,
       "discount": 0
     },
@@ -74,7 +87,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Highlander-Polyester-Shirt-PHSH000175_Peanut-Brown/dp/B0F44L54CM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771459311,
+      "timestamp": 1771469675,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0FDFR7K1T",
+      "title": "Boat Aavante 5.2.4 Prime Home Theatre Soundbar Speaker @Rs.15,999",
+      "image": "https://m.media-amazon.com/images/I/71X3yLZz3bL._SL1500_.jpg",
+      "price": "\u20b915999",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FDFR7K1T?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771469674,
       "score": 0,
       "discount": 0
     },
@@ -87,10 +113,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771459308,
+      "timestamp": 1771469668,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771459318
+  "updated": 1771469681
 }
