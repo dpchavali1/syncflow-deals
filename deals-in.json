@@ -3,26 +3,26 @@
     {
       "id": "B0GCN4NHL5",
       "title": "Holi Pichkari Rechargeable @\u20b9440",
-      "image": "https://m.media-amazon.com/images/I/813WUZOqBDL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0GCN4NHL5._AC_SL500_.jpg",
       "price": "\u20b9440",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Zest-Toyz-Pichkari-Rechargeable-Electric/dp/B0GCN4NHL5?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771606540,
+      "timestamp": 1771614183,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B0DXW1DXRZ",
       "title": "Cat Wet Food 8 Packs @\u20b9514",
-      "image": "https://m.media-amazon.com/images/I/61BXVGeGztL._SL1080_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DXW1DXRZ._AC_SL500_.jpg",
       "price": "\u20b9514",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Smylo-Mackerel-Preservatives-Products-Vet-Formulated/dp/B0DXW1DXRZ?tag=syncflowin-21",
       "category": "Pets",
-      "timestamp": 1771606537,
+      "timestamp": 1771614181,
       "score": 3,
       "discount": 0
     },
@@ -35,9 +35,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/KILRR-Marination-Marinates-Marinade-Preservatives/dp/B0F88BTR34?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771606534,
+      "timestamp": 1771614180,
       "score": 3,
       "discount": 0
+    },
+    {
+      "id": "B09BB6T99T",
+      "title": "Loot \ud83d\udca5 Ferrero rocher at 72% off!!",
+      "image": "https://m.media-amazon.com/images/I/B09BB6T99T._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B09BB6T99T/ref=cm_sw_r_as_gl_apa_gl_i_2743WAYKARAZSY8G9JCE?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771614179,
+      "score": 3,
+      "discount": 72
     },
     {
       "id": "B01N24I6JD",
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771606521,
+      "timestamp": 1771614170,
       "score": 3,
       "discount": 0
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/ZEBRONICS-Controller-Dualsense-Controllers-Indicators/dp/B0F8MZV8PK?tag=syncflowin-21",
       "category": "Gaming",
-      "timestamp": 1771606541,
+      "timestamp": 1771614184,
       "score": 2,
       "discount": 0
     },
@@ -74,20 +87,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771606529,
+      "timestamp": 1771614175,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B0CZ9KBP5N",
       "title": "12-Slot Watch Roll Case @\u20b93172",
-      "image": "https://m.media-amazon.com/images/I/7134VYXgPEL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0CZ9KBP5N._AC_SL500_.jpg",
       "price": "\u20b93172",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/essart-12-Slot-Watch-Roll-Case/dp/B0CZ9KBP5N?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771606544,
+      "timestamp": 1771614185,
       "score": 1,
       "discount": 0
     },
@@ -100,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771606550,
+      "timestamp": 1771614190,
       "score": 0,
       "discount": 0
     },
@@ -113,10 +126,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771606530,
+      "timestamp": 1771614176,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771606550
+  "updated": 1771614190
 }
