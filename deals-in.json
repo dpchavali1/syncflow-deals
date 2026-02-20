@@ -1,32 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0BHTRRTPC",
-      "title": "Vaseline Total Moisture Body Wash @\u20b9382",
-      "image": "https://m.media-amazon.com/images/I/B0BHTRRTPC._AC_SL500_.jpg",
-      "price": "\u20b9382",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0BHTRRTPC?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771593627,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B08JR7NMH8",
-      "title": "Natural Arabian Dates 500g @\u20b9104",
-      "image": "https://m.media-amazon.com/images/I/B08JR7NMH8._AC_SL500_.jpg",
-      "price": "\u20b9104",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B08JR7NMH8?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771593626,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0CKDT85XJ",
       "title": "Zandu Shilajitprash @\u20b9211",
       "image": "https://m.media-amazon.com/images/I/B0CKDT85XJ._AC_SL500_.jpg",
@@ -35,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/DealsSpy/dp/B0CKDT85XJ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771593624,
+      "timestamp": 1771599134,
       "score": 3,
       "discount": 0
     },
@@ -48,59 +22,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771593611,
+      "timestamp": 1771599123,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DWX68ZFL",
-      "title": "Heavy Duty Pet Airline Carrier @\u20b91,671",
-      "image": "https://m.media-amazon.com/images/I/B0DWX68ZFL._AC_SL500_.jpg",
-      "price": "\u20b91671",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/pricehistory.app/dp/B0DWX68ZFL?tag=syncflowin-21",
-      "category": "Pets",
-      "timestamp": 1771593623,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B078S7GB96",
-      "title": "Police Office Laptop Backpack @\u20b9999",
-      "image": "https://m.media-amazon.com/images/I/B078S7GB96._AC_SL500_.jpg",
-      "price": "\u20b9999",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/pricehistory.app/dp/B078S7GB96?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1771593622,
-      "score": 2,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771593617,
+      "timestamp": 1771599129,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771593633,
+      "timestamp": 1771599139,
       "score": 0,
       "discount": 0
     },
@@ -113,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771593618,
+      "timestamp": 1771599130,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771593633
+  "updated": 1771599139
 }
