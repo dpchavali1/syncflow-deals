@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0DXW1DXRZ",
-      "title": "Cat Wet Food 8 Packs @\u20b9514",
-      "image": "https://m.media-amazon.com/images/I/61BXVGeGztL._SL1080_.jpg",
-      "price": "\u20b9514",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Smylo-Mackerel-Preservatives-Products-Vet-Formulated/dp/B0DXW1DXRZ?tag=syncflowin-21",
-      "category": "Pets",
-      "timestamp": 1771620300,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0F88BTR34",
       "title": "Chicken Marination Masala Variety Pack of 10 @\u20b9615",
       "image": "https://m.media-amazon.com/images/I/B0F88BTR34._AC_SL500_.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/KILRR-Marination-Marinates-Marinade-Preservatives/dp/B0F88BTR34?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771620297,
+      "timestamp": 1771627155,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B09BB6T99T/ref=cm_sw_r_as_gl_apa_gl_i_2743WAYKARAZSY8G9JCE?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771620296,
+      "timestamp": 1771627154,
       "score": 3,
       "discount": 72
     },
@@ -48,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771620286,
+      "timestamp": 1771627139,
       "score": 3,
       "discount": 0
     },
@@ -61,36 +48,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771620291,
+      "timestamp": 1771627147,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771620305,
+      "timestamp": 1771627163,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771620292,
+      "timestamp": 1771627149,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771620305
+  "updated": 1771627163
 }
