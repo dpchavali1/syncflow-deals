@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B08P9LS6CN/ref=cm_sw_r_as_gl_apa_gl_i_dl_P9PCJ1VBJQ1RKVW80JCH?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771564976,
+      "timestamp": 1771571391,
       "score": 3,
       "discount": 0
     },
@@ -22,33 +22,46 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771564958,
+      "timestamp": 1771571378,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771564966,
+      "timestamp": 1771571384,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771564983,
+      "timestamp": 1771571397,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0D9LRTZP3",
+      "title": "are AOC monitors worth it?",
+      "image": "https://m.media-amazon.com/images/I/B0D9LRTZP3._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/AOC-22B30HM2-Monitor-Flicker-Free-Response/dp/B0D9LRTZP3?tag=syncflowin-21",
+      "category": "Tech",
+      "timestamp": 1771571393,
       "score": 0,
       "discount": 0
     },
@@ -61,20 +74,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FR4LKBQ2/ref=cm_sw_r_as_gl_api_gl_i_dl_4GYA5GT4S5MV805N2C7C?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771564974,
+      "timestamp": 1771571390,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B00DUCIMCI",
       "title": "Mens watch finds",
-      "image": "https://m.media-amazon.com/images/I/71taSx89wUL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B00DUCIMCI._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B00DUCIMCI/ref=cm_sw_r_as_gl_api_gl_i_E2KJF48GXADZMT4T6SJQ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771564973,
+      "timestamp": 1771571389,
       "score": 0,
       "discount": 0
     },
@@ -87,10 +100,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771564967,
+      "timestamp": 1771571385,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771564983
+  "updated": 1771571397
 }
