@@ -9,9 +9,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B083DY9WS5/ref=cm_sw_r_as_gl_apa_gl_i_dl_KX9MQYEP07VJYK51W3A5?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771679348,
+      "timestamp": 1771684664,
       "score": 3,
       "discount": 0
+    },
+    {
+      "id": "B07X675VSL",
+      "title": "Kelloggs cornflakes at 60% off",
+      "image": "https://m.media-amazon.com/images/I/B07X675VSL._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B07X675VSL/ref=cm_sw_r_as_gl_apa_gl_i_MDG42008WQTAPRZFZCWG?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771684663,
+      "score": 3,
+      "discount": 60
     },
     {
       "id": "B01N24I6JD",
@@ -22,20 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771679336,
+      "timestamp": 1771684651,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771679342,
+      "timestamp": 1771684656,
       "score": 2,
       "discount": 24
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FL6XBB5P/ref=cm_sw_r_as_gl_api_gl_i_DRPFFZ57H5N1E1ZAY81R?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1771679349,
+      "timestamp": 1771684665,
       "score": 1,
       "discount": 0
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771679359,
+      "timestamp": 1771684674,
       "score": 0,
       "discount": 0
     },
@@ -74,20 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/HIDE-SKIN-Unisex-Leather-Blocking/dp/B07GBZGDZM/ref=ast_sto_dp_puis?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771679357,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B09NY96TDC",
-      "title": "Bracelets under 400",
-      "image": "https://m.media-amazon.com/images/I/B09NY96TDC._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B09NY96TDC/ref=cm_sw_r_as_gl_api_gl_i_N5V2ZECBFDR8GAPMAJFG?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771679353,
+      "timestamp": 1771684672,
       "score": 0,
       "discount": 0
     },
@@ -100,23 +100,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BTHLGYHZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_PGWFTHJ1KR90NBY62EZR?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771679352,
+      "timestamp": 1771684668,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0CZRJ3MRZ",
+      "title": "Loot : IFB 197L 5 Star Refrigerator at 11,866",
+      "image": "https://m.media-amazon.com/images/I/B0CZRJ3MRZ._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CZRJ3MRZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_V8726CAVNBQ5RFXWKYCQ?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771684662,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771679344,
+      "timestamp": 1771684657,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771679359
+  "updated": 1771684674
 }
