@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0F88BTR34",
-      "title": "Chicken Marination Masala Variety Pack of 10 @\u20b9615",
-      "image": "https://m.media-amazon.com/images/I/B0F88BTR34._AC_SL500_.jpg",
-      "price": "\u20b9615",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/KILRR-Marination-Marinates-Marinade-Preservatives/dp/B0F88BTR34?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771627155,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B09BB6T99T",
       "title": "Loot \ud83d\udca5 Ferrero rocher at 72% off!!",
       "image": "https://m.media-amazon.com/images/I/B09BB6T99T._AC_SL500_.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B09BB6T99T/ref=cm_sw_r_as_gl_apa_gl_i_2743WAYKARAZSY8G9JCE?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771627154,
+      "timestamp": 1771641826,
       "score": 3,
       "discount": 72
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771627139,
+      "timestamp": 1771641814,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771627147,
+      "timestamp": 1771641820,
       "score": 2,
       "discount": 24
     },
@@ -61,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771627163,
+      "timestamp": 1771641833,
       "score": 0,
       "discount": 0
     },
@@ -74,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771627149,
+      "timestamp": 1771641821,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771627163
+  "updated": 1771641833
 }
