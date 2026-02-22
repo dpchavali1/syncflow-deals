@@ -3,13 +3,13 @@
     {
       "id": "B0DQ8QBG69",
       "title": "ZEBRONICS Power BAR 132, Extension Board/Strip, 2000 Watts - @Rs.399",
-      "image": "https://m.media-amazon.com/images/I/71M8NHcOVSL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DQ8QBG69._AC_SL500_.jpg",
       "price": "\u20b9399",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/ZEBRONICS-BAR-132-Extension-Universal/dp/B0DQ8QBG69?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771749949,
+      "timestamp": 1771756690,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771749930,
+      "timestamp": 1771756676,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771749937,
+      "timestamp": 1771756682,
       "score": 2,
       "discount": 24
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771749955,
+      "timestamp": 1771756697,
       "score": 0,
       "discount": 0
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/HIDE-SKIN-Unisex-Leather-Blocking/dp/B07GBZGDZM/ref=ast_sto_dp_puis?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771749953,
+      "timestamp": 1771756694,
       "score": 0,
       "discount": 0
     },
@@ -74,20 +74,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CVTZ4Z7B/ref=cm_sw_r_as_gl_api_gl_i_ZQSDH0RXH228HZC6EWBX?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771749946,
+      "timestamp": 1771756689,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0G2X991KY",
       "title": "Wickedgud healthy instant noodles loot 720 gram at just 100",
-      "image": "https://m.media-amazon.com/images/I/71HZyqtV5aL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0G2X991KY._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0G2X991KY/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z30NH6P3R3HBWZWF8HHV?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1771749944,
+      "timestamp": 1771756688,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B09615YG5Y",
+      "title": "Mens jacket deals",
+      "image": "https://m.media-amazon.com/images/I/B09615YG5Y._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B09615YG5Y/ref=cm_sw_r_as_gl_api_gl_i_dl_3QEZ8FVX5HNVNWBAKY6B?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771756687,
       "score": 0,
       "discount": 0
     },
@@ -100,10 +113,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771749938,
+      "timestamp": 1771756683,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771749955
+  "updated": 1771756697
 }
