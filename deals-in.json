@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/ZEBRONICS-BAR-132-Extension-Universal/dp/B0DQ8QBG69?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771737711,
+      "timestamp": 1771743730,
       "score": 3,
       "discount": 0
     },
@@ -22,33 +22,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771737697,
+      "timestamp": 1771743718,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0G1M1ZKT4",
-      "title": "Kitkat green matcha at \u20b91299",
-      "image": "https://m.media-amazon.com/images/I/B0G1M1ZKT4._AC_SL500_.jpg",
-      "price": "\u20b91299",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0G1M1ZKT4/ref=cm_sw_r_as_gl_api_gl_i_MFFGVEKD66F39T2KX58Q?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771737712,
-      "score": 2,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771737704,
+      "timestamp": 1771743724,
       "score": 2,
       "discount": 24
     },
@@ -61,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771737718,
+      "timestamp": 1771743736,
       "score": 0,
       "discount": 0
     },
@@ -74,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/HIDE-SKIN-Unisex-Leather-Blocking/dp/B07GBZGDZM/ref=ast_sto_dp_puis?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771737716,
+      "timestamp": 1771743734,
       "score": 0,
       "discount": 0
     },
@@ -87,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CVTZ4Z7B/ref=cm_sw_r_as_gl_api_gl_i_ZQSDH0RXH228HZC6EWBX?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771737709,
+      "timestamp": 1771743729,
       "score": 0,
       "discount": 0
     },
@@ -100,10 +87,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771737705,
+      "timestamp": 1771743725,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771737718
+  "updated": 1771743736
 }
