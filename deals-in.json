@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0CF4VX3YB",
-      "title": "Tide Matic 2L Top Load @\u20b9236",
-      "image": "https://m.media-amazon.com/images/I/B0CF4VX3YB._AC_SL500_.jpg",
-      "price": "\u20b9236",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0CF4VX3YB?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771831202,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0B49Y9XHT",
       "title": "Tata 1mg Hair, Skin & Nails Supreme Biotin Capsule at \u20b9371, Pack of 60",
       "image": "https://m.media-amazon.com/images/I/71F2GSJUaFL._SL1500_.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0B49Y9XHT/ref=cm_sw_r_as_gl_api_gl_i_SBMSBZD3E1NRF6K8APGE?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771831199,
+      "timestamp": 1771837360,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0D5QZZS6Q?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771831196,
+      "timestamp": 1771837355,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0DDQDQ1YW?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771831195,
+      "timestamp": 1771837354,
       "score": 3,
       "discount": 0
     },
@@ -61,20 +48,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771831184,
+      "timestamp": 1771837342,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B0FBS464D9",
       "title": "YourHappyLife Collagen Naked at \u20b91578",
-      "image": "https://m.media-amazon.com/images/I/B0FBS464D9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61SSxPeZb0L._SL1500_.jpg",
       "price": "\u20b91578",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FBS464D9/ref=cm_sw_r_as_gl_api_gl_i_DMFY2N2QW1FE24TNRMEZ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771831197,
+      "timestamp": 1771837358,
       "score": 2,
       "discount": 0
     },
@@ -87,20 +74,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771831190,
+      "timestamp": 1771837348,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771831210,
+      "timestamp": 1771837368,
       "score": 0,
       "discount": 0
     },
@@ -113,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/HIDE-SKIN-Unisex-Leather-Blocking/dp/B07GBZGDZM/ref=ast_sto_dp_puis?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771831206,
+      "timestamp": 1771837365,
       "score": 0,
       "discount": 0
     },
@@ -126,7 +113,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0DXKY2P2B/ref=cm_sw_r_as_gl_api_gl_i_BM7461WS7FF9GY6AYZTM?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1771831201,
+      "timestamp": 1771837361,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0CNT88PQD",
+      "title": "Unisex office tote bag on sale",
+      "image": "https://m.media-amazon.com/images/I/B0CNT88PQD._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CNT88PQD/ref=cm_sw_r_as_gl_api_gl_i_C252FKTNRAD5DQ58354F?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771837353,
       "score": 0,
       "discount": 0
     },
@@ -139,10 +139,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771831191,
+      "timestamp": 1771837349,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771831210
+  "updated": 1771837368
 }
