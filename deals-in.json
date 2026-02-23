@@ -9,33 +9,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/SUGAR-POP-Nourishing-Balm-Strawberry/dp/B0B4P6XXJ5?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771799834,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CF4VX3YB",
-      "title": "Tide Matic 2L Top Load @\u20b9236",
-      "image": "https://m.media-amazon.com/images/I/712a5hjiFLL._SL1500_.jpg",
-      "price": "\u20b9236",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0CF4VX3YB?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771799833,
+      "timestamp": 1771815376,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B09652SLT6",
       "title": "Face Massager @\u20b9494",
-      "image": "https://m.media-amazon.com/images/I/B09652SLT6._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61Ul0MQ2tqS._SL1280_.jpg",
       "price": "\u20b9494",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B09652SLT6?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771799829,
+      "timestamp": 1771815375,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CF4VX3YB",
+      "title": "Tide Matic 2L Top Load @\u20b9236",
+      "image": "https://m.media-amazon.com/images/I/B0CF4VX3YB._AC_SL500_.jpg",
+      "price": "\u20b9236",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CF4VX3YB?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771815373,
       "score": 3,
       "discount": 0
     },
@@ -48,20 +48,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771799814,
+      "timestamp": 1771815364,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771799823,
+      "timestamp": 1771815368,
       "score": 2,
       "discount": 24
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771799841,
+      "timestamp": 1771815382,
       "score": 0,
       "discount": 0
     },
@@ -87,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/HIDE-SKIN-Unisex-Leather-Blocking/dp/B07GBZGDZM/ref=ast_sto_dp_puis?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771799838,
+      "timestamp": 1771815380,
       "score": 0,
       "discount": 0
     },
@@ -100,10 +100,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771799824,
+      "timestamp": 1771815369,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771799841
+  "updated": 1771815382
 }
