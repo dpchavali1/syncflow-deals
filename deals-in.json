@@ -3,13 +3,13 @@
     {
       "id": "B0CLLZKC26",
       "title": "2% Salicylic Acid Face Serum @\u20b9145",
-      "image": "https://m.media-amazon.com/images/I/713qY-CT3vL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0CLLZKC26._AC_SL500_.jpg",
       "price": "\u20b9145",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CLLZKC26?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930797,
+      "timestamp": 1771939693,
       "score": 3,
       "discount": 2
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CJ729LN6?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930795,
+      "timestamp": 1771939692,
       "score": 3,
       "discount": 10
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0DZCXL322?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930794,
+      "timestamp": 1771939690,
       "score": 3,
       "discount": 0
     },
@@ -48,72 +48,59 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930775,
+      "timestamp": 1771939673,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B09LCM58WX",
       "title": "HIKVISION Night Vision CCTV @\u20b9905",
-      "image": "https://m.media-amazon.com/images/I/619XX6ANfpL._SL1200_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09LCM58WX._AC_SL500_.jpg",
       "price": "\u20b9905",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B09LCM58WX?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930789,
+      "timestamp": 1771939687,
       "score": 2,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930783,
+      "timestamp": 1771939681,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B0DCZRNMP3",
       "title": "Whey Protein 1KG @\u20b92,299",
-      "image": "https://m.media-amazon.com/images/I/71P711ORhvL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0DCZRNMP3._AC_SL500_.jpg",
       "price": "\u20b92299",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/DealsSpy/dp/B0DCZRNMP3?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1771930792,
+      "timestamp": 1771939689,
       "score": 1,
       "discount": 0
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930805,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B07GBZGDZM",
-      "title": "Hide & Skin Wallets - What happened to the seller?",
-      "image": "https://m.media-amazon.com/images/I/B07GBZGDZM._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/HIDE-SKIN-Unisex-Leather-Blocking/dp/B07GBZGDZM/ref=ast_sto_dp_puis?tag=syncflowin-21",
-      "category": "Accessories",
-      "timestamp": 1771930802,
+      "timestamp": 1771939699,
       "score": 0,
       "discount": 0
     },
@@ -126,10 +113,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771930783,
+      "timestamp": 1771939682,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771930805
+  "updated": 1771939699
 }
