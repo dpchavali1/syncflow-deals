@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B08CJZDVKQ",
-      "title": "24K Kumkumadi Thailam @\u20b9682",
-      "image": "https://m.media-amazon.com/images/I/51VIsSOp48L._SL1000_.jpg",
-      "price": "\u20b9682",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Tribe-Concepts-24k-Kumkumadi-Thailam/dp/B08CJZDVKQ?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771901677,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0BS3JZLT7",
       "title": "BBLUNT Shampoo + Conditioner @\u20b9593",
       "image": "https://m.media-amazon.com/images/I/B0BS3JZLT7._AC_SL500_.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/BBLUNT-Intense-Moisture-Shampoo-Conditioner/dp/B0BS3JZLT7?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771901675,
+      "timestamp": 1771910885,
       "score": 3,
       "discount": 0
     },
@@ -35,21 +22,8 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771901660,
+      "timestamp": 1771910868,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B07PFX8RRK",
-      "title": "Backpack for Mothers @\u20b91,709",
-      "image": "https://m.media-amazon.com/images/I/B07PFX8RRK._AC_SL500_.jpg",
-      "price": "\u20b91709",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Stylish-Backpack-Waterproof-Multifunctional-Capacity/dp/B07PFX8RRK?tag=syncflowin-21",
-      "category": "Accessories",
-      "timestamp": 1771901679,
-      "score": 2,
       "discount": 0
     },
     {
@@ -61,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771901668,
+      "timestamp": 1771910876,
       "score": 2,
       "discount": 24
     },
@@ -74,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771901686,
+      "timestamp": 1771910893,
       "score": 0,
       "discount": 0
     },
@@ -87,7 +61,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/HIDE-SKIN-Unisex-Leather-Blocking/dp/B07GBZGDZM/ref=ast_sto_dp_puis?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771901683,
+      "timestamp": 1771910890,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B09DS38K2N",
+      "title": "Satin skirt on sale",
+      "image": "https://m.media-amazon.com/images/I/41TtHZDAyEL._SY679_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B09DS38K2N/ref=cm_sw_r_as_gl_api_gl_i_dl_KQCZKXR6NQNVVA6D0DJ4?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771910884,
       "score": 0,
       "discount": 0
     },
@@ -100,10 +87,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771901669,
+      "timestamp": 1771910877,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771901686
+  "updated": 1771910893
 }
