@@ -1,67 +1,28 @@
 {
   "deals": [
     {
-      "id": "B0B1M86YD9",
-      "title": "Fiama Men Shower Gel 895 ml bottle @Rs.242",
-      "image": "https://m.media-amazon.com/images/I/B0B1M86YD9._AC_SL500_.jpg",
-      "price": "\u20b9242",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Fiama-Shower-Refreshing-Conditioners-Refreshed/dp/B0B1M86YD9?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771953391,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0FBGW4HK4",
-      "title": "Parachute Advansed Super Smooth Hair Serum 100ml @Rs.129",
-      "image": "https://m.media-amazon.com/images/I/B0FBGW4HK4._AC_SL500_.jpg",
-      "price": "\u20b9129",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dealsmagnet.com/dp/B0FBGW4HK4?tag=syncflowin-21",
-      "category": "Beauty",
-      "timestamp": 1771953390,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CJFTMR9Y",
-      "title": "ThriveCo Niacinamide Serum with Zinc PCA @Rs.145",
-      "image": "https://m.media-amazon.com/images/I/B0CJFTMR9Y._AC_SL500_.jpg",
-      "price": "\u20b9145",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0CJFTMR9Y?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1771953389,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0G25SH1ML",
       "title": "Livon Keratin Hair Serum for Women & Men @Rs.89",
-      "image": "https://m.media-amazon.com/images/I/B0G25SH1ML._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/51thwatuhgL._SL1500_.jpg",
       "price": "\u20b989",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dealsmagnet.com/dp/B0G25SH1ML?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1771953388,
+      "timestamp": 1771960617,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B0D2LPBXGL",
       "title": "Cute Kids Backpack @\u20b9285",
-      "image": "https://m.media-amazon.com/images/I/71WgeQrVG+L._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0D2LPBXGL._AC_SL500_.jpg",
       "price": "\u20b9285",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/blue-tree-Backpack-Toddler-Cartoon/dp/B0D2LPBXGL?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1771953386,
+      "timestamp": 1771960615,
       "score": 3,
       "discount": 0
     },
@@ -74,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771953376,
+      "timestamp": 1771960601,
       "score": 3,
       "discount": 0
     },
@@ -87,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771953381,
+      "timestamp": 1771960609,
       "score": 2,
       "discount": 24
     },
@@ -100,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771953397,
+      "timestamp": 1771960623,
       "score": 0,
       "discount": 0
     },
@@ -113,10 +74,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771953382,
+      "timestamp": 1771960610,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771953397
+  "updated": 1771960623
 }
