@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CLLZKC26?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939693,
+      "timestamp": 1771945351,
       "score": 3,
       "discount": 2
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CJ729LN6?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939692,
+      "timestamp": 1771945350,
       "score": 3,
       "discount": 10
     },
@@ -35,7 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0DZCXL322?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939690,
+      "timestamp": 1771945349,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B01ESPB2WM",
+      "title": "Chain Lube + Cleaner For Bikes @\u20b9225",
+      "image": "https://m.media-amazon.com/images/I/B01ESPB2WM._AC_SL500_.jpg",
+      "price": "\u20b9225",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B01ESPB2WM?tag=syncflowin-21",
+      "category": "Fitness",
+      "timestamp": 1771945343,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939673,
+      "timestamp": 1771945333,
       "score": 3,
       "discount": 0
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B09LCM58WX?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939687,
+      "timestamp": 1771945347,
       "score": 2,
       "discount": 0
     },
@@ -74,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939681,
+      "timestamp": 1771945338,
       "score": 2,
       "discount": 24
     },
@@ -87,7 +100,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/DealsSpy/dp/B0DCZRNMP3?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1771939689,
+      "timestamp": 1771945348,
+      "score": 1,
+      "discount": 0
+    },
+    {
+      "id": "B0FHBL2CTP",
+      "title": "Wonderchef Digital Air Fryer 4.5L @\u20b93,999",
+      "image": "https://m.media-amazon.com/images/I/B0FHBL2CTP._AC_SL500_.jpg",
+      "price": "\u20b93999",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FHBL2CTP?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771945346,
       "score": 1,
       "discount": 0
     },
@@ -100,7 +126,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939699,
+      "timestamp": 1771945357,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0CTHC6CXG",
+      "title": "Bajaj Air Cooler @\u20b94,799",
+      "image": "https://m.media-amazon.com/images/I/B0CTHC6CXG._AC_SL500_.jpg",
+      "price": "\u20b94799",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CTHC6CXG?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771945344,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0G58WMC69",
+      "title": "LG 1.5Ton 5 Star AC @\u20b941,490",
+      "image": "https://m.media-amazon.com/images/I/B0G58WMC69._AC_SL500_.jpg",
+      "price": "\u20b941490",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/LG-Convertible-Anti-Virus-Protection-US-Q19YNZE3/dp/B0G58WMC69?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1771945342,
       "score": 0,
       "discount": 0
     },
@@ -113,10 +165,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1771939682,
+      "timestamp": 1771945339,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1771939699
+  "updated": 1771945357
 }
