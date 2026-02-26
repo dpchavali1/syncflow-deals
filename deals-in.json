@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0FQ1RCWJQ",
-      "title": "Pumpkin Seed 400gm @\u20b9199",
-      "image": "https://m.media-amazon.com/images/I/B0FQ1RCWJQ._AC_SL500_.jpg",
-      "price": "\u20b9199",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0FQ1RCWJQ?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1772074252,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0BQW5JPL6",
       "title": "Stretch Marks Cream @\u20b9155",
       "image": "https://m.media-amazon.com/images/I/B0BQW5JPL6._AC_SL500_.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BQW5JPL6?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1772074251,
+      "timestamp": 1772083667,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B07PFF4RYC?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772074250,
+      "timestamp": 1772083666,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CHS75QYV?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1772074247,
+      "timestamp": 1772083663,
       "score": 3,
       "discount": 0
     },
@@ -61,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772074235,
+      "timestamp": 1772083648,
       "score": 3,
       "discount": 0
     },
@@ -74,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772074242,
+      "timestamp": 1772083657,
       "score": 2,
       "discount": 24
     },
@@ -87,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0DSJ9FQLD?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772074246,
+      "timestamp": 1772083662,
       "score": 1,
       "discount": 0
     },
@@ -100,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772074258,
+      "timestamp": 1772083673,
       "score": 0,
       "discount": 0
     },
@@ -113,10 +100,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772074243,
+      "timestamp": 1772083658,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1772074258
+  "updated": 1772083673
 }
