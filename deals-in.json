@@ -1,45 +1,6 @@
 {
   "deals": [
     {
-      "id": "B08MLFF5JP",
-      "title": "GANESH 5 in 1 Multi Utility Combo Kitchen Knife Set @Rs.284",
-      "image": "https://m.media-amazon.com/images/I/B08MLFF5JP._AC_SL500_.jpg",
-      "price": "\u20b9284",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B08MLFF5JP/ref=cm_sw_r_as_gl_apa_gl_i_dl_0XBFMD6TSZGJS7CNXZV5?tag=syncflowin-21",
-      "category": "Home",
-      "timestamp": 1772103508,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DW8PY7TR",
-      "title": "SOOPII 3-in-1 Selfie Stick with Bluetooth Remote, Foldable Tripod Stand - @Rs.186",
-      "image": "https://m.media-amazon.com/images/I/B0DW8PY7TR._AC_SL500_.jpg",
-      "price": "\u20b9186",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/SOOPII-Bluetooth-Foldable-Compact-Extendable/dp/B0DW8PY7TR?tag=syncflowin-21",
-      "category": "Accessories",
-      "timestamp": 1772103506,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0FSS2XFLM",
-      "title": "One94Store Hello Digital Alarm Clock with LED Display & Night Light - @Rs.399",
-      "image": "https://m.media-amazon.com/images/I/B0FSS2XFLM._AC_SL500_.jpg",
-      "price": "\u20b9399",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0FSS2XFLM?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1772103505,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0GKHJNWBZ",
       "title": "Dresses under \u20b9549",
       "image": "https://m.media-amazon.com/images/I/B0GKHJNWBZ._AC_SL500_.jpg",
@@ -48,7 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GKHJNWBZ/ref=cm_sw_r_as_gl_api_gl_i_1Y1QFP9H7H7FQ1W7BRS0?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772103504,
+      "timestamp": 1772112526,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0FBFV9YCY",
+      "title": "Taali protein puffs at \u20b9264 | pack of 6",
+      "image": "https://m.media-amazon.com/images/I/B0FBFV9YCY._AC_SL500_.jpg",
+      "price": "\u20b9264",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FBFV9YCY/ref=cm_sw_r_as_gl_api_gl_i_SJT40570XEXHYV7AEW1W?tag=syncflowin-21",
+      "category": "Fitness",
+      "timestamp": 1772112521,
       "score": 3,
       "discount": 0
     },
@@ -61,8 +35,34 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772103495,
+      "timestamp": 1772112511,
       "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CL32N9VC",
+      "title": "Desk organizer at \u20b9899",
+      "image": "https://m.media-amazon.com/images/I/B0CL32N9VC._AC_SL500_.jpg",
+      "price": "\u20b9899",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CL32N9VC/ref=cm_sw_r_as_gl_api_gl_i_ME23H6T2P8EFDTVXKEXA?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772112523,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0F849D4QR",
+      "title": "Yogabar 12 protein shake at \u20b9999",
+      "image": "https://m.media-amazon.com/images/I/B0F849D4QR._AC_SL500_.jpg",
+      "price": "\u20b9999",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0F849D4QR/ref=cm_sw_r_as_gl_api_gl_i_EH5FRPSWBVT38DGAPXBG?tag=syncflowin-21",
+      "category": "Fitness",
+      "timestamp": 1772112522,
+      "score": 2,
       "discount": 0
     },
     {
@@ -74,9 +74,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772103500,
+      "timestamp": 1772112516,
       "score": 2,
       "discount": 24
+    },
+    {
+      "id": "B08T8JWNX3",
+      "title": "Foodable table At \u20b92089",
+      "image": "https://m.media-amazon.com/images/I/B08T8JWNX3._AC_SL500_.jpg",
+      "price": "\u20b92089",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B08T8JWNX3/ref=cm_sw_r_as_gl_api_gl_i_dl_JTY7BV3NX7XRRTERCFF6?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772112524,
+      "score": 1,
+      "discount": 0
     },
     {
       "id": "B09V1BTCCM",
@@ -87,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772103513,
+      "timestamp": 1772112531,
       "score": 0,
       "discount": 0
     },
@@ -100,10 +113,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772103500,
+      "timestamp": 1772112517,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1772103513
+  "updated": 1772112531
 }
