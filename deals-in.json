@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0F24SZKXV",
-      "title": "ABS Set of 3 Transparent Water Bottle 2000ML,900ML,300ML - @Rs.189",
-      "image": "https://m.media-amazon.com/images/I/B0F24SZKXV._AC_SL500_.jpg",
-      "price": "\u20b9189",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0F24SZKXV/ref=cm_sw_r_as_gl_apa_gl_i_dl_CCJYA8GGMC1PABJA9W14?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1772176094,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B01N24I6JD",
       "title": "TP-Link LB100 Wi-Fi SmartLight 7W @ Rs. 499 only (Down from Rs. 1,399)",
       "image": "https://m.media-amazon.com/images/I/B01N24I6JD._AC_SL500_.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772176078,
+      "timestamp": 1772182618,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772176087,
+      "timestamp": 1772182637,
       "score": 2,
       "discount": 24
     },
@@ -48,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0C3V5X3QT/ref=cm_sw_r_as_gl_api_gl_i_dl_RMRF4GSSBFVQNN4XWXRP?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1772176092,
+      "timestamp": 1772182651,
       "score": 1,
       "discount": 0
     },
@@ -61,33 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772176103,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0FC6XHHSV",
-      "title": "OnePlus Nord CE5 | 8GB + 128GB at \u20b924,998",
-      "image": "https://m.media-amazon.com/images/I/B0FC6XHHSV._AC_SL500_.jpg",
-      "price": "\u20b924998",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0FC6XHHSV/ref=cm_sw_r_as_gl_api_gl_i_NA1XAJBDS28SAASBMH20?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1772176097,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0DGLW29NW",
-      "title": "Perfumes on sale",
-      "image": "https://m.media-amazon.com/images/I/B0DGLW29NW._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0DGLW29NW/ref=cm_sw_r_as_gl_api_gl_i_PDDMKMZ4Q2P04HSF42MP?tag=syncflowin-21",
-      "category": "Beauty",
-      "timestamp": 1772176095,
+      "timestamp": 1772182664,
       "score": 0,
       "discount": 0
     },
@@ -100,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772176088,
+      "timestamp": 1772182638,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1772176103
+  "updated": 1772182664
 }
