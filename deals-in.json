@@ -1,17 +1,17 @@
 {
   "deals": [
     {
-      "id": "B08M9GP2TX",
-      "title": "Storite Extra Large Moisture Proof 236 L Heavy Duty 1680 - @ Rs.765",
-      "image": "https://m.media-amazon.com/images/I/B08M9GP2TX._AC_SL500_.jpg",
-      "price": "\u20b9765",
+      "id": "B0CKX82DRL",
+      "title": "1% Salicylic Acid Body Wash @\u20b9164",
+      "image": "https://m.media-amazon.com/images/I/B0CKX82DRL._AC_SL500_.jpg",
+      "price": "\u20b9164",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B08M9GP2TX/ref=cm_sw_r_as_gl_apa_gl_i_dl_Q4FA15GQ6FSA7TQEERP4?tag=syncflowin-21",
+      "url": "https://www.amazon.in/ARATA-Salicylic-Exfoliating-Prevents-Strawberry/dp/B0CKX82DRL?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772296761,
+      "timestamp": 1772304467,
       "score": 3,
-      "discount": 0
+      "discount": 1
     },
     {
       "id": "B01N24I6JD",
@@ -22,21 +22,8 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772296748,
+      "timestamp": 1772304453,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DFH259P1",
-      "title": "Gear Classic 31L Antitheft Large Faux Leather Water Resistant Laptop backpack @Rs.899",
-      "image": "https://m.media-amazon.com/images/I/B0DFH259P1._AC_SL500_.jpg",
-      "price": "\u20b9899",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0DFH259P1?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1772296760,
-      "score": 2,
       "discount": 0
     },
     {
@@ -48,49 +35,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772296753,
+      "timestamp": 1772304461,
       "score": 2,
       "discount": 24
     },
     {
-      "id": "B0GMWT8CHX",
-      "title": "Plantex Ladder for Home @Rs.2,099",
-      "image": "https://m.media-amazon.com/images/I/B0GMWT8CHX._AC_SL500_.jpg",
-      "price": "\u20b92099",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0GMWT8CHX?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1772296758,
-      "score": 1,
-      "discount": 0
-    },
-    {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772296767,
+      "timestamp": 1772304474,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772296755,
+      "timestamp": 1772304462,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1772296767
+  "updated": 1772304474
 }
