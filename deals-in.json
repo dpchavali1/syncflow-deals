@@ -1,17 +1,56 @@
 {
   "deals": [
     {
-      "id": "B09H3CYJF3",
-      "title": "2% Kojic Acid Face Serum @\u20b9399",
-      "image": "https://m.media-amazon.com/images/I/B09H3CYJF3._AC_SL500_.jpg",
-      "price": "\u20b9399",
+      "id": "B08WK3ZD9J",
+      "title": "RAW Forest Honey 1.2 Kg @\u20b9599",
+      "image": "https://m.media-amazon.com/images/I/71HMQ1u59fL._SL1500_.jpg",
+      "price": "\u20b9599",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.in/Derma-Co-Arbutin-Niacinamide-Pigmentation/dp/B09H3CYJF3?tag=syncflowin-21",
+      "url": "https://www.amazon.in/Unprocessed-Unheated-Pasteurized-Original-Collected/dp/B08WK3ZD9J?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772375707,
+      "timestamp": 1772383323,
       "score": 3,
-      "discount": 2
+      "discount": 0
+    },
+    {
+      "id": "B09J578NDM",
+      "title": "Prasadam Makhana, 250 g @\u20b9499",
+      "image": "https://m.media-amazon.com/images/I/B09J578NDM._AC_SL500_.jpg",
+      "price": "\u20b9499",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/Farmley-Prasadam-Makhana-Handpicked-Crispy/dp/B09J578NDM?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772383320,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0DVTB23D5",
+      "title": "Axe Deo (3 Pack) @\u20b9367",
+      "image": "https://m.media-amazon.com/images/I/B0DVTB23D5._AC_SL500_.jpg",
+      "price": "\u20b9367",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DVTB23D5?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772383318,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0FGDNXVJ8",
+      "title": "Tata Black Tea 1kg @\u20b9409",
+      "image": "https://m.media-amazon.com/images/I/B0FGDNXVJ8._AC_SL500_.jpg",
+      "price": "\u20b9409",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772383317,
+      "score": 3,
+      "discount": 0
     },
     {
       "id": "B01N24I6JD",
@@ -22,21 +61,8 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772375698,
+      "timestamp": 1772383305,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0GCT9TK3H",
-      "title": "360\u00b0 Walker for Kids @ \u20b91,469",
-      "image": "https://m.media-amazon.com/images/I/B0GCT9TK3H._AC_SL500_.jpg",
-      "price": "\u20b91469",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/StarAndDaisy-Walkers-Adjustment-Switchable-Musical/dp/B0GCT9TK3H?tag=syncflowin-21",
-      "category": "Baby",
-      "timestamp": 1772375710,
-      "score": 2,
       "discount": 0
     },
     {
@@ -48,20 +74,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772375702,
+      "timestamp": 1772383311,
       "score": 2,
       "discount": 24
     },
     {
-      "id": "B07CR35CCK",
-      "title": "Rucksack with Detachable Bag @\u20b93,231",
-      "image": "https://m.media-amazon.com/images/I/B07CR35CCK._AC_SL500_.jpg",
-      "price": "\u20b93231",
+      "id": "B0F5Q2JX5S",
+      "title": "Automatic Pet Feeder @\u20b92,999",
+      "image": "https://m.media-amazon.com/images/I/B0F5Q2JX5S._AC_SL500_.jpg",
+      "price": "\u20b92999",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.in/Tripole-Colonel-litres-Rucksack-Detachable/dp/B07CR35CCK?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1772375708,
+      "url": "https://www.amazon.in/Automatic-Recording-Capacity-Programmable-Anti-Clogging/dp/B0F5Q2JX5S?tag=syncflowin-21",
+      "category": "Pets",
+      "timestamp": 1772383319,
       "score": 1,
       "discount": 0
     },
@@ -74,49 +100,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772375717,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0C4LQY9BB",
-      "title": "Nike shoes",
-      "image": "https://m.media-amazon.com/images/I/B0C4LQY9BB._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0C4LQY9BB/ref=cm_sw_r_as_gl_api_gl_i_dl_RRX3FCW8NVTJ7V7PHGSD?tag=syncflowin-21",
-      "category": "Fitness",
-      "timestamp": 1772375712,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0FDLB7BQZ",
-      "title": "Laptops under 20,000",
-      "image": "https://m.media-amazon.com/images/I/B0FDLB7BQZ._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0FDLB7BQZ/ref=cm_sw_r_as_gl_api_gl_i_1ZY3YC2C7R38W9NNQ337?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1772375711,
+      "timestamp": 1772383328,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772375703,
+      "timestamp": 1772383313,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1772375717
+  "updated": 1772383328
 }
