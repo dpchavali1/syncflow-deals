@@ -9,7 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B07H4YJLP4/ref=cm_sw_r_as_gl_apa_gl_i_ABW36X9RXW2A7X0D0JBH?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772348424,
+      "timestamp": 1772354614,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0FCCBQHDF",
+      "title": "Shimmer Dishwash Gel \u2013 5L at Rs.199 \ud83d\udca5",
+      "image": "https://preview.redd.it/jtr88n8kudmg1.png?width=640&crop=smart&auto=webp&s=6672b86de26ca50568deb290d7aa449db9ac1205",
+      "price": "\u20b9199",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FCCBQHDF/ref=cm_sw_r_as_gl_apa_gl_i_dl_5VK8QFC60BQY37P0D5NT?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772354613,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772348406,
+      "timestamp": 1772354598,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772348412,
+      "timestamp": 1772354604,
       "score": 2,
       "discount": 24
     },
@@ -48,20 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772348433,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B07S8YST14",
-      "title": "Pure Source India Aroma Diffuser Oil Set of 6",
-      "image": "https://m.media-amazon.com/images/I/71xqbiOQGKL._SL1024_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/gp/aw/d/B07S8YST14?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1772348426,
+      "timestamp": 1772354620,
       "score": 0,
       "discount": 0
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0DGCYM8L2/ref=cm_sw_r_as_gl_api_gl_i_E13PYDPMX8D30TZXFP8M?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772348422,
+      "timestamp": 1772354613,
       "score": 0,
       "discount": 0
     },
@@ -87,20 +87,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BS6MBHGP/ref=cm_sw_r_as_gl_api_gl_i_dl_KJPWZFV8ZSGWQCM4CPWS?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1772348420,
+      "timestamp": 1772354611,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0C4LQY9BB",
+      "title": "Nike shoes",
+      "image": "https://m.media-amazon.com/images/I/B0C4LQY9BB._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0C4LQY9BB/ref=cm_sw_r_as_gl_api_gl_i_dl_RRX3FCW8NVTJ7V7PHGSD?tag=syncflowin-21",
+      "category": "Fitness",
+      "timestamp": 1772354610,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0FDLB7BQZ",
       "title": "Laptops under 20,000",
-      "image": "https://m.media-amazon.com/images/I/713cu-sW3TL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0FDLB7BQZ._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FDLB7BQZ/ref=cm_sw_r_as_gl_api_gl_i_1ZY3YC2C7R38W9NNQ337?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1772348419,
+      "timestamp": 1772354608,
       "score": 0,
       "discount": 0
     },
@@ -113,10 +126,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772348413,
+      "timestamp": 1772354605,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1772348433
+  "updated": 1772354620
 }
