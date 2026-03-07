@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772909349,
+      "timestamp": 1772915929,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772909356,
+      "timestamp": 1772915936,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772909365,
+      "timestamp": 1772915947,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B08C2LJ7TS",
+      "title": "Why is amazon like this . Amazon saying free delivery but charging delivery charge",
+      "image": "https://preview.redd.it/322wb7x4tkng1.png?width=140&height=78&auto=webp&s=6cd417d4c2a9b49003c9c23c8b51e70f40dc929c",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/Vicco-Turmeric-Shaving-Cream-Base/dp/B08C2LJ7TS/?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772915944,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0DKC7JYHD",
+      "title": "Order Delayed and Wrong item delivered",
+      "image": "https://preview.redd.it/xhk67bptygng1.png?width=140&height=93&auto=webp&s=dc9aa624c52884d8bfae9af400d139f78f98a985",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DKC7JYHD?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1772915944,
       "score": 0,
       "discount": 0
     },
@@ -48,10 +74,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1772909357,
+      "timestamp": 1772915937,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1772909365
+  "updated": 1772915947
 }
