@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CGLSTQLL/ref=cm_sw_r_as_gl_api_gl_i_dl_QA053RRJJ1FYN6HMW479?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773484857,
+      "timestamp": 1773494019,
       "score": 3,
       "discount": 0
     },
@@ -22,34 +22,8 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773484845,
+      "timestamp": 1773494007,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B07Q64RFKN",
-      "title": "Innisfree Jeju Cherry Blossom Tone Up Tinted Cream at \u20b91360",
-      "image": "https://m.media-amazon.com/images/I/51d3XTYFvuL._SL1200_.jpg",
-      "price": "\u20b91360",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B07Q64RFKN/ref=cm_sw_r_as_gl_api_gl_i_dl_HZN12DCY35P777SA3E8W?tag=syncflowin-21",
-      "category": "Beauty",
-      "timestamp": 1773484860,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B08P62XBNQ",
-      "title": "Its Skin Collagen Nutrition Lotion Emulsion 150Ml at \u20b9917",
-      "image": "https://m.media-amazon.com/images/I/B08P62XBNQ._AC_SL500_.jpg",
-      "price": "\u20b9917",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B08P62XBNQ/ref=cm_sw_r_as_gl_api_gl_i_dl_5T5SKF3K01T9TZBKR8RN?tag=syncflowin-21",
-      "category": "Beauty",
-      "timestamp": 1773484858,
-      "score": 2,
       "discount": 0
     },
     {
@@ -61,9 +35,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773484852,
+      "timestamp": 1773494014,
       "score": 2,
       "discount": 24
+    },
+    {
+      "id": "B08BJ4V568",
+      "title": "FIFA 21 Champions Edition (PS4) - lowest in 30 days",
+      "image": "https://m.media-amazon.com/images/I/B08BJ4V568._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B08BJ4V568/ref=cm_sw_r_as_gl_api_gl_i_5P3JYCHQ1NS09ABEZPCX?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773494021,
+      "score": 1,
+      "discount": 0
     },
     {
       "id": "B09V1BTCCM",
@@ -74,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773484866,
+      "timestamp": 1773494026,
       "score": 0,
       "discount": 0
     },
@@ -87,10 +74,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773484853,
+      "timestamp": 1773494015,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773484866
+  "updated": 1773494026
 }
