@@ -1,6 +1,19 @@
 {
   "deals": [
     {
+      "id": "B0CGLSTQLL",
+      "title": "Innisfree Retinol Cica Repair Ampoule 10ml | Beginners retinol at \u20b9800",
+      "image": "https://m.media-amazon.com/images/I/B0CGLSTQLL._AC_SL500_.jpg",
+      "price": "\u20b9800",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CGLSTQLL/ref=cm_sw_r_as_gl_api_gl_i_dl_QA053RRJJ1FYN6HMW479?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773478220,
+      "score": 3,
+      "discount": 0
+    },
+    {
       "id": "B01N24I6JD",
       "title": "TP-Link LB100 Wi-Fi SmartLight 7W @ Rs. 499 only (Down from Rs. 1,399)",
       "image": "https://m.media-amazon.com/images/I/B01N24I6JD._AC_SL500_.jpg",
@@ -9,20 +22,46 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773471816,
+      "timestamp": 1773478209,
       "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B07Q64RFKN",
+      "title": "Innisfree Jeju Cherry Blossom Tone Up Tinted Cream at \u20b91360",
+      "image": "https://m.media-amazon.com/images/I/51d3XTYFvuL._SL1200_.jpg",
+      "price": "\u20b91360",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B07Q64RFKN/ref=cm_sw_r_as_gl_api_gl_i_dl_HZN12DCY35P777SA3E8W?tag=syncflowin-21",
+      "category": "Beauty",
+      "timestamp": 1773478223,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B08P62XBNQ",
+      "title": "Its Skin Collagen Nutrition Lotion Emulsion 150Ml at \u20b9917",
+      "image": "https://m.media-amazon.com/images/I/B08P62XBNQ._AC_SL500_.jpg",
+      "price": "\u20b9917",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B08P62XBNQ/ref=cm_sw_r_as_gl_api_gl_i_dl_5T5SKF3K01T9TZBKR8RN?tag=syncflowin-21",
+      "category": "Beauty",
+      "timestamp": 1773478221,
+      "score": 2,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773471823,
+      "timestamp": 1773478215,
       "score": 2,
       "discount": 24
     },
@@ -35,23 +74,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773471833,
+      "timestamp": 1773478229,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773471825,
+      "timestamp": 1773478216,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773471833
+  "updated": 1773478229
 }
