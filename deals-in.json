@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CGLSTQLL/ref=cm_sw_r_as_gl_api_gl_i_dl_QA053RRJJ1FYN6HMW479?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773494019,
+      "timestamp": 1773499299,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773494007,
+      "timestamp": 1773499284,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773494014,
+      "timestamp": 1773499292,
       "score": 2,
       "discount": 24
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B08BJ4V568/ref=cm_sw_r_as_gl_api_gl_i_5P3JYCHQ1NS09ABEZPCX?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773494021,
+      "timestamp": 1773499301,
       "score": 1,
       "discount": 0
     },
@@ -61,23 +61,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773494026,
+      "timestamp": 1773499307,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773494015,
+      "timestamp": 1773499294,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773494026
+  "updated": 1773499307
 }
