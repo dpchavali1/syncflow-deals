@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773520832,
+      "timestamp": 1773527909,
       "score": 3,
       "discount": 0
     },
@@ -22,33 +22,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773520837,
+      "timestamp": 1773527917,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773520846,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0CBKC1P8Y",
-      "title": "Perfect desk pad for full coverage",
-      "image": "https://preview.redd.it/5v18x5bnw0pg1.png?width=140&height=106&auto=webp&s=1f2c5504e698c3c2a77cccac3e765f69ed8762de",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Storite-1200x600x5mm-Mouse-Pad-Embroidery/dp/B0CBKC1P8Y/ref=sr_1_1_sspa?tag=syncflowin-21",
-      "category": "Accessories",
-      "timestamp": 1773520842,
+      "timestamp": 1773527929,
       "score": 0,
       "discount": 0
     },
@@ -61,10 +48,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773520838,
+      "timestamp": 1773527919,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773520846
+  "updated": 1773527929
 }
