@@ -1,54 +1,28 @@
 {
   "deals": [
     {
-      "id": "B0BF9ZSNQN",
-      "title": "Ceramic bowls from \u20b9300",
-      "image": "https://m.media-amazon.com/images/I/B0BF9ZSNQN._AC_SL500_.jpg",
-      "price": "\u20b9300",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0BF9ZSNQN/ref=cm_sw_r_as_gl_api_gl_i_03XEGH0SJ7NB03K3X41D?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1773506704,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DWSH4GM8",
-      "title": "Laneige Gentle Gel Cleanser at \u20b9696",
-      "image": "https://m.media-amazon.com/images/I/51qzBDEO5rL._SL1500_.jpg",
-      "price": "\u20b9696",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0DWSH4GM8/ref=cm_sw_r_as_gl_api_gl_i_AYYQXH0WWFFW4ZBA3RX8?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1773506702,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CHYL3992",
-      "title": "Parachute Advansed Soft Touch Body Lotion, 400ml & Parachute Advansed Deep Nourish Body Lotion 250ml @Rs.194",
-      "image": "https://m.media-amazon.com/images/I/B0CHYL3992._AC_SL500_.jpg",
-      "price": "\u20b9194",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dealsmagnet.com/dp/B0CHYL3992?tag=syncflowin-21",
-      "category": "Beauty",
-      "timestamp": 1773506698,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0CP3L2JTP",
       "title": "Earth Rhythm Aqua Surge Hydrating Sunstick SPF 60 PA++++ @Rs.275",
-      "image": "https://m.media-amazon.com/images/I/61WmU19GS7L._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0CP3L2JTP._AC_SL500_.jpg",
       "price": "\u20b9275",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0CP3L2JTP?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773506696,
+      "timestamp": 1773514479,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0BDMQDX12",
+      "title": "Lifelong Rechargeable Electric Head & Scalp Kneading Massage @Rs.699",
+      "image": "https://m.media-amazon.com/images/I/B0BDMQDX12._AC_SL500_.jpg",
+      "price": "\u20b9699",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0BDMQDX12?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773514477,
       "score": 3,
       "discount": 0
     },
@@ -61,33 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773506681,
+      "timestamp": 1773514467,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DQGF6MXL",
-      "title": "UltraCare PRO UNIQ Head and Scalp Massager @Rs.899",
-      "image": "https://m.media-amazon.com/images/I/61e9YOkFdBL._SL1500_.jpg",
-      "price": "\u20b9899",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0DQGF6MXL?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1773506700,
-      "score": 2,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773506690,
+      "timestamp": 1773514473,
       "score": 2,
       "discount": 24
     },
@@ -100,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773506710,
+      "timestamp": 1773514484,
       "score": 0,
       "discount": 0
     },
@@ -113,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Storite-1200x600x5mm-Mouse-Pad-Embroidery/dp/B0CBKC1P8Y/ref=sr_1_1_sspa?tag=syncflowin-21",
       "category": "Accessories",
-      "timestamp": 1773506705,
+      "timestamp": 1773514480,
       "score": 0,
       "discount": 0
     },
@@ -126,10 +87,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773506691,
+      "timestamp": 1773514474,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773506710
+  "updated": 1773514484
 }
