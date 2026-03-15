@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773564717,
+      "timestamp": 1773571361,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773564724,
+      "timestamp": 1773571368,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BTM44184/ref=cm_sw_r_as_gl_api_gl_i_EVAVR8TSCFE1KC028XSQ?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1773564730,
+      "timestamp": 1773571383,
       "score": 1,
       "discount": 0
     },
@@ -48,7 +48,59 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773564736,
+      "timestamp": 1773571388,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0B5XRDRFH",
+      "title": "are you looking for induction compatible utensils? check these",
+      "image": "https://preview.redd.it/0rkqhrd4m6pg1.png?width=640&crop=smart&auto=webp&s=4ac47536c8f3e8012c5236d3060fbb4e085bd5fa",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0B5XRDRFH?tag=syncflowin-21",
+      "category": "Home",
+      "timestamp": 1773571381,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0BVRGMDPQ",
+      "title": "Nilkamal Sierra Velvet Fabric Manual Recliner at \u20b914,490",
+      "image": "https://m.media-amazon.com/images/I/B0BVRGMDPQ._AC_SL500_.jpg",
+      "price": "\u20b914490",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0BVRGMDPQ/ref=cm_sw_r_as_gl_api_gl_i_dl_BXKRR58WHJ082R8MZ78R?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773571378,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0CCYQXR4Y",
+      "title": "Duroflex Avalon Twin - 2 Seater Premium Fabric Manual Recliner Sofa at \u20b937,967",
+      "image": "https://m.media-amazon.com/images/I/B0CCYQXR4Y._AC_SL500_.jpg",
+      "price": "\u20b937967",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CCYQXR4Y/ref=cm_sw_r_as_gl_api_gl_i_dl_8AVWZP39GHBM917RTKXZ?tag=syncflowin-21",
+      "category": "Home",
+      "timestamp": 1773571376,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0D5HY6NDN",
+      "title": "Single Seater Electric Motorized Recliner Chair at \u20b913,898",
+      "image": "https://m.media-amazon.com/images/I/B0D5HY6NDN._AC_SL500_.jpg",
+      "price": "\u20b913898",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0D5HY6NDN/ref=cm_sw_r_as_gl_api_gl_i_dl_P7F7T8CK4Y3SN3M9G6YP?tag=syncflowin-21",
+      "category": "Beauty",
+      "timestamp": 1773571375,
       "score": 0,
       "discount": 0
     },
@@ -61,10 +113,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773564725,
+      "timestamp": 1773571370,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773564736
+  "updated": 1773571388
 }
