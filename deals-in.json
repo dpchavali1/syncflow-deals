@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773553377,
+      "timestamp": 1773558729,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773553386,
+      "timestamp": 1773558735,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BTM44184/ref=cm_sw_r_as_gl_api_gl_i_EVAVR8TSCFE1KC028XSQ?tag=syncflowin-21",
       "category": "Fitness",
-      "timestamp": 1773553392,
+      "timestamp": 1773558740,
       "score": 1,
       "discount": 0
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773553399,
+      "timestamp": 1773558747,
       "score": 0,
       "discount": 0
     },
@@ -61,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773553387,
+      "timestamp": 1773558736,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773553399
+  "updated": 1773558747
 }
