@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BKGCDJLQ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773601005,
+      "timestamp": 1773607306,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773600987,
+      "timestamp": 1773607293,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773600995,
+      "timestamp": 1773607299,
       "score": 2,
       "discount": 24
     },
@@ -48,20 +48,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773601012,
+      "timestamp": 1773607314,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0BVRGMDPQ",
       "title": "Nilkamal Sierra Velvet Fabric Manual Recliner at \u20b914,490",
-      "image": "https://m.media-amazon.com/images/I/B0BVRGMDPQ._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71b+XaCc8SL._SL1500_.jpg",
       "price": "\u20b914490",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BVRGMDPQ/ref=cm_sw_r_as_gl_api_gl_i_dl_BXKRR58WHJ082R8MZ78R?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773601006,
+      "timestamp": 1773607308,
       "score": 0,
       "discount": 0
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0B5XRDRFH?tag=syncflowin-21",
       "category": "Home",
-      "timestamp": 1773601003,
+      "timestamp": 1773607305,
       "score": 0,
       "discount": 0
     },
@@ -87,10 +87,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773600996,
+      "timestamp": 1773607300,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773601012
+  "updated": 1773607314
 }
