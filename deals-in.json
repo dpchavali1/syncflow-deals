@@ -1,6 +1,19 @@
 {
   "deals": [
     {
+      "id": "B0BKGCDJLQ",
+      "title": "Boat Airdopes Atom 81 Truly Wireless in Ear Ear Buds @Rs.799",
+      "image": "https://m.media-amazon.com/images/I/B0BKGCDJLQ._AC_SL500_.jpg",
+      "price": "\u20b9799",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0BKGCDJLQ?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773601005,
+      "score": 3,
+      "discount": 0
+    },
+    {
       "id": "B01N24I6JD",
       "title": "TP-Link LB100 Wi-Fi SmartLight 7W @ Rs. 499 only (Down from Rs. 1,399)",
       "image": "https://m.media-amazon.com/images/I/B01N24I6JD._AC_SL500_.jpg",
@@ -9,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773593080,
+      "timestamp": 1773600987,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773593088,
+      "timestamp": 1773600995,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773593105,
+      "timestamp": 1773601012,
       "score": 0,
       "discount": 0
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BVRGMDPQ/ref=cm_sw_r_as_gl_api_gl_i_dl_BXKRR58WHJ082R8MZ78R?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773593099,
+      "timestamp": 1773601006,
       "score": 0,
       "discount": 0
     },
@@ -61,23 +74,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0B5XRDRFH?tag=syncflowin-21",
       "category": "Home",
-      "timestamp": 1773593097,
+      "timestamp": 1773601003,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773593090,
+      "timestamp": 1773600996,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773593105
+  "updated": 1773601012
 }
