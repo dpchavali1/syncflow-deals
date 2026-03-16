@@ -3,13 +3,26 @@
     {
       "id": "B0BKGCDJLQ",
       "title": "Boat Airdopes Atom 81 Truly Wireless in Ear Ear Buds @Rs.799",
-      "image": "https://m.media-amazon.com/images/I/618IyKmDo6L._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0BKGCDJLQ._AC_SL500_.jpg",
       "price": "\u20b9799",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BKGCDJLQ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773614393,
+      "timestamp": 1773631757,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0F7LMQ8L4",
+      "title": "TE-A-ME Matcha | Ceremonial Grade Matcha - 50g @Rs.281",
+      "image": "https://m.media-amazon.com/images/I/B0F7LMQ8L4._AC_SL500_.jpg",
+      "price": "\u20b9281",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dealsmagnet.com/dp/B0F7LMQ8L4?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773631752,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773614378,
+      "timestamp": 1773631738,
       "score": 3,
       "discount": 0
     },
@@ -35,20 +48,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773614384,
+      "timestamp": 1773631745,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773614400,
+      "timestamp": 1773631763,
       "score": 0,
       "discount": 0
     },
@@ -61,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0B5XRDRFH?tag=syncflowin-21",
       "category": "Home",
-      "timestamp": 1773614391,
+      "timestamp": 1773631756,
       "score": 0,
       "discount": 0
     },
@@ -74,10 +87,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773614385,
+      "timestamp": 1773631746,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773614400
+  "updated": 1773631763
 }
