@@ -1,28 +1,15 @@
 {
   "deals": [
     {
-      "id": "B0BKGCDJLQ",
-      "title": "Boat Airdopes Atom 81 Truly Wireless in Ear Ear Buds @Rs.799",
-      "image": "https://m.media-amazon.com/images/I/B0BKGCDJLQ._AC_SL500_.jpg",
-      "price": "\u20b9799",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0BKGCDJLQ?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1773631757,
-      "score": 3,
-      "discount": 0
-    },
-    {
       "id": "B0F7LMQ8L4",
       "title": "TE-A-ME Matcha | Ceremonial Grade Matcha - 50g @Rs.281",
-      "image": "https://m.media-amazon.com/images/I/B0F7LMQ8L4._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71N7NakGOFL._SL1500_.jpg",
       "price": "\u20b9281",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dealsmagnet.com/dp/B0F7LMQ8L4?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773631752,
+      "timestamp": 1773640609,
       "score": 3,
       "discount": 0
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773631738,
+      "timestamp": 1773640593,
       "score": 3,
       "discount": 0
     },
@@ -48,9 +35,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773631745,
+      "timestamp": 1773640600,
       "score": 2,
       "discount": 24
+    },
+    {
+      "id": "B0FYGNJ73S",
+      "title": "Miraggio bags under \u20b92500",
+      "image": "https://m.media-amazon.com/images/I/618OIDOY5BL._SL1500_.jpg",
+      "price": "\u20b92500",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FYGNJ73S/ref=cm_sw_r_as_gl_api_gl_i_X2PY0YXQBZCRSVBQVZP8?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773640606,
+      "score": 1,
+      "discount": 0
     },
     {
       "id": "B09V1BTCCM",
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773631763,
+      "timestamp": 1773640618,
       "score": 0,
       "discount": 0
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0B5XRDRFH?tag=syncflowin-21",
       "category": "Home",
-      "timestamp": 1773631756,
+      "timestamp": 1773640612,
       "score": 0,
       "discount": 0
     },
@@ -87,10 +87,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773631746,
+      "timestamp": 1773640601,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773631763
+  "updated": 1773640618
 }
