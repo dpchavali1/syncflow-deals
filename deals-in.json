@@ -9,7 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BYK8TQFM?tag=syncflowin-21",
       "category": "Beauty",
-      "timestamp": 1773647189,
+      "timestamp": 1773652240,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CW9JS8HK",
+      "title": "Beardo Apex Go Trimmer for Men RPM motor-Compact @Rs.699",
+      "image": "https://m.media-amazon.com/images/I/B0CW9JS8HK._AC_SL500_.jpg",
+      "price": "\u20b9699",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CW9JS8HK?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773652239,
       "score": 3,
       "discount": 0
     },
@@ -22,20 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773647174,
+      "timestamp": 1773652226,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773647182,
+      "timestamp": 1773652232,
       "score": 2,
       "discount": 24
     },
@@ -48,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0FYGNJ73S/ref=cm_sw_r_as_gl_api_gl_i_X2PY0YXQBZCRSVBQVZP8?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773647188,
+      "timestamp": 1773652237,
       "score": 1,
       "discount": 0
     },
@@ -61,23 +74,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773647195,
+      "timestamp": 1773652245,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773647183,
+      "timestamp": 1773652234,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773647195
+  "updated": 1773652245
 }
