@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773701181,
+      "timestamp": 1773715917,
       "score": 3,
       "discount": 0
     },
@@ -22,20 +22,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773701189,
+      "timestamp": 1773715924,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773701252,
+      "timestamp": 1773715983,
       "score": 0,
       "discount": 0
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/aw/d/B0B7CPSN2K?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773701249,
+      "timestamp": 1773715979,
       "score": 0,
       "discount": 0
     },
@@ -61,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773701190,
+      "timestamp": 1773715925,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773701252
+  "updated": 1773715983
 }
