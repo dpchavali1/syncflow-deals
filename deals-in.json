@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773932459,
+      "timestamp": 1773940133,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773932468,
+      "timestamp": 1773940142,
       "score": 2,
       "discount": 24
     },
@@ -35,36 +35,62 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773932480,
+      "timestamp": 1773940159,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0B7CPSN2K",
       "title": "Clicktech Retail Private Ltd scam seller",
-      "image": "https://m.media-amazon.com/images/I/618RFfiA8dL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0B7CPSN2K._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/aw/d/B0B7CPSN2K?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773932478,
+      "timestamp": 1773940156,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0CSPNYB42",
+      "title": "MSI GeForce RTX 3050 Ventus 2X 6G OC Graphic Card",
+      "image": "https://m.media-amazon.com/images/I/51QaFKJf3+L._SL1024_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0CSPNYB42?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1773940152,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0DWDQYB87",
+      "title": "LEGO ONE PIECE The Going Merry Pirate Ship",
+      "image": "https://m.media-amazon.com/images/I/B0DWDQYB87._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DWDQYB87?tag=syncflowin-21",
+      "category": "Gifts",
+      "timestamp": 1773940149,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1773932469,
+      "timestamp": 1773940144,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1773932480
+  "updated": 1773940159
 }
