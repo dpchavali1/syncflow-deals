@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774359927,
+      "timestamp": 1774365096,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774359935,
+      "timestamp": 1774365101,
       "score": 2,
       "discount": 24
     },
@@ -35,20 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774359949,
+      "timestamp": 1774365112,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0G8QJGF3M",
       "title": "Which SSD to buy ?",
-      "image": "https://m.media-amazon.com/images/I/51Pjrs3UovL._SL1344_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0G8QJGF3M._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0G8QJGF3M?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1774359944,
+      "timestamp": 1774365107,
       "score": 0,
       "discount": 0
     },
@@ -61,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774359936,
+      "timestamp": 1774365102,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1774359949
+  "updated": 1774365112
 }
