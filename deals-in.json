@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774869251,
+      "timestamp": 1774878934,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774869259,
+      "timestamp": 1774878939,
       "score": 2,
       "discount": 24
     },
@@ -35,23 +35,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774869272,
+      "timestamp": 1774878951,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0G44335NJ",
+      "title": "Everyone should be using something like this in India",
+      "image": "https://preview.redd.it/6pkoq2ixq6sg1.jpeg?width=640&crop=smart&auto=webp&s=fce55f8ec0c8c2348c44afb89c26318d3a9b2af7",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0G44335NJ?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1774878946,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774869261,
+      "timestamp": 1774878940,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1774869272
+  "updated": 1774878951
 }
