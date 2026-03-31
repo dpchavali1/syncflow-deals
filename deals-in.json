@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774948473,
+      "timestamp": 1774955150,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774948479,
+      "timestamp": 1774955155,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774948487,
+      "timestamp": 1774955163,
       "score": 0,
       "discount": 0
     },
@@ -48,20 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0G44335NJ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774948483,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B08GZ6QNTC",
-      "title": "Grab fast ps5 controller for sale",
-      "image": "https://preview.redd.it/kxs3odiwccsg1.jpeg?width=640&crop=smart&auto=webp&s=e70c13b538d674f0cf2459b3aceeab645f16352d",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B08GZ6QNTC/ref=cm_sw_r_as_gl_apa_gl_i_5JFXDR8B9MW36CZ47E3S?tag=syncflowin-21",
-      "category": "Gaming",
-      "timestamp": 1774948483,
+      "timestamp": 1774955160,
       "score": 0,
       "discount": 0
     },
@@ -74,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1774948480,
+      "timestamp": 1774955156,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1774948487
+  "updated": 1774955163
 }
