@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775041764,
+      "timestamp": 1775051899,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775041769,
+      "timestamp": 1775051904,
       "score": 2,
       "discount": 24
     },
@@ -35,20 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775041778,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0FN84VLKL",
-      "title": "CRAZY SCAM! MOUSE EDITION",
-      "image": "https://m.media-amazon.com/images/I/B0FN84VLKL._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/gp/product/B0FN84VLKL/ref=ewc_pr_img_1?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1775041774,
+      "timestamp": 1775051913,
       "score": 0,
       "discount": 0
     },
@@ -61,10 +48,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775041770,
+      "timestamp": 1775051905,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1775041778
+  "updated": 1775051913
 }
