@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775541246,
+      "timestamp": 1775548090,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775541251,
+      "timestamp": 1775548098,
       "score": 2,
       "discount": 24
     },
@@ -35,20 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775541261,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0CXHL2RGY",
-      "title": "Revlon lipstick",
-      "image": "https://preview.redd.it/7otmmic0bmtg1.jpeg?width=640&crop=smart&auto=webp&s=9f108ad9da5d03e5eae34021d97fdcb630778205",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0CXHL2RGY/ref=cm_sw_r_as_gl_apa_gl_i_RFBPGZG01DYQC1GG8F9Z?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1775541255,
+      "timestamp": 1775548109,
       "score": 0,
       "discount": 0
     },
@@ -61,10 +48,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1775541253,
+      "timestamp": 1775548100,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1775541261
+  "updated": 1775548109
 }
