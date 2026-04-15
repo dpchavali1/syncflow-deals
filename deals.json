@@ -1,6 +1,19 @@
 {
   "deals": [
     {
+      "id": "B0C3LC4J4K",
+      "title": "Amazon US, 75% OFF - Digital Tire Pressure Gauge (!)",
+      "image": "https://m.media-amazon.com/images/I/51QePABSaJL._AC_SL1500_.jpg",
+      "price": "$2.98",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0C3LC4J4K?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1776251409,
+      "score": 6,
+      "discount": 75
+    },
+    {
       "id": "B0GKP2GLBV",
       "title": "(Amazon US) 60% off Womens 3\" Athletic Running Shorts $11.99",
       "image": "https://m.media-amazon.com/images/I/B0GKP2GLBV._AC_SL500_.jpg",
@@ -9,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GKP2GLBV?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1776246293,
+      "timestamp": 1776251411,
       "score": 5,
       "discount": 60
     },
@@ -22,9 +35,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B9678Z4L?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246292,
+      "timestamp": 1776251410,
       "score": 5,
       "discount": 68
+    },
+    {
+      "id": "B0FHGWKYCH",
+      "title": "Amazon US, 65% OFF - Bright tactical light (2 Pack)",
+      "image": "https://m.media-amazon.com/images/I/B0FHGWKYCH._AC_SL500_.jpg",
+      "price": "$10.36",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0FHGWKYCH?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1776251405,
+      "score": 5,
+      "discount": 65
     },
     {
       "id": "B08XGHNVFP",
@@ -35,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08XGHNVFP?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1776246389,
+      "timestamp": 1776251483,
       "score": 4,
       "discount": 0
     },
@@ -48,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/eos-Holiday-Peppermint-Cashmere-Moisture/dp/B08KT2Z93D?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1776246371,
+      "timestamp": 1776251474,
       "score": 4,
       "discount": 0
     },
@@ -61,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F93YYT15?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1776246292,
+      "timestamp": 1776251410,
       "score": 4,
       "discount": 30
     },
@@ -74,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09JNL4HG5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246288,
+      "timestamp": 1776251403,
       "score": 4,
       "discount": 55
     },
@@ -87,7 +113,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D59WNGWF?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246377,
+      "timestamp": 1776251477,
       "score": 3,
       "discount": 0
     },
@@ -100,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B07TCMS9NN?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1776246368,
+      "timestamp": 1776251473,
       "score": 3,
       "discount": 0
     },
@@ -113,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DD2JLDX4?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1776246367,
+      "timestamp": 1776251472,
       "score": 3,
       "discount": 0
     },
@@ -126,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D3PVMZB1?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1776246361,
+      "timestamp": 1776251468,
       "score": 3,
       "discount": 0
     },
@@ -139,20 +165,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DK9FT66K?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1776246357,
+      "timestamp": 1776251466,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BYDT7XX",
       "title": "Amazon US - 56% OFF - DEWALT 9-Gallon Wet/Dry Shop Vacuum with 5 HP",
-      "image": "https://m.media-amazon.com/images/I/61FA3Jew8aL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BYDT7XX._AC_SL500_.jpg",
       "price": "$69.98",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07BYDT7XX?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246294,
+      "timestamp": 1776251412,
       "score": 3,
       "discount": 56
     },
@@ -165,9 +191,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GH7VR117?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246291,
+      "timestamp": 1776251409,
       "score": 3,
       "discount": 51
+    },
+    {
+      "id": "B0D47FT8LN",
+      "title": "35% OFF $25.99 \u2013 2 pack of 2500LM Solar and Motion Sensor Outdoor Lights (Daphino)",
+      "image": "https://m.media-amazon.com/images/I/B0D47FT8LN._AC_SL500_.jpg",
+      "price": "$25.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/daphino-Waterproof-Security-Lighting-Pcs/dp/B0D47FT8LN/131-1730945-8978619?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1776251406,
+      "score": 3,
+      "discount": 35
     },
     {
       "id": "B0DF1D5M62",
@@ -178,7 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DF1D5M62?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1776246290,
+      "timestamp": 1776251404,
       "score": 3,
       "discount": 56
     },
@@ -191,48 +230,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/eufy-Super-Thin-Super-Strong-Self-Charging-Medium-Pile/dp/B07R295MLS?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246289,
+      "timestamp": 1776251403,
       "score": 3,
       "discount": 50
-    },
-    {
-      "id": "B0CNBDBCJB",
-      "title": "$5.98* | 8\" Jazwares Hello Kitty and Friends Series 2 Punks Plush (Keroppi) at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20101980.thumb",
-      "price": "$5.98",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CNBDBCJB?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1776246278,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0B4NXGJRQ",
-      "title": "NISHEL Travel Cord Organizer Case (Black or Pink) $8.99 + Free Shipping w/ Prime or on $35+",
-      "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/20116362.thumb",
-      "price": "$8.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0B4NXGJRQ?tag=syncflow-20",
-      "category": "Accessories",
-      "timestamp": 1776246274,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0C4CDZ818",
-      "title": "Hasbro Gaming Taboo Uncensored Board Game for Adults $9.80 + Free Shipping w/ Prime or on $35+",
-      "image": "https://static.slickdealscdn.com/attachment/3/1/7/1/9/9/0/1/300x300/20114199.thumb",
-      "price": "$9.80",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0C4CDZ818?tag=syncflow-20",
-      "category": "Gaming",
-      "timestamp": 1776246268,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0034792GO",
@@ -243,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0034792GO?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246262,
+      "timestamp": 1776251386,
       "score": 3,
       "discount": 0
     },
@@ -256,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B001CFLGYQ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246258,
+      "timestamp": 1776251382,
       "score": 3,
       "discount": 0
     },
@@ -269,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00H2FG8RK?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1776246252,
+      "timestamp": 1776251376,
       "score": 3,
       "discount": 0
     },
@@ -282,20 +282,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BC2MG4GW?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246247,
+      "timestamp": 1776251371,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B06ZYLW8PM",
-      "title": "Select Accounts: 8-Ct 5.7-Oz Knorr Rice Sides (Chicken Flavor Fried Rice) $6 w/ S&S",
-      "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/20112159.thumb",
-      "price": "$6",
+      "id": "B07R5S96P2",
+      "title": "$4.04* | 5-Count 90-Sheet Polardo Pet Hair Lint Rollers at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20117973.thumb",
+      "price": "$4.04",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B06ZYLW8PM?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1776246239,
+      "url": "https://www.amazon.com/dp/B07R5S96P2?tag=syncflow-20",
+      "category": "Beauty",
+      "timestamp": 1776251335,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CZGR24TJ",
+      "title": "$2.50 | Roku Smart Light Bulb at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20118051.thumb",
+      "price": "$2.50",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CZGR24TJ?tag=syncflow-20",
+      "category": "Home",
+      "timestamp": 1776251332,
       "score": 3,
       "discount": 0
     },
@@ -308,7 +321,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00DPZ7X16?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246229,
+      "timestamp": 1776251315,
       "score": 3,
       "discount": 0
     },
@@ -321,7 +334,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D4PKYZZH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246222,
+      "timestamp": 1776251310,
       "score": 3,
       "discount": 0
     },
@@ -334,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CJ1Z9VCB?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246214,
+      "timestamp": 1776251304,
       "score": 3,
       "discount": 0
     },
@@ -347,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B094T2BZCK?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246212,
+      "timestamp": 1776251301,
       "score": 3,
       "discount": 0
     },
@@ -360,20 +373,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00I8GN37A?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246205,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0863M7C1L",
-      "title": "5-Port TP-Link LS1005G Litewave Gigabit Ethernet Switch $9",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20106813.thumb",
-      "price": "$9",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0863M7C1L?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1776246201,
+      "timestamp": 1776251291,
       "score": 3,
       "discount": 0
     },
@@ -386,7 +386,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00DLDH1N2?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1776246380,
+      "timestamp": 1776251479,
       "score": 2,
       "discount": 0
     },
@@ -399,7 +399,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BP7JSVLD?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1776246379,
+      "timestamp": 1776251478,
       "score": 2,
       "discount": 0
     },
@@ -412,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BS2785RL?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1776246371,
+      "timestamp": 1776251474,
       "score": 2,
       "discount": 0
     },
@@ -425,20 +425,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09PTWKX24?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1776246367,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B07L9FS736",
-      "title": "Dream Pairs Kid\u2019s EZ-Ons MagicZips Athletic Sneakers only $17.81!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/03/Boys-sneakers-630x608.jpg",
-      "price": "$17.81",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B07L9FS736?tag=syncflow-20",
-      "category": "Fitness",
-      "timestamp": 1776246361,
+      "timestamp": 1776251472,
       "score": 2,
       "discount": 0
     },
@@ -451,20 +438,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BXKX8HNL?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246360,
+      "timestamp": 1776251468,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B07L9FS736",
+      "title": "Dream Pairs Kid\u2019s EZ-Ons MagicZips Athletic Sneakers only $17.81!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/03/Boys-sneakers-630x608.jpg",
+      "price": "$17.81",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B07L9FS736?tag=syncflow-20",
+      "category": "Fitness",
+      "timestamp": 1776251468,
       "score": 2,
       "discount": 0
     },
     {
       "id": "B0FK2HPNCB",
       "title": "eufy Robot Vacuum E25 at $600",
-      "image": "https://m.media-amazon.com/images/I/B0FK2HPNCB._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61zajwVClHL._AC_SL1500_.jpg",
       "price": "$600",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/eufy-HydroJet-Cleaning-Zero-Tangle-Avoidance/dp/B0FK2HPNCB?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246295,
+      "timestamp": 1776251413,
       "score": 2,
       "discount": 40
     },
@@ -477,7 +477,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B074F1S194?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1776246291,
+      "timestamp": 1776251407,
       "score": 2,
       "discount": 39
     },
@@ -490,7 +490,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Phanteks-PH-F140SK_DRGB_PWM_WT01_3P-SK140-DRGB-3Pack/dp/B09T64GWBM?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246284,
+      "timestamp": 1776251400,
       "score": 2,
       "discount": 0
     },
@@ -503,22 +503,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D38B6XWR?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1776246282,
+      "timestamp": 1776251398,
       "score": 2,
       "discount": 42
-    },
-    {
-      "id": "B0DPPT5S27",
-      "title": "3.4-Oz Lattafa Najdia Intense Fresh, Marine, Woody Eau de Parfum Spray Long-Lasting Fragrance for Men $17.75 + Free SH w/ Prime or on $35+",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/20116281.thumb",
-      "price": "$17.75",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DPPT5S27?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1776246281,
-      "score": 2,
-      "discount": 0
     },
     {
       "id": "B0DD5TF8YG",
@@ -529,20 +516,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DD5TF8YG?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246244,
+      "timestamp": 1776251369,
       "score": 2,
       "discount": 0
     },
     {
-      "id": "B0F941Z9Z4",
-      "title": "Baseus Bass BP1 Pro ANC Wireless Earbuds + 6' 100W USB-C Cable $24 + Free S&H",
-      "image": "https://static.slickdealscdn.com/attachment/2/1/6/8/2/2/0/300x300/20113890.thumb",
-      "price": "$24",
+      "id": "B0C7FBH4QV",
+      "title": "12-Pack 12-Oz Celsius Essential Sparkling Energy Drink (Oasis Vibe) $14.25 w/ S&S + Free Shipping w/ Prime or on orders over $35",
+      "image": "https://static.slickdealscdn.com/attachment/1/4/1/3/2/6/0/300x300/20115699.thumb",
+      "price": "$14.25",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F941Z9Z4?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1776246231,
+      "url": "https://www.amazon.com/gp/product/B0C7FBH4QV?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1776251330,
       "score": 2,
       "discount": 0
     },
@@ -555,7 +542,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BYFXLWQS?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1776246220,
+      "timestamp": 1776251308,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0DSCJ49Y9",
+      "title": "Bitzee Wizarding World Harry Potter Interactive Toy w/ 20 Characters $15.10",
+      "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/20111595.thumb",
+      "price": "$15.10",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DSCJ49Y9?tag=syncflow-20",
+      "category": "Gifts",
+      "timestamp": 1776251271,
       "score": 2,
       "discount": 0
     },
@@ -568,7 +568,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B081DGDNY5?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1776246362,
+      "timestamp": 1776251468,
       "score": 1,
       "discount": 0
     },
@@ -581,7 +581,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BJ74DJXG?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1776246358,
+      "timestamp": 1776251466,
       "score": 1,
       "discount": 0
     },
@@ -594,7 +594,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CB6B2JWG?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1776246292,
+      "timestamp": 1776251410,
       "score": 1,
       "discount": 25
     },
@@ -607,9 +607,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1776246290,
+      "timestamp": 1776251404,
       "score": 1,
       "discount": 20
+    },
+    {
+      "id": "B0CGXYM9TP",
+      "title": "Ray-Ban Meta (Gen 1), Wayfarer at $224",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
+      "price": "$224",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Meta-Ray-Ban-Glasses-Wayfarer-ultra-wide/dp/B0CGXYM9TP?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1776251404,
+      "score": 1,
+      "discount": 25
     },
     {
       "id": "B0FTGJYR1Q",
@@ -620,22 +633,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FTGJYR1Q?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246289,
+      "timestamp": 1776251403,
       "score": 1,
       "discount": 26
-    },
-    {
-      "id": "B01MUD20GN",
-      "title": "$38.39 | 3 \u00d7 20-Pack 0.8-Oz Epic EPIC Smoked Salmon Strips (Maple Strip) ($12.80 each) at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20112675.thumb",
-      "price": "$38.39",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B01MUD20GN?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1776246270,
-      "score": 1,
-      "discount": 0
     },
     {
       "id": "B0BRM3SCS8",
@@ -646,20 +646,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BRM3SCS8?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246249,
+      "timestamp": 1776251374,
       "score": 1,
       "discount": 0
     },
     {
-      "id": "B0B19LCXF2",
-      "title": "6-Qt Velaze Round Enameled Cast Iron Dutch Oven w/ Lid (2 colors) $33 + Free S&H",
-      "image": "https://static.slickdealscdn.com/attachment/9/3/0/4/6/1/9/300x300/20112204.thumb",
-      "price": "$33",
+      "id": "B0DYGL57X5",
+      "title": "32\" Ugly Stik Carbon Ice Spinning Fishing Rod (2-6 lb) $26.20",
+      "image": "https://static.slickdealscdn.com/attachment/2/7/3/8/6/3/8/7/300x300/20114316.thumb",
+      "price": "$26.20",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0B19LCXF2?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0DYGL57X5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246233,
+      "timestamp": 1776251268,
+      "score": 1,
+      "discount": 0
+    },
+    {
+      "id": "B0CJ4N6S6S",
+      "title": "14\" Zinus Elias Metal Platform Bed Frame (Queen) $38.40 + Free S&H",
+      "image": "https://static.slickdealscdn.com/attachment/1/4/8/5/3/3/0/300x300/20111241.thumb",
+      "price": "$38.40",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CJ4N6S6S?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1776251266,
       "score": 1,
       "discount": 0
     },
@@ -672,7 +685,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/NZXT-CC-H61FW-R1-Dual-Chamber-High-Performance-Management/dp/B0C89G9QDK?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1776246284,
+      "timestamp": 1776251400,
       "score": 0,
       "discount": 0
     },
@@ -685,7 +698,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DG3SSGLF?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1776246283,
+      "timestamp": 1776251399,
       "score": 0,
       "discount": 0
     },
@@ -698,7 +711,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F998GTVN?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246283,
+      "timestamp": 1776251399,
       "score": 0,
       "discount": 0
     },
@@ -711,20 +724,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Thermalright-Mjolnir-Vision-360-ARGB/dp/B0FZT4JVXY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246282,
+      "timestamp": 1776251398,
       "score": 0,
       "discount": 0
     },
     {
-      "id": "B0FPLTK6BM",
-      "title": "Pink Floyd Wish You Were Here 50th Anniversary Deluxe Vinyl Edition $143.25 + Free Shipping w/ Prime or on $35+",
-      "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/20112372.thumb",
-      "price": "$143.25",
+      "id": "B0BH7GTY9C",
+      "title": "$134.50 | GIGABYTE B650 AORUS Elite AX AMD AM5 ATX Motherboard at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20096823.thumb",
+      "price": "$134.50",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FPLTK6BM?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0BH7GTY9C?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246264,
+      "timestamp": 1776251360,
       "score": 0,
       "discount": 0
     },
@@ -737,7 +750,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D98WSJ4B?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246225,
+      "timestamp": 1776251312,
       "score": 0,
       "discount": 0
     },
@@ -750,7 +763,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D54STHFZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246207,
+      "timestamp": 1776251299,
       "score": 0,
       "discount": 0
     },
@@ -763,10 +776,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CV5NLPSX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1776246198,
+      "timestamp": 1776251273,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1776246390
+  "updated": 1776251483
 }
