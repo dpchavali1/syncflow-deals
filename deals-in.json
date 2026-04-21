@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776799575,
+      "timestamp": 1776805429,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776799581,
+      "timestamp": 1776805437,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776799592,
+      "timestamp": 1776805448,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0D2R26HFV",
+      "title": "FAKE SAMSUNG PRODUCT FROM OFFICIAL SAMSUNG STORE OF AMAZON (Pictures Attached)",
+      "image": "https://preview.redd.it/0m5kb5gnukwg1.png?width=140&height=65&auto=webp&s=6609dff21f12c3520c95bd3332a53191e40f402c",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/gp/product/B0D2R26HFV?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1776805445,
       "score": 0,
       "discount": 0
     },
@@ -48,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776799582,
+      "timestamp": 1776805438,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1776799592
+  "updated": 1776805448
 }
