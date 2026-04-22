@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776878050,
+      "timestamp": 1776886068,
       "score": 3,
       "discount": 0
     },
@@ -22,20 +22,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776878058,
+      "timestamp": 1776886075,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776878069,
+      "timestamp": 1776886088,
       "score": 0,
       "discount": 0
     },
@@ -48,20 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0D2R26HFV?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776878066,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B09R4RYCJ4",
-      "title": "As temperatures rise in India, the demand for these ACs is also increasing.. ACs are no longer a luxury but are fast becoming a necessity.",
-      "image": "https://preview.redd.it/i6t0risqmrwg1.png?width=320&crop=smart&auto=webp&s=191f7ff5272b8b7bb2dd770b2c6a2fc92bed7176",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B09R4RYCJ4?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1776878063,
+      "timestamp": 1776886084,
       "score": 0,
       "discount": 0
     },
@@ -74,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1776878059,
+      "timestamp": 1776886076,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1776878069
+  "updated": 1776886088
 }
