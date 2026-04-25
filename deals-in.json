@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777136254,
+      "timestamp": 1777144113,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777136261,
+      "timestamp": 1777144121,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777136275,
+      "timestamp": 1777144138,
       "score": 0,
       "discount": 0
     },
@@ -48,33 +48,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GR8SR5YM/ref=psd_bb_lm1_B0GR1JFTPR_B0GR8SR5YM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777136272,
+      "timestamp": 1777144134,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0BTHLGYHZ",
       "title": "Refrigerator deal",
-      "image": "https://m.media-amazon.com/images/I/B0BTHLGYHZ._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61GelOnsPKL._SL1500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0BTHLGYHZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_0KKKN2YCZK8E8PRFJHPE?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777136268,
+      "timestamp": 1777144130,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0GG71YPKB",
       "title": "Blue star ac deal",
-      "image": "https://m.media-amazon.com/images/I/51FIwKWAiuL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0GG71YPKB._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GG71YPKB/ref=cm_sw_r_as_gl_apa_gl_i_Y289KM7PQXEVCTESPBJJ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777136267,
+      "timestamp": 1777144128,
       "score": 0,
       "discount": 0
     },
@@ -87,10 +87,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777136262,
+      "timestamp": 1777144123,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777136275
+  "updated": 1777144138
 }
