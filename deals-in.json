@@ -9,20 +9,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777096589,
+      "timestamp": 1777103021,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777096598,
+      "timestamp": 1777103028,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777096610,
+      "timestamp": 1777103039,
       "score": 0,
       "discount": 0
     },
@@ -48,20 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GR8SR5YM/ref=psd_bb_lm1_B0GR1JFTPR_B0GR8SR5YM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777096607,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0D2R26HFV",
-      "title": "FAKE SAMSUNG PRODUCT FROM OFFICIAL SAMSUNG STORE OF AMAZON (Pictures Attached)",
-      "image": "https://preview.redd.it/0m5kb5gnukwg1.png?width=140&height=65&auto=webp&s=6609dff21f12c3520c95bd3332a53191e40f402c",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/gp/product/B0D2R26HFV?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1777096607,
+      "timestamp": 1777103036,
       "score": 0,
       "discount": 0
     },
@@ -74,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777096599,
+      "timestamp": 1777103029,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777096610
+  "updated": 1777103039
 }
