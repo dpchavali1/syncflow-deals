@@ -3,13 +3,13 @@
     {
       "id": "B0G81Q54Q7",
       "title": "Amazon US - 50% OFF - Men's Polo's / Fleece Joggers / Long Sleeve UV shirts",
-      "image": "https://m.media-amazon.com/images/I/B0G81Q54Q7._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61+xkmarEVL._AC_SL1500_.jpg",
       "price": "$10",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G81Q54Q7?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1777102938,
+      "timestamp": 1777107912,
       "score": 6,
       "discount": 50
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DT7DJQB3?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102928,
+      "timestamp": 1777107902,
       "score": 6,
       "discount": 67
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DL378GDH?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1777102931,
+      "timestamp": 1777107905,
       "score": 5,
       "discount": 60
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BPLB81LX?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1777103011,
+      "timestamp": 1777107984,
       "score": 4,
       "discount": 0
     },
@@ -61,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GJ64D19D?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1777103011,
+      "timestamp": 1777107984,
       "score": 4,
       "discount": 0
     },
@@ -74,7 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07ZQ1RKP8?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1777103007,
+      "timestamp": 1777107980,
       "score": 4,
       "discount": 0
     },
@@ -87,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DTP5G37L?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102932,
+      "timestamp": 1777107906,
       "score": 4,
       "discount": 40
     },
@@ -100,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Adjustable-Cervical-Sleeping-Ergonomic-Orthopedic/dp/B0C1GQ54QD?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102927,
+      "timestamp": 1777107901,
       "score": 4,
       "discount": 33
     },
@@ -113,9 +113,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CJ9BYZHX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102926,
+      "timestamp": 1777107900,
       "score": 4,
       "discount": 35
+    },
+    {
+      "id": "B0DLL2B9K7",
+      "title": "Amazon.com: Battery Pack for Meta Quest 3/3S and 2 (30% off with code 5T8BKCQE)",
+      "image": "https://m.media-amazon.com/images/I/B0DLL2B9K7._AC_SL500_.jpg",
+      "price": "$11.89",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DLL2B9K7?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1777107897,
+      "score": 4,
+      "discount": 30
     },
     {
       "id": "B0DD2JLDX4",
@@ -126,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DD2JLDX4?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777103017,
+      "timestamp": 1777107990,
       "score": 3,
       "discount": 0
     },
@@ -139,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/MRS-MEYERS-CLEAN-DAY-Biodegradable/dp/B07MFMWFYL?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1777103014,
+      "timestamp": 1777107987,
       "score": 3,
       "discount": 0
     },
@@ -152,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F53XVG7M?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1777103012,
+      "timestamp": 1777107985,
       "score": 3,
       "discount": 0
     },
@@ -165,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F1QHNFJP?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1777103010,
+      "timestamp": 1777107983,
       "score": 3,
       "discount": 0
     },
@@ -178,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CCC5WB9L?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1777103002,
+      "timestamp": 1777107976,
       "score": 3,
       "discount": 0
     },
@@ -191,7 +204,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQTCX3BX?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1777102940,
+      "timestamp": 1777107913,
       "score": 3,
       "discount": 52
     },
@@ -204,7 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/soundcore-Cancelling-Headphones-Bluetooth-Transparency/dp/B0C3HCD34R?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102937,
+      "timestamp": 1777107910,
       "score": 3,
       "discount": 43
     },
@@ -217,7 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D2PGL9M8?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1777102936,
+      "timestamp": 1777107909,
       "score": 3,
       "discount": 23
     },
@@ -230,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Outdoor-Tuffenough-Security-Control-Waterproof/dp/B09F3DJNGF/131-1730945-8978619?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102932,
+      "timestamp": 1777107906,
       "score": 3,
       "discount": 33
     },
@@ -243,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Hamilton-Beach-Functions-Dishwasher-58148A/dp/B00EI7DPI0?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102930,
+      "timestamp": 1777107904,
       "score": 3,
       "discount": 39
     },
@@ -256,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09TTWR7M2?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102917,
+      "timestamp": 1777107892,
       "score": 3,
       "discount": 0
     },
@@ -269,7 +282,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DG3W1SGN?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102885,
+      "timestamp": 1777107867,
       "score": 3,
       "discount": 0
     },
@@ -282,46 +295,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F61HDNY6?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1777102882,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B00PLD76Q2",
-      "title": "Select Accts: 1-Oz Happy Baby Organics Greek Yogis Freeze-Dried Snacks $2.35 w/ S&S",
-      "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/20195436.thumb",
-      "price": "$2.35",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B00PLD76Q2?tag=syncflow-20",
-      "category": "Baby",
-      "timestamp": 1777102878,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B00ZQ3I5RQ",
-      "title": "Select Accts: 150-Ct 1000mcg Nature Made Vitamin B12 Gummies (Cherry & Mixed Berry) $5.20 w/ S&S",
-      "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/20147601.thumb",
-      "price": "$5.20",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B00ZQ3I5RQ?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1777102872,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B003U4RS1M",
-      "title": "5-Oz LIQUI MOLY Valve Clean $8",
-      "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/20210718.thumb",
-      "price": "$8",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B003U4RS1M?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1777102870,
+      "timestamp": 1777107865,
       "score": 3,
       "discount": 0
     },
@@ -334,7 +308,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B007JXVR76?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1777102844,
+      "timestamp": 1777107843,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0DV6BJVDM",
+      "title": "adidas Alphaskin Balaclava Ski Mask (Tree Camo Alumina/Grey Six) $8.80",
+      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20198916.thumb",
+      "price": "$8.80",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DV6BJVDM?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1777107837,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B074SJ9XSY",
+      "title": "AstroAI 150PSI Digital Tire Pressure Gauge $2.80",
+      "image": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/300x300/20195595.thumb",
+      "price": "$2.80",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/gp/product/B074SJ9XSY/ref=ox_sc_act_title_1?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1777107835,
       "score": 3,
       "discount": 0
     },
@@ -347,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B01M6779ER?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1777103014,
+      "timestamp": 1777107987,
       "score": 2,
       "discount": 0
     },
@@ -360,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00DLDH1N2?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1777103011,
+      "timestamp": 1777107984,
       "score": 2,
       "discount": 0
     },
@@ -373,7 +373,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FQ5M1RHS?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1777103010,
+      "timestamp": 1777107983,
       "score": 2,
       "discount": 0
     },
@@ -386,7 +386,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F53L5MCG?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777103009,
+      "timestamp": 1777107982,
       "score": 2,
       "discount": 0
     },
@@ -399,7 +399,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102939,
+      "timestamp": 1777107913,
       "score": 2,
       "discount": 31
     },
@@ -412,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Shark-HV322-Headlights-Lightweight-Attachments/dp/B00NGVF4II?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1777102935,
+      "timestamp": 1777107908,
       "score": 2,
       "discount": 30
     },
@@ -425,7 +425,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/REDTIGER-Rangefinder-Magnification-Vibration-Rechargeable/dp/B0BVFP6KXC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102933,
+      "timestamp": 1777107907,
       "score": 2,
       "discount": 42
     },
@@ -438,7 +438,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Upgraded-Automatic-Rotating-Curling-Iron/dp/B0DPZLWX8J?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102929,
+      "timestamp": 1777107903,
       "score": 2,
       "discount": 33
     },
@@ -451,7 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DLNHFY7S/sr_1_5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102917,
+      "timestamp": 1777107892,
       "score": 2,
       "discount": 0
     },
@@ -464,7 +464,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C65DX3SQ?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1777102913,
+      "timestamp": 1777107888,
       "score": 2,
       "discount": 0
     },
@@ -477,7 +477,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B001HA59VC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102908,
+      "timestamp": 1777107882,
       "score": 2,
       "discount": 0
     },
@@ -490,7 +490,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B005JVP2NU?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102906,
+      "timestamp": 1777107880,
       "score": 2,
       "discount": 0
     },
@@ -503,7 +503,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B085GL73ML?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102887,
+      "timestamp": 1777107869,
       "score": 2,
       "discount": 0
     },
@@ -516,7 +516,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/uniball-Jetstream-Roller-Stick-Barrel/dp/B003VNGAKC/ref=sr_1_40?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102887,
+      "timestamp": 1777107869,
       "score": 2,
       "discount": 0
     },
@@ -529,7 +529,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BZR6H6BX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102858,
+      "timestamp": 1777107855,
       "score": 2,
       "discount": 0
     },
@@ -542,7 +542,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FK6N3H12?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102855,
+      "timestamp": 1777107853,
       "score": 2,
       "discount": 0
     },
@@ -555,7 +555,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0BXBXLVS2?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102852,
+      "timestamp": 1777107851,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B00LHSAARW",
+      "title": "Select Accts: 60-Ct Rayovac AA Alkaline Batteries $10.60 w/ S&S",
+      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20201688.thumb",
+      "price": "$10.60",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B00LHSAARW?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1777107832,
       "score": 2,
       "discount": 0
     },
@@ -568,7 +581,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FN838R9P?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1777103004,
+      "timestamp": 1777107977,
       "score": 1,
       "discount": 0
     },
@@ -581,7 +594,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/TurboBlaze-Premium-Ceramic-Coating-90%C2%B0-450%C2%B0F/dp/B0C33CHG99?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102927,
+      "timestamp": 1777107901,
       "score": 1,
       "discount": 25
     },
@@ -594,20 +607,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FFTQ6B37?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1777102911,
-      "score": 1,
-      "discount": 0
-    },
-    {
-      "id": "B0C8VKNJ1B",
-      "title": "Super Mario RPG (Switch) $34.75",
-      "image": "https://static.slickdealscdn.com/attachment/9/4/6/5/6/8/300x300/20210604.thumb",
-      "price": "$34.75",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0C8VKNJ1B/ref=ox_sc_act_title_1?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1777102876,
+      "timestamp": 1777107885,
       "score": 1,
       "discount": 0
     },
@@ -620,7 +620,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLK6K9FV?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102860,
+      "timestamp": 1777107857,
       "score": 1,
       "discount": 0
     },
@@ -633,7 +633,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07SLC2T86?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1777103004,
+      "timestamp": 1777107977,
       "score": 0,
       "discount": 0
     },
@@ -646,7 +646,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1777102984,
+      "timestamp": 1777107958,
       "score": 0,
       "discount": 0
     },
@@ -659,20 +659,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/WYZE-IP65-Rated-Security-Compatible-Assistant/dp/B0BWSPP9HH/131-1730945-8978619?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102934,
+      "timestamp": 1777107907,
       "score": 0,
       "discount": 10
     },
     {
-      "id": "B0CSVLY59P",
-      "title": "PCCooler YN750 PSU w/ 10 Year Warranty (Amazon Coupon YMMV)",
-      "image": "https://m.media-amazon.com/images/I/B0CSVLY59P._AC_SL500_.jpg",
-      "price": "$70",
+      "id": "B0C3M86HCB",
+      "title": "Amazon.com: MSI MAG A750GL PCIE5 Price back down to $56.63 Euro Cord",
+      "image": "https://m.media-amazon.com/images/I/B0C3M86HCB._AC_SL500_.jpg",
+      "price": "$56.63",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B0CSVLY59P?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0C3M86HCB?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102923,
+      "timestamp": 1777107896,
       "score": 0,
       "discount": 0
     },
@@ -685,20 +685,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/INNOCN-Monitor-Mini-LED-Precisely-Adjustable/dp/B0FJ2H6LK4?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102922,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0C3M86HCB",
-      "title": "Amazon.com: MSI MAG A750GL PCIE5 Price back down to $56.63 Euro Cord",
-      "image": "https://m.media-amazon.com/images/I/B0C3M86HCB._AC_SL500_.jpg",
-      "price": "$56.63",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0C3M86HCB?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1777102921,
+      "timestamp": 1777107896,
       "score": 0,
       "discount": 0
     },
@@ -711,7 +698,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09VCJ171S?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102920,
+      "timestamp": 1777107895,
       "score": 0,
       "discount": 0
     },
@@ -724,7 +711,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/DDR4-3200MHz-Gammix-2X8GB-Black/dp/B09JGKV2MG/ref=zg_bs_g_172500_d_sccl_17/146-7496594-5191326?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1777102919,
+      "timestamp": 1777107894,
       "score": 0,
       "discount": 0
     },
@@ -737,20 +724,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GJD9P7VQ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102913,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0FMXXDK67",
-      "title": "34\" CRUA CR340D 3440x1440 165Hz WQHD Ultrawide IPS Monitor $149.60 + Free S&H",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20208267.thumb",
-      "price": "$149.60",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FMXXDK67?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1777102867,
+      "timestamp": 1777107888,
       "score": 0,
       "discount": 0
     },
@@ -763,10 +737,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FS5YJ4L9?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1777102847,
+      "timestamp": 1777107847,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0F3D626BY",
+      "title": "ORICO 40Gbps M.2 NVMe SSD Enclosure w/ Built-in Cooling Fan $52 + Free S&H",
+      "image": "https://static.slickdealscdn.com/attachment/3/3/2/3/5/9/2/4/300x300/20199369.thumb",
+      "price": "$52",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0F3D626BY?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1777107841,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777103017
+  "updated": 1777107991
 }
