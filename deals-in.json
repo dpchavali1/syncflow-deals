@@ -9,33 +9,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777087529,
+      "timestamp": 1777096589,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777087535,
+      "timestamp": 1777096598,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777087545,
+      "timestamp": 1777096610,
       "score": 0,
       "discount": 0
     },
@@ -48,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GR8SR5YM/ref=psd_bb_lm1_B0GR1JFTPR_B0GR8SR5YM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777087543,
+      "timestamp": 1777096607,
       "score": 0,
       "discount": 0
     },
@@ -61,23 +61,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0D2R26HFV?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777087543,
+      "timestamp": 1777096607,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777087537,
+      "timestamp": 1777096599,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777087545
+  "updated": 1777096610
 }
