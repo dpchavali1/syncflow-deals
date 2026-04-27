@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777271967,
+      "timestamp": 1777285650,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777271974,
+      "timestamp": 1777285655,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777271984,
+      "timestamp": 1777285666,
       "score": 0,
       "discount": 0
     },
@@ -48,23 +48,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0GR8SR5YM/ref=psd_bb_lm1_B0GR1JFTPR_B0GR8SR5YM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777271982,
+      "timestamp": 1777285663,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0F2TG23JJ",
+      "title": "AC deals",
+      "image": "https://m.media-amazon.com/images/I/B0F2TG23JJ._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0F2TG23JJ/ref=cm_sw_r_as_gl_apa_gl_i_VDMAX36V0F5153V0D2S5?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1777285660,
       "score": 0,
       "discount": 0
     },
     {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777271975,
+      "timestamp": 1777285656,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777271984
+  "updated": 1777285666
 }
