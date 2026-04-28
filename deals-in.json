@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777358361,
+      "timestamp": 1777371919,
       "score": 3,
       "discount": 0
     },
@@ -22,46 +22,46 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777358366,
+      "timestamp": 1777371923,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777358376,
+      "timestamp": 1777371936,
       "score": 0,
       "discount": 0
     },
     {
-      "id": "B0GR8SR5YM",
-      "title": "Protection plan has another protection plan - AppleCare",
-      "image": "https://preview.redd.it/9s1ab3wl63xg1.png?width=140&height=69&auto=webp&s=bf3d3ad09e3524272e41b739175ec59c334e3596",
+      "id": "B08CY7DQH8",
+      "title": "ASUS TUF Gaming F15 || i5 10th Gen || GTX 1650 ti || 16gb ram || 1TB SSD",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0GR8SR5YM/ref=psd_bb_lm1_B0GR1JFTPR_B0GR8SR5YM?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1777358373,
+      "url": "https://www.amazon.in/ASUS-GeForce-Graphics-Fortress-FX566LI-HN025T/dp/B08CY7DQH8?tag=syncflowin-21",
+      "category": "Gaming",
+      "timestamp": 1777371931,
       "score": 0,
       "discount": 0
     },
     {
-      "id": "B0DZ6B4K8C",
-      "title": "Split ac deal 1.5 ton",
-      "image": "https://m.media-amazon.com/images/I/B0DZ6B4K8C._AC_SL500_.jpg",
+      "id": "B0GP71KXP5",
+      "title": "Hitachi Ac Deal back",
+      "image": "https://m.media-amazon.com/images/I/618fIU0coHL._SL1500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0DZ6B4K8C/ref=cm_sw_r_as_gl_apa_gl_i_XWJYFK8H71A0DGFPADT6?tag=syncflowin-21",
+      "url": "https://www.amazon.in/dp/B0GP71KXP5/ref=cm_sw_r_as_gl_apa_gl_i_dl_4ZGQCTE5PMBCE82NFDQJ?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777358370,
+      "timestamp": 1777371929,
       "score": 0,
       "discount": 0
     },
@@ -74,10 +74,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777358367,
+      "timestamp": 1777371924,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777358376
+  "updated": 1777371936
 }
