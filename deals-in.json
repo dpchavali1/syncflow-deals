@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777371919,
+      "timestamp": 1777398978,
       "score": 3,
       "discount": 0
     },
@@ -22,46 +22,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777371923,
+      "timestamp": 1777398985,
       "score": 2,
       "discount": 24
     },
     {
       "id": "B09V1BTCCM",
       "title": "Custom NAS using rpi 4 advice",
-      "image": "https://m.media-amazon.com/images/I/61WEiW9v2nL._SL1282_.jpg",
+      "image": "https://m.media-amazon.com/images/I/B09V1BTCCM._AC_SL500_.jpg",
       "price": "\u20b9?",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/FEDUS-Ethernet-Gigabit-Internet-Computer/dp/B09V1BTCCM?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777371936,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B08CY7DQH8",
-      "title": "ASUS TUF Gaming F15 || i5 10th Gen || GTX 1650 ti || 16gb ram || 1TB SSD",
-      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=640&crop=smart&auto=webp&s=290ace7209dd3df0a237ec970a6a8b1662d523e1",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/ASUS-GeForce-Graphics-Fortress-FX566LI-HN025T/dp/B08CY7DQH8?tag=syncflowin-21",
-      "category": "Gaming",
-      "timestamp": 1777371931,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0GP71KXP5",
-      "title": "Hitachi Ac Deal back",
-      "image": "https://m.media-amazon.com/images/I/618fIU0coHL._SL1500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0GP71KXP5/ref=cm_sw_r_as_gl_apa_gl_i_dl_4ZGQCTE5PMBCE82NFDQJ?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1777371929,
+      "timestamp": 1777398995,
       "score": 0,
       "discount": 0
     },
@@ -74,10 +48,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777371924,
+      "timestamp": 1777398986,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777371936
+  "updated": 1777398995
 }
