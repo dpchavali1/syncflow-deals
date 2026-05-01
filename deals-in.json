@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777623926,
+      "timestamp": 1777634309,
       "score": 3,
       "discount": 0
     },
@@ -22,22 +22,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777623931,
+      "timestamp": 1777634317,
       "score": 2,
       "discount": 24
-    },
-    {
-      "id": "B07RKVC1HH",
-      "title": "LAKM\u00c9 Double Duty Lip & Cheek Mousse Matte Lipstick at 310",
-      "image": "https://m.media-amazon.com/images/I/B07RKVC1HH._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B07RKVC1HH/ref=cm_sw_r_as_gl_apa_gl_i_QB750NSEBMQA2J10SBHG?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1777623936,
-      "score": 0,
-      "discount": 0
     },
     {
       "id": "B0725RBY9V",
@@ -48,10 +35,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777623932,
+      "timestamp": 1777634318,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777623941
+  "updated": 1777634327
 }
