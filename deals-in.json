@@ -9,35 +9,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777806280,
+      "timestamp": 1777815812,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777806289,
+      "timestamp": 1777815818,
       "score": 2,
       "discount": 24
-    },
-    {
-      "id": "B0GHR4W2DR",
-      "title": "Panasonic 1.5 ton 5 star ac at good discount",
-      "image": "https://m.media-amazon.com/images/I/B0GHR4W2DR._AC_SL500_.jpg",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0GHR4W2DR/ref=cm_sw_r_as_gl_apa_gl_i_NZ3M4X8Y3VT2P3YYZA7Q?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1777806296,
-      "score": 0,
-      "discount": 0
     },
     {
       "id": "B0725RBY9V",
@@ -48,10 +35,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1777806291,
+      "timestamp": 1777815820,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1777806301
+  "updated": 1777815827
 }
