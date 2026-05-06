@@ -1,6 +1,45 @@
 {
   "deals": [
     {
+      "id": "B0764HS4SL",
+      "title": "-50% Limited Time Off on a Best Seller 4-in-1 Vegetable Chopper & Spiralizer (Fullstar) \u2013 $24.99",
+      "image": "https://m.media-amazon.com/images/I/81GZZyozv-L._AC_SL1500_.jpg",
+      "price": "$24.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/B0764HS4SL?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102385,
+      "score": 6,
+      "discount": 50
+    },
+    {
+      "id": "B0F43L9B4S",
+      "title": "Amazon US - 50% OFF - 45L Expandable Water-Resistant Tactical Travel Duffle Bag",
+      "image": "https://m.media-amazon.com/images/I/B0F43L9B4S._AC_SL500_.jpg",
+      "price": "$14.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0F43L9B4S?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102381,
+      "score": 5,
+      "discount": 50
+    },
+    {
+      "id": "B08HV3MPFD",
+      "title": "-38% OFF on a Best Seller Portable Bluetooth Label Maker (Phomemo) \u2013 $17.99",
+      "image": "https://m.media-amazon.com/images/I/51xCw9RKssL._AC_SL1002_.jpg",
+      "price": "$17.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Phomemo-Bluetooth-Smartphone-Organization-Rechargeable/dp/B08HV3MPFD?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102376,
+      "score": 5,
+      "discount": 38
+    },
+    {
       "id": "B0GDX998TJ",
       "title": "Amazon US, 55% OFF - Tactical / Laptop Backpack",
       "image": "https://m.media-amazon.com/images/I/B0GDX998TJ._AC_SL500_.jpg",
@@ -9,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GDX998TJ?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1778097498,
+      "timestamp": 1778102373,
       "score": 5,
       "discount": 55
     },
@@ -22,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07K6B58QH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097490,
+      "timestamp": 1778102362,
       "score": 5,
       "discount": 30
     },
@@ -35,20 +74,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08KT5KYJ1?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1778097633,
+      "timestamp": 1778102514,
       "score": 4,
       "discount": 0
     },
     {
       "id": "B0DYKMH2DD",
       "title": "GE 3-Outlet Extension Cord with Multiple Outlets 12 Ft Extension Cord Power Strip ($5.57/20% Off)",
-      "image": "https://m.media-amazon.com/images/I/B0DYKMH2DD._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71QRUYAND3L._AC_SL1500_.jpg",
       "price": "$5.57",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DYKMH2DD?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097494,
+      "timestamp": 1778102369,
       "score": 4,
       "discount": 20
     },
@@ -61,7 +100,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FJTLQQ8P?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097493,
+      "timestamp": 1778102367,
       "score": 4,
       "discount": 48
     },
@@ -74,9 +113,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F5J1RQBH?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1778097492,
+      "timestamp": 1778102365,
       "score": 4,
       "discount": 43
+    },
+    {
+      "id": "B0FQTCX3BX",
+      "title": "-52% LIMITED TIME OFF on an KOIOS H13 Air Purifier for Large Rooms (1300 ft\u00b2) (KOIOS) \u2013 $51.99",
+      "image": "https://m.media-amazon.com/images/I/B0FQTCX3BX._AC_SL500_.jpg",
+      "price": "$51.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0FQTCX3BX?tag=syncflow-20",
+      "category": "Home",
+      "timestamp": 1778102361,
+      "score": 4,
+      "discount": 52
     },
     {
       "id": "B0F3RJ4942",
@@ -87,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F3RJ4942?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097489,
+      "timestamp": 1778102361,
       "score": 4,
       "discount": 47
     },
@@ -100,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B087JJ3M15?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1778097617,
+      "timestamp": 1778102497,
       "score": 3,
       "discount": 0
     },
@@ -113,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B079FV8QB9?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1778097617,
+      "timestamp": 1778102497,
       "score": 3,
       "discount": 0
     },
@@ -126,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B01BGQ1HMQ?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1778097617,
+      "timestamp": 1778102497,
       "score": 3,
       "discount": 0
     },
@@ -139,7 +191,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CFQ5T5F6?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1778097614,
+      "timestamp": 1778102494,
       "score": 3,
       "discount": 0
     },
@@ -152,7 +204,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09XDYNNPK?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1778097609,
+      "timestamp": 1778102489,
       "score": 3,
       "discount": 0
     },
@@ -165,7 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08BPY986S?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1778097602,
+      "timestamp": 1778102482,
       "score": 3,
       "discount": 0
     },
@@ -178,7 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Sol-Janeiro-Brazilian-Cheirosa-Perfume/dp/B0G72MPSLT?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1778097600,
+      "timestamp": 1778102480,
       "score": 3,
       "discount": 0
     },
@@ -191,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DPQ8BMHM?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1778097598,
+      "timestamp": 1778102478,
       "score": 3,
       "discount": 0
     },
@@ -204,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Multipet-Plush-Dog-Toy-Lambchop/dp/B003XVYKVI?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1778097598,
+      "timestamp": 1778102478,
       "score": 3,
       "discount": 0
     },
@@ -217,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CTGC6DYG?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1778097597,
+      "timestamp": 1778102477,
       "score": 3,
       "discount": 0
     },
@@ -230,22 +282,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G62SH25G?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1778097596,
+      "timestamp": 1778102476,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B0FMYDNG61",
-      "title": "Womens Top Short Sleeve Shirts V Neck Spring Fashion at $13",
-      "image": "https://m.media-amazon.com/images/I/B0FMYDNG61._AC_SL500_.jpg",
-      "price": "$13",
+      "id": "B072YVWBXH",
+      "title": "Aquasonic Black Series Ultra Whitening Toothbrush at $30",
+      "image": "https://m.media-amazon.com/images/I/B072YVWBXH._AC_SL500_.jpg",
+      "price": "$30",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FMYDNG61?tag=syncflow-20",
-      "category": "Accessories",
-      "timestamp": 1778097502,
+      "url": "https://www.amazon.com/AquaSonic-Black-Ultra-Whitening-Toothbrush/dp/B072YVWBXH?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102382,
       "score": 3,
-      "discount": 24
+      "discount": 40
     },
     {
       "id": "B0B9BKQ8S9",
@@ -256,22 +308,35 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/OGHom-Steamer-Handheld-Clothing-Portable/dp/B0B9BKQ8S9?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1778097501,
+      "timestamp": 1778102380,
       "score": 3,
       "discount": 33
     },
     {
       "id": "B0BTQSVR7B",
       "title": "Billie Eilish Eau de Parfum Spray Perfume for Women at $47",
-      "image": "https://m.media-amazon.com/images/I/B0BTQSVR7B._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61XIN-tf-DL._SL1500_.jpg",
       "price": "$47",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.com/Eilish-Parfum-Perfume-Sugared-Vanilla/dp/B0BTQSVR7B?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1778097499,
+      "timestamp": 1778102379,
       "score": 3,
       "discount": 30
+    },
+    {
+      "id": "B0B9TTCVS8",
+      "title": "-33% LIMITED TIME OFF on a Floodlight Camera Pro (2.5K HD, 3000LM, 180\u00b0 View) (WYZE) \u2013 $99.98",
+      "image": "https://m.media-amazon.com/images/I/B0B9TTCVS8._AC_SL500_.jpg",
+      "price": "$99.98",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/WYZE-WYZECFL2-Wyze-Floodlight-Cam/dp/B0B9TTCVS8/131-1730945-8978619?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102374,
+      "score": 3,
+      "discount": 33
     },
     {
       "id": "B0DBLMHFJ8",
@@ -282,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DBLMHFJ8?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097497,
+      "timestamp": 1778102372,
       "score": 3,
       "discount": 35
     },
@@ -295,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/WOLFBOX-Compressed-Duster-110000RPM-Adjustable-Rechargeable/dp/B0GF74ZGDZ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097496,
+      "timestamp": 1778102371,
       "score": 3,
       "discount": 31
     },
@@ -308,7 +373,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G2BWL3GF?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1778097492,
+      "timestamp": 1778102366,
       "score": 3,
       "discount": 31
     },
@@ -321,35 +386,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Shark-Ultra-Light-Cleaning-Steering-HV301/dp/B00DFBDALC?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1778097488,
+      "timestamp": 1778102360,
       "score": 3,
       "discount": 50
-    },
-    {
-      "id": "B0CY1Y3TSQ",
-      "title": "$6.51* | 3-Pk UGREEN 10Gbps USB-C Female to USB 3.0 Male Adapters at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20292222.thumb",
-      "price": "$6.51",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CY1Y3TSQ?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1778097468,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0DK4FDMRM",
-      "title": "10-Packs Nilla Wafers Mini Cookies $2.94 w/ S&S + Free Shipping w/ Prime or on $35+",
-      "image": "https://static.slickdealscdn.com/attachment/1/9/1/2/6/8/2/300x300/20315382.thumb",
-      "price": "$2.94",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DK4FDMRM?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097466,
-      "score": 3,
-      "discount": 0
     },
     {
       "id": "B0FXX1J7NW",
@@ -360,33 +399,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0FXX1J7NW/ref=ox_sc_act_title_1?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1778097450,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CZB74C6Z",
-      "title": "16-Oz Dawn Powerwash Original Dish Spray (Gain Scent) $2.75 w/ S&S",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20311098.thumb",
-      "price": "$2.75",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CZB74C6Z?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097437,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0D2FNSP7G",
-      "title": "20-Pk 7.5-Oz Fanta Orange Soda Fruit Flavored Soft Drink $5.90 w/ S&S",
-      "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/20311902.thumb",
-      "price": "$5.90",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D2FNSP7G?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097434,
+      "timestamp": 1778102345,
       "score": 3,
       "discount": 0
     },
@@ -399,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FSPHXKF2?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1778097432,
+      "timestamp": 1778102321,
       "score": 3,
       "discount": 0
     },
@@ -412,7 +425,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/PATCH-Kids-Individually-Wrapped-Chewy/dp/B004KARTKU?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1778097633,
+      "timestamp": 1778102513,
       "score": 2,
       "discount": 0
     },
@@ -425,7 +438,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07349CKML?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1778097615,
+      "timestamp": 1778102495,
       "score": 2,
       "discount": 0
     },
@@ -438,7 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Sol-Janeiro-Mistica-Travel-Friendly-Fragrance/dp/B0FB8B31Q1?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1778097609,
+      "timestamp": 1778102489,
       "score": 2,
       "discount": 0
     },
@@ -451,7 +464,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DPMTHHW8?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1778097598,
+      "timestamp": 1778102478,
       "score": 2,
       "discount": 0
     },
@@ -464,7 +477,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BXKX8HNL?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1778097597,
+      "timestamp": 1778102477,
       "score": 2,
       "discount": 0
     },
@@ -477,7 +490,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0018CE8LQ/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1778097586,
+      "timestamp": 1778102467,
       "score": 2,
       "discount": 0
     },
@@ -490,7 +503,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01EH5SAIM/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1778097583,
+      "timestamp": 1778102463,
       "score": 2,
       "discount": 0
     },
@@ -503,7 +516,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peacock-Costume-Small-One-Color/dp/B00AUJ2PMW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1778097579,
+      "timestamp": 1778102459,
       "score": 2,
       "discount": 0
     },
@@ -516,7 +529,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SAMSUNG-Odyssey-DisplayHDR-FreeSync-LS49CG950ENXZA/dp/B0DHJBWY52?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1778097498,
+      "timestamp": 1778102374,
       "score": 2,
       "discount": 30
     },
@@ -529,9 +542,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Umite-Chef-Airtight-Stainless-Attachments/dp/B0CGWQ53L3/131-1730945-8978619?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097495,
+      "timestamp": 1778102370,
       "score": 2,
       "discount": 23
+    },
+    {
+      "id": "B0G5WN5L7T",
+      "title": "2-Pack Vacuum Bags for Travel with Usb Electric Pump, space-saving, reusable, IPX8 waterproof and odorless, suitable for suitcases and backpacks - only $50.4",
+      "image": "https://m.media-amazon.com/images/I/714QN4J1uXL._AC_SL1500_.jpg",
+      "price": "$50.4",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1778102365,
+      "score": 2,
+      "discount": 36
     },
     {
       "id": "B0DKHCWJ5G",
@@ -542,22 +568,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DKHCWJ5G?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097491,
+      "timestamp": 1778102363,
       "score": 2,
       "discount": 38
-    },
-    {
-      "id": "B0G5WN5L7T",
-      "title": "2-Pack Vacuum Bags for Travel with Usb Electric Pump, space-saving, reusable, IPX8 waterproof and odorless, suitable for suitcases and backpacks - only $50.4",
-      "image": "https://m.media-amazon.com/images/I/B0G5WN5L7T._AC_SL500_.jpg",
-      "price": "$50.4",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0G5WN5L7T?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1778097491,
-      "score": 2,
-      "discount": 36
     },
     {
       "id": "B0DW43H1JH",
@@ -568,35 +581,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DW43H1JH?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1778097484,
+      "timestamp": 1778102355,
       "score": 2,
       "discount": 31
-    },
-    {
-      "id": "B00ILFLD52",
-      "title": "3.5\" Kershaw Starter Folding Pocket Knife $22.39 + Free Shipping w/ Prime or on $35+",
-      "image": "https://static.slickdealscdn.com/attachment/4/0/4/0/3/4/4/300x300/20300604.thumb",
-      "price": "$22.39",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B00ILFLD52?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097471,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B0F4LSGPRF",
-      "title": "$44.63* | New Balance Men's Fresh Foam 520 v9 Running Shoes at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20310921.thumb",
-      "price": "$44.63",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F4LSGPRF?tag=syncflow-20",
-      "category": "Fitness",
-      "timestamp": 1778097459,
-      "score": 2,
-      "discount": 0
     },
     {
       "id": "B09L48H2QF",
@@ -607,7 +594,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09L48H2QF?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097455,
+      "timestamp": 1778102350,
       "score": 2,
       "discount": 0
     },
@@ -620,7 +607,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CMW64H59?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097453,
+      "timestamp": 1778102348,
       "score": 2,
       "discount": 0
     },
@@ -633,20 +620,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F33XW21Y?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097447,
+      "timestamp": 1778102341,
       "score": 2,
       "discount": 0
     },
     {
-      "id": "B0B39PHCVZ",
-      "title": "8-Pc CRAFTSMAN Bi-Material Slotted & Phillips Screwdriver Set $15",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20271720.thumb",
-      "price": "$15",
+      "id": "B084PTXF7F",
+      "title": "$17.99* | Cold Steel Micro Recon 1 Tanto Point 2\" Blade Folding Knife at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20315568.thumb",
+      "price": "$17.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0B39PHCVZ?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B084PTXF7F?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097439,
+      "timestamp": 1778102332,
       "score": 2,
       "discount": 0
     },
@@ -659,7 +646,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09J2N28SV?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1778097429,
+      "timestamp": 1778102319,
       "score": 2,
       "discount": 0
     },
@@ -672,7 +659,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0GQXDQHQH/ref=ox_sc_act_title_1?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097419,
+      "timestamp": 1778102310,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0F4LSGPRF",
+      "title": "New Balance Men's Fresh Foam 520 v9 Running Shoes (Limited Sizes) from $38.60 + Free S&H",
+      "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/20316780.thumb",
+      "price": "$38.60",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0F4LSGPRF?tag=syncflow-20",
+      "category": "Fitness",
+      "timestamp": 1778102301,
       "score": 2,
       "discount": 0
     },
@@ -685,7 +685,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DXT88ZMV?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1778097597,
+      "timestamp": 1778102477,
       "score": 1,
       "discount": 0
     },
@@ -698,20 +698,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Logitech-G-Artanis-WL-Black/dp/B092CB69Q4/?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1778097484,
-      "score": 1,
-      "discount": 0
-    },
-    {
-      "id": "B0BKMT1YKP",
-      "title": "$49.99* | Flame King 5-Lb Steel Propane Tank w/ Gauge & OPD Valves at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20289837.thumb",
-      "price": "$49.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0BKMT1YKP?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097464,
+      "timestamp": 1778102355,
       "score": 1,
       "discount": 0
     },
@@ -724,7 +711,33 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FM4GYWFF?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1778097596,
+      "timestamp": 1778102476,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B083FBN9BH",
+      "title": "Check Out The Most Popular Amazon Orders!",
+      "image": "https://happydealhappyday.com/wp-content/uploads/2022/08/most-popular-amazon-orders.png",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/SIDIZ-Highly-Adjustable-Ergonomic-TNB500HLDA/dp/B083FBN9BH?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102452,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B07GNYFPWW",
+      "title": "The Lazy & Last Minute Halloween Costumes \u2013 Halloween T-shirts on Amazon",
+      "image": "https://happydealhappyday.com/wp-content/uploads/2020/10/lazy-t-shirt-costume-2-683x1024.png",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Peanuts-Snoopy-Halloween-Costume-T-Shirt/dp/B07GNYFPWW/ref=as_li_ss_tl?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102447,
       "score": 0,
       "discount": 0
     },
@@ -737,7 +750,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1778097564,
+      "timestamp": 1778102445,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B09ZXJDSL5",
+      "title": "Top Amazon Black Friday Deals 2025!!",
+      "image": "https://happydealhappyday.com/wp-content/uploads/2021/11/The-Sweetest-and-Best-Corn-Pudding-Recipe-3-200x300.png",
+      "price": "$?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Introducing-sound-compact-speaker-Lavender/dp/B09ZXJDSL5?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1778102443,
       "score": 0,
       "discount": 0
     },
@@ -750,7 +776,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FLLKBNY7?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1778097500,
+      "timestamp": 1778102379,
       "score": 0,
       "discount": 19
     },
@@ -763,46 +789,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/CORSAIR-4000D-Modular-Airflow-Mid-Tower/dp/B0DPJ9FD5N?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1778097484,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0GSS6F226",
-      "title": "$509 | Apple AirPods Max 2 Wireless Over-Ear Headphones at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20305152.thumb",
-      "price": "$509",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0GSS6F226?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1778097479,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0DW9YYV4Y",
-      "title": "$299.99* | 65\" Insignia QF QLED 4K UHD Smart Fire TV (2025) at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20298468.thumb",
-      "price": "$299.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DW9YYV4Y?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097477,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0F9D321HT",
-      "title": "$549 | FUJIFILM X Half Mirrorless Camera - Charcoal Silver at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20291490.thumb",
-      "price": "$549",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0F9D321HT?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097462,
+      "timestamp": 1778102356,
       "score": 0,
       "discount": 0
     },
@@ -815,20 +802,46 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B00SOU6LR4?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097457,
+      "timestamp": 1778102353,
       "score": 0,
       "discount": 0
     },
     {
-      "id": "B00STHFARY",
-      "title": "Husqvarna Adult 36\" - 38\" Technical Apron Wrap Chainsaw Chaps $79 + Free S&H",
-      "image": "https://static.slickdealscdn.com/attachment/1/3/5/8/6/2/3/300x300/20311488.thumb",
-      "price": "$79",
+      "id": "B0DPLLWPHM",
+      "title": "Canyon Stoic 4 Hardtail Trail Bike: X-Small $969.92, Small $1032.91 + Free Shipping",
+      "image": "https://static.slickdealscdn.com/attachment/2/5/5/9/8/9/2/7/300x300/20311779.thumb",
+      "price": "$969.92",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B00STHFARY?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1778097443,
+      "url": "https://www.amazon.com/gp/product/B0DPLLWPHM/ref=ox_sc_act_title_1?tag=syncflow-20",
+      "category": "Fitness",
+      "timestamp": 1778102338,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0CFZX734J",
+      "title": "DJI Mic 2 (2 TX + 1 RX + Charging Case), Wireless Lavalier Microphone, & More $199",
+      "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/20309682.thumb",
+      "price": "$199",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CFZX734J?tag=syncflow-20",
+      "category": "Accessories",
+      "timestamp": 1778102335,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0CXJCXN17",
+      "title": "DJI Mini 4K Camera Drone Combo w/ 3 Batteries & RC-N1C Controller $309.00 + Free Shipping",
+      "image": "https://static.slickdealscdn.com/attachment/1/5/5/7/3/6/2/300x300/20315871.thumb",
+      "price": "$309.00",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CXJCXN17?tag=syncflow-20",
+      "category": "Gaming",
+      "timestamp": 1778102330,
       "score": 0,
       "discount": 0
     },
@@ -841,7 +854,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0DR1KLHF8/ref=ewc_pr_img_2?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1778097427,
+      "timestamp": 1778102316,
       "score": 0,
       "discount": 0
     },
@@ -854,7 +867,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D4DW6BXC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097423,
+      "timestamp": 1778102313,
       "score": 0,
       "discount": 0
     },
@@ -867,7 +880,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D41YCLW8?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097415,
+      "timestamp": 1778102306,
       "score": 0,
       "discount": 0
     },
@@ -880,7 +893,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09FYTG37V?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1778097412,
+      "timestamp": 1778102304,
       "score": 0,
       "discount": 0
     },
@@ -893,10 +906,23 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DS2B3P2B?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1778097412,
+      "timestamp": 1778102304,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0GQVBT32P",
+      "title": "256GB 13\" iPad Air M4 Chip WiFi Tablet (Various) $790 + Free S&H",
+      "image": "https://static.slickdealscdn.com/attachment/2/5/4/6/2/4/300x300/20298612.thumb",
+      "price": "$790",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/Apple-iPad-Air-13-inch-M4/dp/B0GQVBT32P/ref=sr_1_1?tag=syncflow-20",
+      "category": "Tech",
+      "timestamp": 1778102297,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1778097633
+  "updated": 1778102514
 }
