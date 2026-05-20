@@ -9,22 +9,35 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779250856,
+      "timestamp": 1779270737,
       "score": 3,
       "discount": 0
     },
     {
       "id": "B07BFGGNT9",
       "title": "RDR 2 @ 3,020/-",
-      "image": "https://m.media-amazon.com/images/I/B07BFGGNT9._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81EJUXxITRL._SL1500_.jpg",
       "price": "\u20b93020",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779250861,
+      "timestamp": 1779270742,
       "score": 2,
       "discount": 24
+    },
+    {
+      "id": "B0DK74LG91",
+      "title": "Got 2 TB Expanstion Card for Xbox at 22.8K",
+      "image": "https://external-preview.redd.it/wyRlnnC4nIHWRfWMUIBnHvHMsP98N9mROJtKXbnwKWI.png?width=140&height=73&auto=webp&s=06830d07084accedf77d80719bf9062556073764",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0DK74LG91?tag=syncflowin-21",
+      "category": "Gaming",
+      "timestamp": 1779270746,
+      "score": 0,
+      "discount": 0
     },
     {
       "id": "B0725RBY9V",
@@ -35,10 +48,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779250861,
+      "timestamp": 1779270743,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1779250869
+  "updated": 1779270749
 }
