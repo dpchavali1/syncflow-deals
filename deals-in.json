@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779544661,
+      "timestamp": 1779549111,
       "score": 3,
       "discount": 0
     },
@@ -22,23 +22,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779544667,
+      "timestamp": 1779549115,
       "score": 2,
       "discount": 24
     },
     {
+      "id": "B0D8185XQZ",
+      "title": "Which one of these mouse would you recommend?",
+      "image": "https://preview.redd.it/zh1crotjcw2h1.png?width=140&height=67&auto=webp&s=57adc0929e99cc0dcb07bc040590d71589ed329a",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/gp/product/B0D8185XQZ?tag=syncflowin-21",
+      "category": "Tech",
+      "timestamp": 1779549120,
+      "score": 0,
+      "discount": 0
+    },
+    {
       "id": "B0725RBY9V",
       "title": "Apple 6 @18999 only",
-      "image": "https://m.media-amazon.com/images/I/B0725RBY9V._AC_SL500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71KjfWD+yeL._SL1500_.jpg",
       "price": "\u20b918999",
       "rating": "N/A",
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779544668,
+      "timestamp": 1779549116,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1779544676
+  "updated": 1779549124
 }
