@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779897986,
+      "timestamp": 1779913787,
       "score": 3,
       "discount": 0
     },
@@ -22,22 +22,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779897990,
+      "timestamp": 1779913794,
       "score": 2,
       "discount": 24
-    },
-    {
-      "id": "B0C591721L",
-      "title": "I need help deciding the purchase of GameSir G7 SE from Amazon",
-      "image": "https://preview.redd.it/60o62g10un3h1.png?width=140&height=80&auto=webp&s=fcb404054ffe03052c98773aad5c7f2b8135b2a0",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0C591721L/?tag=syncflowin-21",
-      "category": "Gaming",
-      "timestamp": 1779897995,
-      "score": 0,
-      "discount": 0
     },
     {
       "id": "B0725RBY9V",
@@ -48,10 +35,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1779897991,
+      "timestamp": 1779913795,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1779897998
+  "updated": 1779913804
 }
