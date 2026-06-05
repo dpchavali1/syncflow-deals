@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1780615094,
+      "timestamp": 1780634517,
       "score": 3,
       "discount": 0
     },
@@ -22,9 +22,22 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1780615099,
+      "timestamp": 1780634524,
       "score": 2,
       "discount": 24
+    },
+    {
+      "id": "B01DLOBJZ6",
+      "title": "Charged more than the MRP",
+      "image": "https://preview.redd.it/yieiqyqx145h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=36fb33cf16e5701cc2098f408dbfc74e0f8d84d2",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/Osram-Season-Super-64185ALS-01B-Headlight/dp/B01DLOBJZ6?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1780634532,
+      "score": 0,
+      "discount": 0
     },
     {
       "id": "B0725RBY9V",
@@ -35,10 +48,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1780615100,
+      "timestamp": 1780634526,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1780615107
+  "updated": 1780634534
 }
