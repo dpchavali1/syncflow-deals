@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781047557,
+      "timestamp": 1781065757,
       "score": 3,
       "discount": 0
     },
@@ -22,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781047564,
+      "timestamp": 1781065761,
       "score": 2,
       "discount": 24
     },
@@ -35,7 +35,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/dp/B0F1YPNX2Y?tag=syncflowin-21",
       "category": "Tech",
-      "timestamp": 1781047572,
+      "timestamp": 1781065768,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B096Y3Z7GG",
+      "title": "My first time building PC | Build review",
+      "image": "https://m.media-amazon.com/images/I/B096Y3Z7GG._AC_SL500_.jpg",
+      "price": "\u20b9?",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/gp/product/B096Y3Z7GG?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1781065766,
       "score": 0,
       "discount": 0
     },
@@ -48,10 +61,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781047565,
+      "timestamp": 1781065762,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1781047574
+  "updated": 1781065769
 }
