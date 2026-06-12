@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781240144,
+      "timestamp": 1781260105,
       "score": 3,
       "discount": 0
     },
@@ -22,22 +22,9 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781240150,
+      "timestamp": 1781260109,
       "score": 2,
       "discount": 24
-    },
-    {
-      "id": "B0F1YPNX2Y",
-      "title": "Amazon India delivered a laptop bag instead of a Dell 32-inch monitor. Pickup keeps failing. What are my options now?",
-      "image": "https://preview.redd.it/uzxqsyw0x66h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=83333bde8436c329a769041fff8931d3ff8dbcdc",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/dp/B0F1YPNX2Y?tag=syncflowin-21",
-      "category": "Tech",
-      "timestamp": 1781240163,
-      "score": 0,
-      "discount": 0
     },
     {
       "id": "B0725RBY9V",
@@ -48,10 +35,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781240151,
+      "timestamp": 1781260110,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1781240168
+  "updated": 1781260128
 }
