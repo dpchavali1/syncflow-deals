@@ -9,8 +9,21 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781609419,
+      "timestamp": 1781630216,
       "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0FC2YFSN4",
+      "title": "Boat Airdopes with ANC and 4 mics for 899/-",
+      "image": "https://preview.redd.it/yeh90pwl7h7h1.jpeg?width=320&crop=smart&auto=webp&s=c8b0a2432450dfd9fdf0bd03434fd5b92cbee288",
+      "price": "\u20b9899",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.in/dp/B0FC2YFSN4/ref=cm_sw_r_as_gl_apa_gl_i_dl_RN43T1RKX0AS1T3V17Y7?tag=syncflowin-21",
+      "category": "General",
+      "timestamp": 1781630226,
+      "score": 2,
       "discount": 0
     },
     {
@@ -22,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/Red-Dead-Redemption-2-PS4/dp/B07BFGGNT9/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781609423,
+      "timestamp": 1781630222,
       "score": 2,
       "discount": 24
     },
@@ -35,10 +48,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1781609424,
+      "timestamp": 1781630223,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1781609443
+  "updated": 1781630241
 }
