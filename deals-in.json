@@ -9,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B00LGKVFT8/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1791073915,
+      "timestamp": 1791102125,
       "score": 6,
       "discount": 52
     },
@@ -22,21 +22,8 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/TP-Link-LB100-Wi-Fi-Smart-Off-White/dp/B01N24I6JD/ref=as_li_ss_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1791073907,
+      "timestamp": 1791102117,
       "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "1772944211",
-      "title": "Anyone with their eyes on this artbook?",
-      "image": "https://preview.redd.it/zmx0epb7cath1.png?width=640&crop=smart&auto=webp&s=107c8a00c6ec8286b91f5f18507d4251c0686120",
-      "price": "\u20b9?",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.in/Art-Clair-Obscur-Expedition-33/dp/1772944211?tag=syncflowin-21",
-      "category": "General",
-      "timestamp": 1791073921,
-      "score": 0,
       "discount": 0
     },
     {
@@ -48,10 +35,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.in/gp/product/B0725RBY9V/ref=as_li_tl?tag=syncflowin-21",
       "category": "General",
-      "timestamp": 1791073914,
+      "timestamp": 1791102124,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1791073931
+  "updated": 1791102143
 }
