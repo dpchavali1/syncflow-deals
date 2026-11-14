@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B000CQ01GU",
-      "title": "*HOT* Annie\u2019s Shells & White Cheddar Mac and Cheese (4 count) only $3.60 shipped, plus more!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/10/Annies-Shells-White-Cheddar-Organic-Pasta-and-Real-Cheese-4-ct-.jpg",
-      "price": "$3.60",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B000CQ01GU?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1794636188,
-      "score": 4,
-      "discount": 0
-    },
-    {
       "id": "B07HFKB7D6",
       "title": "Swiss Miss Hot Cocoa Mix Packets (50 count) only $5.68 shipped, plus more!",
       "image": "https://moneysavingmom.com/wp-content/uploads/2023/11/Screenshot-2023-11-01-at-12.22.26-PM.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07HFKB7D6?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636186,
+      "timestamp": 1794668331,
       "score": 4,
       "discount": 0
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GS8G9NH1?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1794636205,
+      "timestamp": 1794668351,
       "score": 3,
       "discount": 0
     },
@@ -48,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0GVYNDRKQ?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1794636199,
+      "timestamp": 1794668344,
       "score": 3,
       "discount": 0
     },
@@ -61,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FMK45G6L?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1794636197,
+      "timestamp": 1794668343,
       "score": 3,
       "discount": 0
     },
@@ -74,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CXD96TDP?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1794636196,
+      "timestamp": 1794668342,
       "score": 3,
       "discount": 0
     },
@@ -87,20 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01BGQ1HMQ?tag=syncflow-20",
       "category": "Fitness",
-      "timestamp": 1794636194,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0HKCHDPQR",
-      "title": "Rechargeable Hand Warmers (2 pack) only $5.99!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2025/02/Hand-Warmers-Rechargeable-1.jpg",
-      "price": "$5.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0HKCHDPQR?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1794636186,
+      "timestamp": 1794668340,
       "score": 3,
       "discount": 0
     },
@@ -113,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Betty-Crocker-Super-Moist-Devils/dp/B0C47PPCKK?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636186,
+      "timestamp": 1794668332,
       "score": 3,
       "discount": 0
     },
@@ -126,7 +100,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F9W3Z852?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1794636185,
+      "timestamp": 1794668331,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0HKCHDPQR",
+      "title": "Rechargeable Hand Warmers (2 pack) only $5.99!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2025/02/Hand-Warmers-Rechargeable-1.jpg",
+      "price": "$5.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0HKCHDPQR?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1794668331,
       "score": 3,
       "discount": 0
     },
@@ -139,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B019G3F2D6?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636184,
+      "timestamp": 1794668329,
       "score": 3,
       "discount": 0
     },
@@ -152,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Fresh-Powdered-sugar-lb/dp/B0D1L323BF?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636183,
+      "timestamp": 1794668328,
       "score": 3,
       "discount": 0
     },
@@ -165,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Brand-Fresh-Bread-Unbleached/dp/B0BJ15HGYR?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636181,
+      "timestamp": 1794668326,
       "score": 3,
       "discount": 0
     },
@@ -178,7 +165,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B07H3NN3LC?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636176,
+      "timestamp": 1794668320,
       "score": 3,
       "discount": 0
     },
@@ -191,7 +178,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/0764237268?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636171,
+      "timestamp": 1794668315,
       "score": 3,
       "discount": 0
     },
@@ -204,34 +191,34 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FGNQGK76?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1794636170,
+      "timestamp": 1794668314,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B0GL8RZFSD",
-      "title": "Girl\u2019s Ballerina Dress Shoes as low as $22.39!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/91XvQvmyKjL._AC_SY625_.jpg",
-      "price": "$22.39",
+      "id": "B0GZVJJ3MN",
+      "title": "Beet Root Capsules - Nitric Oxide Booster for Men and Women, Beetroot Supplements 1000 mg w/ L-Citrulline $9.89",
+      "image": "https://static.slickdealscdn.com/attachment/1/5/3/4/7/0/300x300/22349349.thumb",
+      "price": "$9.89",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0GL8RZFSD?tag=syncflow-20",
-      "category": "Fitness",
-      "timestamp": 1794636186,
-      "score": 2,
+      "url": "https://www.amazon.com/dp/B0GZVJJ3MN?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1794668226,
+      "score": 3,
       "discount": 0
     },
     {
-      "id": "B0HBBCF25D",
-      "title": "Boy\u2019s Winter Snow Boots just $23.99 shipped (Reg. $40!)",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-9.26.49-AM-edited-630x562.png",
-      "price": "$23.99",
+      "id": "B081NJCKJL",
+      "title": "The School for Good and Evil: The Complete 6-Book Collection (Kindle Edition) $5.99",
+      "image": "https://m.media-amazon.com/images/I/B081NJCKJL._AC_SL500_.jpg",
+      "price": "$5.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0HBBCF25D?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B081NJCKJL?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636186,
-      "score": 2,
+      "timestamp": 1794668218,
+      "score": 3,
       "discount": 0
     },
     {
@@ -243,33 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0H2LRVV6L?tag=syncflow-20",
       "category": "Accessories",
-      "timestamp": 1794636186,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B0DF83NVVG",
-      "title": "Matching Family Christmas Pajamas Sets only $12.99 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-9.53.35-AM-630x586.png",
-      "price": "$12.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DF83NVVG?tag=syncflow-20",
-      "category": "Gifts",
-      "timestamp": 1794636185,
-      "score": 2,
-      "discount": 0
-    },
-    {
-      "id": "B0HHJ839DB",
-      "title": "Ultra Thin Rechargeable Hand Warmers (2 Pack) just $11.99 shipped!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-9.46.44-AM-630x576.png",
-      "price": "$11.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0HHJ839DB?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1794636185,
+      "timestamp": 1794668332,
       "score": 2,
       "discount": 0
     },
@@ -282,7 +243,59 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0H4YYQFBK?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636185,
+      "timestamp": 1794668331,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0GL8RZFSD",
+      "title": "Girl\u2019s Ballerina Dress Shoes as low as $22.39!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/91XvQvmyKjL._AC_SY625_.jpg",
+      "price": "$22.39",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0GL8RZFSD?tag=syncflow-20",
+      "category": "Fitness",
+      "timestamp": 1794668331,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0HBBCF25D",
+      "title": "Boy\u2019s Winter Snow Boots just $23.99 shipped (Reg. $40!)",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-9.26.49-AM-edited-630x562.png",
+      "price": "$23.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0HBBCF25D?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1794668331,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0DF83NVVG",
+      "title": "Matching Family Christmas Pajamas Sets only $12.99 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-9.53.35-AM-630x586.png",
+      "price": "$12.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0DF83NVVG?tag=syncflow-20",
+      "category": "Gifts",
+      "timestamp": 1794668330,
+      "score": 2,
+      "discount": 0
+    },
+    {
+      "id": "B0HHJ839DB",
+      "title": "Ultra Thin Rechargeable Hand Warmers (2 Pack) just $11.99 shipped!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-9.46.44-AM-630x576.png",
+      "price": "$11.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0HHJ839DB?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1794668330,
       "score": 2,
       "discount": 0
     },
@@ -295,7 +308,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FCYGXQZS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636183,
+      "timestamp": 1794668328,
       "score": 2,
       "discount": 0
     },
@@ -308,7 +321,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DFH3ZQ1T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1794636183,
+      "timestamp": 1794668328,
       "score": 2,
       "discount": 0
     },
@@ -321,7 +334,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D5LWLN6S?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636181,
+      "timestamp": 1794668325,
       "score": 2,
       "discount": 0
     },
@@ -334,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D4215HCX?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1794636181,
+      "timestamp": 1794668325,
       "score": 2,
       "discount": 0
     },
@@ -347,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0H76FTGKX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636177,
+      "timestamp": 1794668322,
       "score": 2,
       "discount": 0
     },
@@ -360,7 +373,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CM3CF17J?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1794636170,
+      "timestamp": 1794668313,
       "score": 2,
       "discount": 0
     },
@@ -373,7 +386,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FirsTime-Antique-Contour-Wall-Clock/dp/B00NQAKH8Q/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636165,
+      "timestamp": 1794668308,
       "score": 2,
       "discount": 0
     },
@@ -386,7 +399,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0018CE8LQ/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1794636163,
+      "timestamp": 1794668306,
       "score": 2,
       "discount": 0
     },
@@ -399,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01EH5SAIM/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1794636159,
+      "timestamp": 1794668302,
       "score": 2,
       "discount": 0
     },
@@ -412,20 +425,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peacock-Costume-Small-One-Color/dp/B00AUJ2PMW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1794636156,
+      "timestamp": 1794668298,
       "score": 2,
       "discount": 0
     },
     {
-      "id": "B0H8BS4NTL",
-      "title": "WISELIFE 24 Pack Bulk Christmas Gift Bags with Handles, Reusable Non-Woven Tote Bags with 4 Festive Designs $12.50 AC",
-      "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22343958.thumb",
-      "price": "$12.50",
+      "id": "B0B816VMG9",
+      "title": "$11.99* | 2-qt Victoria Cast Iron Saucepan at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22350465.thumb",
+      "price": "$11.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0H8BS4NTL?tag=syncflow-20",
-      "category": "Gifts",
-      "timestamp": 1794636066,
+      "url": "https://www.amazon.com/dp/B0B816VMG9?tag=syncflow-20",
+      "category": "General",
+      "timestamp": 1794668212,
       "score": 2,
       "discount": 0
     },
@@ -438,20 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0HC1GCF71?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636181,
-      "score": 1,
-      "discount": 0
-    },
-    {
-      "id": "B004KEHHNK",
-      "title": "$29.97 | Powerbuilt 1/2-Inch Drive Needle Torque Wrench at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/4/2/8/1/6/300x300/22349667.thumb",
-      "price": "$29.97",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B004KEHHNK?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1794636090,
+      "timestamp": 1794668325,
       "score": 1,
       "discount": 0
     },
@@ -464,7 +464,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Melissa-Doug-Wooden-Scoop-Counter/dp/B01B1V10KA?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1794636183,
+      "timestamp": 1794668328,
       "score": 0,
       "discount": 0
     },
@@ -477,7 +477,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/1668236516?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636176,
+      "timestamp": 1794668321,
       "score": 0,
       "discount": 0
     },
@@ -490,7 +490,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Brand-Original-Cheese-Crackers/dp/B07WRPR4NS?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636170,
+      "timestamp": 1794668313,
       "score": 0,
       "discount": 0
     },
@@ -503,7 +503,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636151,
+      "timestamp": 1794668293,
       "score": 0,
       "discount": 0
     },
@@ -516,7 +516,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SIDIZ-Highly-Adjustable-Ergonomic-TNB500HLDA/dp/B083FBN9BH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636149,
+      "timestamp": 1794668291,
       "score": 0,
       "discount": 0
     },
@@ -529,7 +529,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peanuts-Snoopy-Halloween-Costume-T-Shirt/dp/B07GNYFPWW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636145,
+      "timestamp": 1794668286,
       "score": 0,
       "discount": 0
     },
@@ -542,7 +542,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1794636144,
+      "timestamp": 1794668284,
       "score": 0,
       "discount": 0
     },
@@ -555,7 +555,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Introducing-sound-compact-speaker-Lavender/dp/B09ZXJDSL5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1794636142,
+      "timestamp": 1794668282,
       "score": 0,
       "discount": 0
     },
@@ -568,36 +568,10 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DZZ63JXD?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1794636109,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B09XGXRVXC",
-      "title": "Star Wars The Black Series: Darth Vader Collectible Premium Electronic Helmet $113 + Free S&H",
-      "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22348581.thumb",
-      "price": "$113",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/gp/product/B09XGXRVXC?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1794636056,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0H9RSNF6Z",
-      "title": "Soundcore by Anker Q31i Noise Cancelling Over-Ear Headphones (Various) $65 + Free S&H",
-      "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/22337379.thumb",
-      "price": "$65",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0H9RSNF6Z?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1794636038,
+      "timestamp": 1794668232,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1794636209
+  "updated": 1794668354
 }
