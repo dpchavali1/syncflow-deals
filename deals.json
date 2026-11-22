@@ -1,19 +1,6 @@
 {
   "deals": [
     {
-      "id": "B0FGTXSYRK",
-      "title": "Black Friday Deal + Extra 50% Off Coupon Code! Portable Tire Inflator Air Compressor $16.62",
-      "image": "https://static.slickdealscdn.com/attachment/1/7/4/0/4/0/0/9/300x300/22519056.thumb",
-      "price": "$16.62",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FGTXSYRK?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1795350437,
-      "score": 5,
-      "discount": 50
-    },
-    {
       "id": "B01F36JEXE",
       "title": "*HOT* Makeup Blender 5-Piece Sponge Set only $2.69 shipped {Over 75K Five Star Reviews!}",
       "image": "https://moneysavingmom.com/wp-content/uploads/2024/03/Screenshot-2025-03-25-at-6.50.48\u202fAM-630x551.jpg",
@@ -22,7 +9,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01F36JEXE?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1795350620,
+      "timestamp": 1795380097,
       "score": 4,
       "discount": 0
     },
@@ -35,7 +22,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Natural-Vitality-Anti-Stress-Magnesium-Supplement/dp/B078KJLT6G?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350579,
+      "timestamp": 1795380063,
       "score": 4,
       "discount": 0
     },
@@ -48,7 +35,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Kraft-Original-Flavor-Macaroni-Cheese/dp/B000PXZZQG?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350623,
+      "timestamp": 1795380099,
       "score": 3,
       "discount": 0
     },
@@ -61,7 +48,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/gp/product/B0CB67RWF6?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350621,
+      "timestamp": 1795380098,
       "score": 3,
       "discount": 0
     },
@@ -74,7 +61,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0HM66YP9M?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350617,
+      "timestamp": 1795380094,
       "score": 3,
       "discount": 0
     },
@@ -87,20 +74,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0BTDQLMGV?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350617,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CFLBLPTN",
-      "title": "Mini Karaoke Machine for Kids only $9.99!",
-      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Mini-Karaoke-Machine-for-Kids-630x598.jpg",
-      "price": "$9.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CFLBLPTN?tag=syncflow-20",
-      "category": "Baby",
-      "timestamp": 1795350614,
+      "timestamp": 1795380094,
       "score": 3,
       "discount": 0
     },
@@ -113,7 +87,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Brand-Fresh-Bread-Unbleached/dp/B0BJ15HGYR?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350614,
+      "timestamp": 1795380092,
       "score": 3,
       "discount": 0
     },
@@ -126,7 +100,20 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Fresh-Light-brown-sugar/dp/B0D1LC2WRY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350614,
+      "timestamp": 1795380092,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0CFLBLPTN",
+      "title": "Mini Karaoke Machine for Kids only $9.99!",
+      "image": "https://moneysavingmom.com/wp-content/uploads/2026/11/Mini-Karaoke-Machine-for-Kids-630x598.jpg",
+      "price": "$9.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0CFLBLPTN?tag=syncflow-20",
+      "category": "Baby",
+      "timestamp": 1795380091,
       "score": 3,
       "discount": 0
     },
@@ -139,7 +126,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0DT5187GB?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1795350612,
+      "timestamp": 1795380089,
       "score": 3,
       "discount": 0
     },
@@ -152,7 +139,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Biotin-Vitamins-Collagen-Keratin-Supplement/dp/B09RKDGYJD?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350606,
+      "timestamp": 1795380086,
       "score": 3,
       "discount": 0
     },
@@ -165,7 +152,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0D3YSJ9GP?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350603,
+      "timestamp": 1795380083,
       "score": 3,
       "discount": 0
     },
@@ -178,72 +165,46 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Amazon-Fresh-Condensed-Previously-Packaging/dp/B07T8G3D49?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1795350591,
+      "timestamp": 1795380072,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B002S537TG",
-      "title": "$4.84 or $4.58* | 8-Ct Uni-Ball 207 0.7mm Medium Point Gel Pens (Black) at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22455789.thumb",
-      "price": "$4.84",
+      "id": "B0053163VG",
+      "title": "$5.44: BePuzzled |Marble Hanayama Metal Brainteaser Puzzle Mensa Rated Level 4 at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22522992.thumb",
+      "price": "$5.44",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B002S537TG?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0053163VG?tag=syncflow-20",
+      "category": "Gifts",
+      "timestamp": 1795379957,
+      "score": 3,
+      "discount": 0
+    },
+    {
+      "id": "B0014E82II",
+      "title": "8.45-Oz Finish Jet-Dry Dishwasher Rinse Aid & Drying Agent $2.75 w/ S&S",
+      "image": "https://static.slickdealscdn.com/attachment/2/0/5/3/8/1/8/4/300x300/22435011.thumb",
+      "price": "$2.75",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0014E82II?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350481,
+      "timestamp": 1795379935,
       "score": 3,
       "discount": 0
     },
     {
-      "id": "B00JBIY0MG",
-      "title": "$9.99* | 4-Piece Melissa & Doug Farm Friends Hand Puppets (Cow, Horse, Sheep, & Pig) + 10% Back w/ Prime Visa Card at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22511442.thumb",
-      "price": "$9.99",
+      "id": "B0FMS7PPHV",
+      "title": "124-Pc LEGO Creator 3-in-1 Turtle w/ Water Lily Flower $5.60",
+      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22520943.thumb",
+      "price": "$5.60",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B00JBIY0MG?tag=syncflow-20",
-      "category": "Pets",
-      "timestamp": 1795350475,
-      "score": 3,
-      "discount": 10
-    },
-    {
-      "id": "B0FBZYSJXM",
-      "title": "$24.99* | FINAL FANTASY TACTICS \u2013The Ivalice Chronicles\u2013 Amazon Exclusive Edition (Nintendo Switch) at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22517706.thumb",
-      "price": "$24.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FBZYSJXM?tag=syncflow-20",
-      "category": "Gaming",
-      "timestamp": 1795350473,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0D1XRPQZS",
-      "title": "$6.29 or $5.59* | 0.68-Oz Beetles Blur & Glow Caffeine Under-Eye Cream w/ Retinol at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22518837.thumb",
-      "price": "$6.29",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0D1XRPQZS?tag=syncflow-20",
-      "category": "Beauty",
-      "timestamp": 1795350466,
-      "score": 3,
-      "discount": 0
-    },
-    {
-      "id": "B0CG1SMHKL",
-      "title": "2-Pk Antonki Indoor Thermometer & Hygrometer (Various) $8.45",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/4/9/0/0/1/2/300x300/22515909.thumb",
-      "price": "$8.45",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0CG1SMHKL?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1795350412,
+      "url": "https://www.amazon.com/dp/B0FMS7PPHV?tag=syncflow-20",
+      "category": "Gifts",
+      "timestamp": 1795379933,
       "score": 3,
       "discount": 0
     },
@@ -256,7 +217,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09HSGD74T?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350620,
+      "timestamp": 1795380097,
       "score": 2,
       "discount": 0
     },
@@ -269,7 +230,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0FTLDFHKY?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350617,
+      "timestamp": 1795380094,
       "score": 2,
       "discount": 0
     },
@@ -282,7 +243,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B09S3ZJJRM?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1795350617,
+      "timestamp": 1795380094,
       "score": 2,
       "discount": 0
     },
@@ -295,7 +256,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0C5R836QJ?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1795350617,
+      "timestamp": 1795380094,
       "score": 2,
       "discount": 0
     },
@@ -308,7 +269,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0F8FQ3B36?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350612,
+      "timestamp": 1795380089,
       "score": 2,
       "discount": 0
     },
@@ -321,7 +282,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0B6ZZVGNX?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350596,
+      "timestamp": 1795380078,
       "score": 2,
       "discount": 0
     },
@@ -334,7 +295,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CYM2Y154?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1795350593,
+      "timestamp": 1795380074,
       "score": 2,
       "discount": 0
     },
@@ -347,7 +308,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0CM3CF17J?tag=syncflow-20",
       "category": "Tech",
-      "timestamp": 1795350590,
+      "timestamp": 1795380072,
       "score": 2,
       "discount": 0
     },
@@ -360,7 +321,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/0764237268?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350578,
+      "timestamp": 1795380063,
       "score": 2,
       "discount": 0
     },
@@ -373,7 +334,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/FirsTime-Antique-Contour-Wall-Clock/dp/B00NQAKH8Q/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350572,
+      "timestamp": 1795380056,
       "score": 2,
       "discount": 0
     },
@@ -386,7 +347,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0018CE8LQ/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Pets",
-      "timestamp": 1795350570,
+      "timestamp": 1795380054,
       "score": 2,
       "discount": 0
     },
@@ -399,7 +360,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B01EH5SAIM/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Home",
-      "timestamp": 1795350566,
+      "timestamp": 1795380050,
       "score": 2,
       "discount": 0
     },
@@ -412,21 +373,21 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peacock-Costume-Small-One-Color/dp/B00AUJ2PMW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Baby",
-      "timestamp": 1795350562,
+      "timestamp": 1795380047,
       "score": 2,
       "discount": 0
     },
     {
-      "id": "B0FKV9XH4V",
-      "title": "$15.35 or $12.79* | 3-Pack Philips Sonicare S2 Toothbrush Heads (White) at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22518534.thumb",
-      "price": "$15.35",
+      "id": "B0GY57QM6L",
+      "title": "$49.99: Corsair HS35 v3 Wireless Gaming Headset with Mic \u2013 White/Black at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22487166.thumb",
+      "price": "$49.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FKV9XH4V?tag=syncflow-20",
-      "category": "General",
-      "timestamp": 1795350443,
-      "score": 2,
+      "url": "https://www.amazon.com/dp/B0GY57QM6L?tag=syncflow-20",
+      "category": "Gaming",
+      "timestamp": 1795379975,
+      "score": 1,
       "discount": 0
     },
     {
@@ -438,7 +399,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B08MJZYW8P?tag=syncflow-20",
       "category": "Beauty",
-      "timestamp": 1795350603,
+      "timestamp": 1795380083,
       "score": 0,
       "discount": 0
     },
@@ -451,7 +412,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Czech-Games-00031CGE-Codenames/dp/B014Q1XX9S/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "Gaming",
-      "timestamp": 1795350599,
+      "timestamp": 1795380080,
       "score": 0,
       "discount": 0
     },
@@ -464,7 +425,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/dp/B0G6F1PGGQ?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350586,
+      "timestamp": 1795380069,
       "score": 0,
       "discount": 0
     },
@@ -477,7 +438,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350558,
+      "timestamp": 1795380042,
       "score": 0,
       "discount": 0
     },
@@ -490,7 +451,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/SIDIZ-Highly-Adjustable-Ergonomic-TNB500HLDA/dp/B083FBN9BH?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350555,
+      "timestamp": 1795380040,
       "score": 0,
       "discount": 0
     },
@@ -503,7 +464,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Peanuts-Snoopy-Halloween-Costume-T-Shirt/dp/B07GNYFPWW/ref=as_li_ss_tl?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350550,
+      "timestamp": 1795380034,
       "score": 0,
       "discount": 0
     },
@@ -516,7 +477,7 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Cuddle-Barn-Snowman-Animated-Wonderful/dp/B0958TG22T?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1795350548,
+      "timestamp": 1795380033,
       "score": 0,
       "discount": 0
     },
@@ -529,49 +490,36 @@
       "reviews": "N/A",
       "url": "https://www.amazon.com/Introducing-sound-compact-speaker-Lavender/dp/B09ZXJDSL5?tag=syncflow-20",
       "category": "General",
-      "timestamp": 1795350546,
+      "timestamp": 1795380031,
       "score": 0,
       "discount": 0
     },
     {
-      "id": "B0DJ1BLT51",
-      "title": "1039 Pcs LEGO Star Wars: Ahsoka Chopper (C1-10P) Astromech Droid Set (75416) $55.99 + Free S&H at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22520094.thumb",
-      "price": "$55.99",
+      "id": "B0DGZY13L6",
+      "title": "PRIME: ASUS ROG Delta II Wireless Gaming Headset with Detachable Mic and Tri-Mode (BT 2.4GHz via ROG SpeedNova, 3.5mm) $144.99 + Free Shipping",
+      "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22498386.thumb",
+      "price": "$144.99",
       "rating": "N/A",
       "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0DJ1BLT51?tag=syncflow-20",
+      "url": "https://www.amazon.com/dp/B0DGZY13L6?tag=syncflow-20",
+      "category": "Gaming",
+      "timestamp": 1795379981,
+      "score": 0,
+      "discount": 0
+    },
+    {
+      "id": "B0G2SWKDM8",
+      "title": "2234 Pcs LEGO Mario Kart \u2013 Luigi & Mach 8 (72050) $143.99 + Free S&H at Amazon",
+      "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/22521672.thumb",
+      "price": "$143.99",
+      "rating": "N/A",
+      "reviews": "N/A",
+      "url": "https://www.amazon.com/dp/B0G2SWKDM8?tag=syncflow-20",
       "category": "Gifts",
-      "timestamp": 1795350455,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0GZSST8ZT",
-      "title": "$159.99* | Shark IY143H Cordless Pet Cordless Lightweight Stick Vacuum Cleaner at Amazon",
-      "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22518369.thumb",
-      "price": "$159.99",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0GZSST8ZT?tag=syncflow-20",
-      "category": "Home",
-      "timestamp": 1795350445,
-      "score": 0,
-      "discount": 0
-    },
-    {
-      "id": "B0FQFB8FMG",
-      "title": "Apple AirPods Pro 3 Wireless Earbuds $170 + Free S&H",
-      "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/22519392.thumb",
-      "price": "$170",
-      "rating": "N/A",
-      "reviews": "N/A",
-      "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=syncflow-20",
-      "category": "Tech",
-      "timestamp": 1795350421,
+      "timestamp": 1795379957,
       "score": 0,
       "discount": 0
     }
   ],
-  "updated": 1795350623
+  "updated": 1795380099
 }
